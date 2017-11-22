@@ -173,14 +173,14 @@
 <!--/ End Footer -->
 
 <!-- PreLoader -->
-<div class="loader">
+<!-- <div class="loader">
     <div class="loader-inner">
         <div class="loader-cube"></div>
         <div class="loader-cube"></div>
         <div class="loader-cube"></div>
         <div class="loader-cube"></div>
     </div>
-</div>
+</div> -->
 <!--/ End PreLoader -->
 
 <!-- jQuery JS -->

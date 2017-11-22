@@ -2,34 +2,142 @@
 <?php include '../partials/head.php' ?>
 
     <!-- Hero -->
-    <section id="hero" class="hero hero-top section section-image overlay">
+    <section id="hero" class="hero section-image overlay">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-100" src="../img/shangqu/main1.png" alt="First slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="../img/shangqu/main2.png" alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="../img/shangqu/main3.png" alt="Third slide">
+                </div>
+            </div>
+            
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="fa fa-5x fa-angle-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="fa fa-5x fa-angle-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+        
+    </section>
+   
+ 
+    <section class="section articles">
         <div class="container">
-            <div class="row justify-content-center justify-content-md-start">
-                <div class="col-12 col-md-8 align-self-center">
-                    <div class="hero-content">
-                        <h1>Creative Professional HTML Template</h1>
-                        <p class="lead mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
-                        <a class="btn btn-md btn-rounded btn-simple btn-simple__blue my-5" href="#" role="button">Read More</a>
-                        <a class="btn btn-md btn-shadow btn-rounded btn-simpleFill btn-simpleFill__blue my-5" href="#" role="button">Features</a>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="col">
+                        <!-- Single Blog -->
+                        <div class="single-blog pb-3">
+                            <div class="card box-shadow">
+                                <img class="card-img-top" src="../img/blog/thumbnail/2.jpg" alt="Card image cap">
+                                <div class="single-blog__overlay card-img-overlay">
+                                    <ul class="single-blog__tags listCloud listCloud">
+                                        <li><a href="#">Fashion</a></li>
+                                        <li><a href="#">Travel</a></li>
+                                    </ul>
+                                </div>
+                                <div class="single-blog__body card-body">
+                                    <h3 class="card-title single-blog__title">Creative Article</h3>
+                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <a href="blog-no-sidebar.html" class="btn btn-sm btn-rounded btn-simple btn-simple__blue">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                                </div>
+                                <div class="single-blog__footer card-footer">
+                                    <div class="row">
+                                        <div class="col-9 single-blog__author">
+                                            by <a href="#">Clare McCabe</a>
+                                        </div>
+                                        <div class="col text-right">
+                                            <a href="blog-no-sidebar.html#comments"><i class="fa fa-comment-o"></i> 1</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--/ End Single Blog -->
+                    </div>
+                    <div class="col">
+                        <!-- Single Blog -->
+                        <div class="single-blog pb-3">
+                            <div class="card box-shadow">
+                                <img class="card-img-top" src="../img/blog/thumbnail/2.jpg" alt="Card image cap">
+                                <div class="single-blog__overlay card-img-overlay">
+                                    <ul class="single-blog__tags listCloud listCloud">
+                                        <li><a href="#">Fashion</a></li>
+                                        <li><a href="#">Travel</a></li>
+                                    </ul>
+                                </div>
+                                <div class="single-blog__body card-body">
+                                    <h3 class="card-title single-blog__title">Creative Article</h3>
+                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <a href="blog-no-sidebar.html" class="btn btn-sm btn-rounded btn-simple btn-simple__blue">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                                </div>
+                                <div class="single-blog__footer card-footer">
+                                    <div class="row">
+                                        <div class="col-9 single-blog__author">
+                                            by <a href="#">Clare McCabe</a>
+                                        </div>
+                                        <div class="col text-right">
+                                            <a href="blog-no-sidebar.html#comments"><i class="fa fa-comment-o"></i> 1</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--/ End Single Blog -->
+                    </div>
+                    <div class="col">
+                        <!-- Single Blog -->
+                        <div class="single-blog pb-3">
+                            <div class="card box-shadow">
+                                <img class="card-img-top" src="../img/blog/thumbnail/2.jpg" alt="Card image cap">
+                                <div class="single-blog__overlay card-img-overlay">
+                                    <ul class="single-blog__tags listCloud listCloud">
+                                        <li><a href="#">Fashion</a></li>
+                                        <li><a href="#">Travel</a></li>
+                                    </ul>
+                                </div>
+                                <div class="single-blog__body card-body">
+                                    <h3 class="card-title single-blog__title">Creative Article</h3>
+                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <a href="blog-no-sidebar.html" class="btn btn-sm btn-rounded btn-simple btn-simple__blue">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                                </div>
+                                <div class="single-blog__footer card-footer">
+                                    <div class="row">
+                                        <div class="col-9 single-blog__author">
+                                            by <a href="#">Clare McCabe</a>
+                                        </div>
+                                        <div class="col text-right">
+                                            <a href="blog-no-sidebar.html#comments"><i class="fa fa-comment-o"></i> 1</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--/ End Single Blog -->
                     </div>
                 </div>
             </div>
         </div>
-        <svg xmlns="http://www.w3.org/2000/svg" class="absolute-bottom curve-bottom" viewBox="0 0 1440 68" enable-background="new 0 0 1440 68">
-            <path d="m1622.3 1937.7c0 0-410.7 169.1-913.4 75.5-502.7-93.6-977.7 56.3-977.7 56.3v440h1891.1v-571.8" transform="translate(0-1977)" fill="#ffffff"></path>
-        </svg>
     </section>
-    <!--/ End Hero -->
-
     <!-- About -->
     <section id="about" class="about section" data-spy="scroll">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
-                    <div class="section-title">
-                        <h2 class="text-uppercase mb-3">About <span>Us</span></h2>
-                    </div>
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras elit sem, dignissim vitae arcu ac, ullamcorper tincidunt purus. Suspendisse potenti.</p>
+                    
                 </div>
             </div>
 

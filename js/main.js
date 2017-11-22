@@ -45,9 +45,10 @@ Version:        1.0
     $(window).on('scroll', function() {
         if ($(this).scrollTop() > 60) {
             $('#header').addClass('fixed-top animated fadeInDown').css("position", "fixed");
-        } else {
-            $('#header').removeClass('fixed-top animated fadeInDown').css("position", "");
-        }
+        } 
+        // else {
+        //     $('#header').removeClass('fixed-top animated fadeInDown').css("position", "");
+        // }
     });
 
     /*====================================
@@ -181,17 +182,7 @@ Version:        1.0
             dots: false,
             animateIn: 'fadeIn',
             animateOut: 'fadeOut',
-            responsive: {
-                0: {
-                    items: 1
-                },
-                575: {
-                    items: 2
-                },
-                991: {
-                    items: 3
-                }
-            },
+            items: 1
         });
 
         /*====================================

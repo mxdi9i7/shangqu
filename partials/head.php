@@ -41,7 +41,7 @@
     <!-- Theme Style CSS -->
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/responsive.css">
-
+    <link rel="stylesheet" href="../css/custom.css">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -52,7 +52,7 @@
 
 <body id="home" data-spy="scroll">
     <!-- Start Header -->
-    <header id="header" class="header bg-color">
+    <header id="header" class="header bg-color fixed-top">
         <!-- Header Inner -->
         <div class="header-outter">
             <div class="container">
@@ -60,7 +60,7 @@
                     <div class="col-12 col-md-2 pl-md-0">
                         <!-- Logo -->
                         <div class="navbar-brand header-logo py-1">
-                            <a href="index.html">Orator</a>
+                            <a href="index.html">尚趣</a>
                         </div>
                         <!--/ End Logo -->
                     </div>
@@ -71,31 +71,25 @@
                             <div class="header-nav__main collapse navbar-collapse justify-content-end">
                                 <ul class="nav navbar-nav navAnimateBorder">
                                     <li class="nav-item active">
-                                        <a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
+                                        <a class="nav-link" href="#home">首页 <span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#about">About</a>
+                                        <a class="nav-link" href="#about">关于我们</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#features">Features</a>
+                                        <a class="nav-link" href="#features">美国城市</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#projects">Project</a>
+                                        <a class="nav-link" href="#projects">美国高校</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#team">Team</a>
+                                        <a class="nav-link" href="#team">服务</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#prices">Pricing</a>
+                                        <a class="nav-link" href="#prices">精彩活动</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#testimonial">Testimonial</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#blog">Blog</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#contact">Contact</a>
+                                        <a class="nav-link" href="#testimonial">联系我们</a>
                                     </li>
                                 </ul>
                             </div>
