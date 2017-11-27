@@ -82,7 +82,7 @@
 }
 .cityBox {
     padding: 30px 60px;
-    border-bottom: 1px solid #f5f7fa;
+    border-bottom: 1px solid #dbdbdb;
 }
 .cityBox h1 {
     margin: 20px 0;
@@ -93,4 +93,62 @@
 }
 .cityBox p {
     margin: 20px 0;
+}
+
+.schoolSection {
+    background-color: #f5f7fa;
+}
+.schoolContainer {
+    width: 80%;
+    margin: 0 auto;
+    min-height: 100vh;
+    background-color: #fff;
+}
+.highTopBanner {
+    background-image: url(https://goo.gl/a1zTxV);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    background-position-y: 50%;
+}
+.uniTopBanner {
+    background-image: url(https://goo.gl/p64iZV);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    background-position-y: 50%;
+}
+.schoolBox {
+    padding: 30px 60px;
+    border-bottom: 1px solid #dbdbdb;
+}
+.schoolBox h1 {
+    margin: 20px 0;
+}
+.schoolBox img {
+    width: 80%;
+    height: auto;
+    padding: 15px 0;
+    display: block;
+}
+.schoolBox .row img {
+    width: 100%;
+}
+.schoolBox p {
+    margin: 20px 0;
+}
+.schoolBox .row p {
+    margin: 0;
+    margin-bottom: 15px;
+}
+.schoolBox h4 {
+    text-align: left;
+    font-size: 18px;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 15px;
+}
+.schoolBox ol li{
+    list-style: upper-roman;
 }

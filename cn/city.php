@@ -486,3 +486,26 @@ Shanghai has the largest number of international schools of any city in China. I
     </section>
 
 <?php include '../partials/footer.php' ?>
+<script>
+    (initializeCity = () => {
+  $('#usCityBtn').addClass('active')
+  $('.cnCityTopBanner').hide();
+  $('.cnCityContent').hide();
+  $('.floatingBtn a').click(() => {
+    $('.floatingBtn a').toggleClass('active')
+  })
+  $('#cnCityBtn').click(() => {
+    $('.usCityTopBanner').hide();
+    $('.usCityContent').hide();
+    $('.cnCityTopBanner').fadeIn();
+    $('.cnCityContent').fadeIn();
+  })
+  $('#usCityBtn').click(() => {
+    $('.cnCityTopBanner').hide();
+    $('.cnCityContent').hide();
+    $('.usCityTopBanner').fadeIn();
+    $('.usCityContent').fadeIn();
+  })
+})()
+
+</script>

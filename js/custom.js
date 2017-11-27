@@ -31,6 +31,9 @@
     }   
 })()
 
+
+
+
 initMap = () => {
     if ($('#activeIdentifier').val() === "about") {
          // Create a map object and specify the DOM element for display.
@@ -114,24 +117,3 @@ initMap = () => {
                  });
     }
 }
-
-(initializeCity = () => {
-  $('#usCityBtn').addClass('active')
-  $('.cnCityTopBanner').hide();
-  $('.cnCityContent').hide();
-  $('.floatingBtn a').click(() => {
-    $('.floatingBtn a').toggleClass('active')
-  })
-  $('#cnCityBtn').click(() => {
-    $('.usCityTopBanner').hide();
-    $('.usCityContent').hide();
-    $('.cnCityTopBanner').fadeIn();
-    $('.cnCityContent').fadeIn();
-  })
-  $('#usCityBtn').click(() => {
-    $('.cnCityTopBanner').hide();
-    $('.cnCityContent').hide();
-    $('.usCityTopBanner').fadeIn();
-    $('.usCityContent').fadeIn();
-  })
-})()
