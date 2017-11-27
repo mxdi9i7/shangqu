@@ -1,3 +1,6 @@
+* {
+    font-family: "Microsoft Yahei", sans-serif;
+}
 .hero img {
     max-height: 100vh;
     height: 70vh;

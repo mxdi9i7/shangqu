@@ -1,6 +1,6 @@
 
 <?php include '../partials/head.php' ?>
-
+<input type="text" value="home" type="hidden" id="activeIdentifier">
     <!-- Hero -->
     <section id="hero" class="hero section-image overlay">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -128,6 +128,10 @@
                         </div>
                         <!--/ End Single Blog -->
                     </div>
+                </div>
+                <div class="col-md-8">
+                    <iframe style="width: 100%; min-height:500px" src="https://www.youtube.com/embed/hnyKWxstTYo" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/hnyKWxstTYo" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>

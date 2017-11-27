@@ -70,26 +70,23 @@
                             <div class="header-nav__mobile d-md-none"></div>
                             <div class="header-nav__main collapse navbar-collapse justify-content-end">
                                 <ul class="nav navbar-nav navAnimateBorder">
-                                    <li class="nav-item active">
-                                        <a class="nav-link" href="#home">首页 <span class="sr-only">(current)</span></a>
+                                    <li class="nav-item active" id="homeLink">
+                                        <a class="nav-link"  href="./index.php">首页 <span class="sr-only">(current)</span></a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#about">关于我们</a>
+                                    <li class="nav-item"  id="aboutLink">
+                                        <a class="nav-link" href="./about.php">关于我们</a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#features">美国城市</a>
+                                    <li class="nav-item" id="cityLink">
+                                        <a class="nav-link"  href="./city.php">美国城市</a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#projects">美国高校</a>
+                                    <li class="nav-item" id="schoolLink">
+                                        <a class="nav-link"  href="./school.php">美国高校</a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#team">服务</a>
+                                    <li class="nav-item" id="eventsLink">
+                                        <a class="nav-link"  href="./events.php">精彩活动</a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#prices">精彩活动</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#testimonial">联系我们</a>
+                                    <li class="nav-item" id="contactLink">
+                                        <a class="nav-link"  href="./contact.php">联系我们</a>
                                     </li>
                                 </ul>
                             </div>
