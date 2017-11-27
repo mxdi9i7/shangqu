@@ -19,3 +19,78 @@
     left: 15%;
     z-index: 999;
 }
+.aboutSection {
+    background-color: #f5f7fa;
+}
+.aboutContainer {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.aboutContainer * {
+    text-align: center;
+}
+.aboutBox {
+    background-color: #fff;
+    margin: 20px 0;
+    padding: 10%;
+}
+.aboutBox h1 {
+    font-weight: 100;
+    font-size: 34px;
+    margin: 30px 0 10px 0;
+}
+.aboutBox p {
+    font-weight: 400;
+    font-size: 14px;
+    margin: 15px 0;
+    text-align: left;
+}
+#map {
+    height: 500px;
+    width: 100%;
+    margin: 30px 0;
+}
+.floatingBtn {
+    margin: 20px auto;
+    width: 100%;
+    text-align: center;
+}
+.citySection {
+    background-color: #f5f7fa;
+}
+.cityContainer {
+    width: 80%;
+    margin: 0 auto;
+    min-height: 100vh;
+    background-color: #fff;
+}
+.usCityTopBanner {
+    background-image: url(https://goo.gl/31Q2Bg);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.cnCityTopBanner {
+    background-image: url(https://goo.gl/s2MDDH);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.btn.active {
+    background-color: #29b6f6;
+}
+.cityBox {
+    padding: 30px 60px;
+    border-bottom: 1px solid #f5f7fa;
+}
+.cityBox h1 {
+    margin: 20px 0;
+}
+.cityBox img {
+    width: 100%;
+    height: auto;
+}
+.cityBox p {
+    margin: 20px 0;
+}

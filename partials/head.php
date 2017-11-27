@@ -70,7 +70,7 @@
                             <div class="header-nav__mobile d-md-none"></div>
                             <div class="header-nav__main collapse navbar-collapse justify-content-end">
                                 <ul class="nav navbar-nav navAnimateBorder">
-                                    <li class="nav-item active" id="homeLink">
+                                    <li class="nav-item" id="homeLink">
                                         <a class="nav-link"  href="./index.php">首页 <span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item"  id="aboutLink">

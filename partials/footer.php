@@ -145,6 +145,8 @@
 <!-- Main JS -->
 <script type="text/javascript" src="../js/main.js"></script>
 <script type="text/javascript" src="../js/custom.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDMzTj8HeeIrpLd6EUqv3J7Lyk8A1o_o50&callback=initMap"
+        async defer></script>
 </body>
 
 </html>
