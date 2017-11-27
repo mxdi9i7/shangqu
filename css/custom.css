@@ -152,3 +152,72 @@
 .schoolBox ol li{
     list-style: upper-roman;
 }
+.eventTopContainer  {
+    background-color: #f5f7fa;
+    height: 200px;
+    width: 100%;
+    position: relative;
+    margin-top: 75px;
+}
+.topText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.topText h1 {
+    font-weight: 100;
+}
+.eventArticleContainer {
+    width: 80%;
+    margin: 50px auto;
+}
+.articleBlock {
+    background-size: cover;
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    position: relative;
+    transition: 0.4s;
+    display: block;
+    margin: 15px 0;
+}
+.articleBlock h1 {
+    max-width: inherit;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 100;
+    transition: 0.4s;
+    text-shadow: 1px 1px 20px #333;
+}
+.articleBlock p {
+    position: absolute;
+    top: 370px;
+    left: 10px;
+    transition: 0.4s;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 100;
+}
+.articleBlock span {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 100;
+    text-shadow: 2px 2px 2px #333;
+}
+.articleBlock:hover h1 {
+    bottom: 50px;
+}
+.articleBlock:hover p {
+    top: 320px;
+}
+.articleBlock:hover {
+    filter: brightness(80%);
+    cursor: pointer;
+}
