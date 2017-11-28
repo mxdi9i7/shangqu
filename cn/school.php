@@ -1,5 +1,5 @@
 <?php include '../partials/head.php' ?>
-
+<link rel="stylesheet" href="../css/custom.css">
     <input type="text" value="school" type="hidden" id="activeIdentifier" hidden>
     <section class="schoolSection">
         <section class="schoolContainer">
@@ -13,23 +13,62 @@
                 <a class="btn btn-sm btn-simple btn-simple__blue" id="highBtn">高中游学</a>
                 <a class="btn btn-sm btn-simple btn-simple__blue" id="uniBtn">大学游学</a>
             </div>
+            <div class="floatingLinks">
+                <ul id="highList">
+                    <li>
+                        <a id="caminotab">艾尔卡米诺特许高中</a>
+                    </li>
+                    <li>
+                        <a id="plumtab">宾夕法尼亚州普朗姆学区</a>
+                    </li>
+                    <li>
+                        <a id="martintab">安纳波利斯圣马丁路德学校</a>
+                    </li>
+                    <li>
+                        <a id="birmtab">伯明翰特许学校</a>
+                    </li>
+                </ul>
+                <ul id="uniList">
+                    <li>
+                        <a id="harvardtab">哈佛大学</a>
+                    </li>
+                    <li>
+                        <a id="mittab">麻省理工大学</a>
+                    </li>
+                    <li>
+                        <a id="yaletab">耶鲁大学</a>
+                    </li>
+                    <li>
+                        <a id="caltab">加州州立大学</a>
+                    </li>
+                    <li>
+                        <a id="whartab">沃顿商学院</a>
+                    </li>
+                    <li>
+                        <a id="nyutab">纽约大学</a>
+                    </li>
+                    <li>
+                        <a id="akutab">阿肯色理工大学</a>
+                    </li>
+                </ul>
+            </div>
             <div class="highContent">
-                <div class="schoolBox">
+                <div class="schoolBox camino">
                     <h1>1. 艾尔卡米诺特许高中EL Camino Real Charter High School</h1>
                     <p>
                     大本营学校：美国加利佛尼亚州艾尔卡米诺特许高中EL Camino Real Charter High School
                     <br>
-建校时间：1969年建校 
-<br>
-学校性质：综合性四年制公立高中，由“美国学校和学院西部协会”（WASC）正式鉴定和认可
-<br>
-年级设置：9-12年级
-<br>
-学生人数：3700人
-<br>
-地理位置：位于加利福尼亚州洛杉矶以北20英里
-<br>
-学校荣誉：加利福尼亚杰出学校
+                        建校时间：1969年建校 
+                        <br>
+                        学校性质：综合性四年制公立高中，由“美国学校和学院西部协会”（WASC）正式鉴定和认可
+                        <br>
+                        年级设置：9-12年级
+                        <br>
+                        学生人数：3700人
+                        <br>
+                        地理位置：位于加利福尼亚州洛杉矶以北20英里
+                        <br>
+                        学校荣誉：加利福尼亚杰出学校
 
                     </p>
                     <div class="row">
@@ -112,7 +151,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="schoolBox">
+                <div class="schoolBox plum">
                     <h1>2. 宾夕法尼亚州普朗姆学区 PLUM Schools district</h1>
                     <p>普朗姆学区位于宾夕法尼亚州匹兹堡市区，普朗姆学区被评选为宾州最好的六个学区之一。联邦政府“不让任何孩子掉队” 政策示范学校。</p>
                     <img src="../img/shangqu/high/p1.jpg" alt="">
@@ -122,7 +161,7 @@
                     <img src="../img/shangqu/high/p3.jpg" alt="">
                     <img src="../img/shangqu/high/p4.jpg" alt="">
                 </div>
-                <div class="schoolBox">
+                <div class="schoolBox martin">
                     <h1>3. 安纳波利斯圣马丁路德学校 St. Martin's Lutheran School of Annapolis</h1>
                     <img src="../img/shangqu/high/a1.jpg" alt="">
                     <p> St. Martin's Lutheran School of Annapolis安纳波利斯圣马丁路德学校建校于1963年， 50多年以来，安纳波利斯圣马丁路德学校从托幼机构发展成三岁至八年级的学校，为安纳波利斯社区的孩子提供了优质的教育。</p>
@@ -139,7 +178,7 @@
                     </p>
                     <img src="../img/shangqu/high/a5.jpg" alt="">
                 </div>
-                <div class="schoolBox">
+                <div class="schoolBox birm">
                     <h1>4. 伯明翰特许学校 Birmingham Community Charter High School</h1>
                     <img src="../img/shangqu/high/b1.jpg" alt="">
                     <p>伯明翰特许学校成立于1953年，是美国最大的学区洛杉矶联合学区中排名第四的特许学校，1960年，二战后不少东部或者中西部搬迁到洛杉矶西北部的中产阶级的孩子在这所学校就读。</p>
@@ -167,7 +206,7 @@
                 </div>
             </div>
             <div class="uniContent">
-                <div class="schoolBox">
+                <div class="schoolBox harvard">
                     <h1>1. 哈佛大学Harvard University</h1>
                     <img src="../img/shangqu/uni/h1.png" alt="">
                     <p>
@@ -196,7 +235,7 @@
  <br> 而马克·扎克伯格和比尔·盖茨则是该校久负盛名的辍学生。
                     </p>
                 </div>
-                <div class="schoolBox">
+                <div class="schoolBox mit">
                     <h1>2. 麻省理工大学MIT</h1>
                     <img src="../img/shangqu/uni/m1.jpg" alt="">
                     <p>
@@ -228,7 +267,7 @@
                     </p>
                     <img src="../img/shangqu/uni/m4.jpg" alt="">
                 </div>
-                <div class="schoolBox">
+                <div class="schoolBox yale">
                     <h1>3. 耶鲁大学 Yale University</h1>
                     <img src="../img/shangqu/uni/y1.jpg" alt="">
                     <p>
@@ -250,7 +289,7 @@
                     在耶鲁大学众多的学术精英中，有13位学者曾荣获诺贝尔奖。经济学家嘉林·库普曼斯，著有数理经济理论方面的著作，探讨了经济发挥最佳作用的条件；细胞生物学家乔治·柏拉德，研制成组织制备法，发现了几种细胞结构；化学家拉斯·昂萨格，提出了不可逆化学过程理论；物理学家默里·盖尔曼，完整地提出了关于亚原 子粒子的理论知识；作家辛克莱·刘易斯，重要作品有《大街》、《巴比特》、《阿罗史密斯》、《埃尔默·甘特里》等；微生物学家约翰·恩德斯，成功地在非神 经组织的培养物上培养脊髓灰质炎病毒；物理学家欧内斯特·劳伦斯，发明了第一台高能粒子加速器枣回旋加速器；生理学家迪金森·理查兹，改进并使用心导管技 术；遗传学家乔舒亚·莱德伯格，发现了细菌遗传物质的组织和重组机制；生物化学家爱德华·塔特姆，研究出遗传突变影响了某些细菌、酵母和霉菌的营养要求方 式；物理学家小威利斯·兰姆，通过实验使量子电动力学更为准确；微生物学家马克斯·泰累尔，对黄热病的成功研究；生物学家悉尼·奥尔特曼，证明核糖酸能对细胞的化学反应起催化作用。
                     </p>
                 </div>
-                <div class="schoolBox">
+                <div class="schoolBox cal">
                     <h1>4.加州州立大学 CSU</h1>
                     <p>
                     加利福尼亚州立大学(简称：加州州立大学，英文：California State University，缩写CSU或Cal State)是美国加州的一个公立大学系统。它是组成加州公立高等教育体系的三个大学系统之一，另外两部分分别是加利福尼亚大学系统（UC系统，10个校区）和加州社区大学系统（123所）。加州州立大学是全美规模最大的公立大学。
@@ -266,7 +305,7 @@
                     </p>
                     <img src="../img/shangqu/uni/c3.jpg" alt="">
                 </div>
-                <div class="schoolBox">
+                <div class="schoolBox whar">
                     <h1>5. 沃顿商学院 Wharton </h1>
                     <p>
                     宾夕法尼亚大学沃顿商学院位于费城，是世界最著名的商学院之一。沃顿商学院创立于1881年，是美国第一所大学商学院。学校的使命就是通过总结培养领导人才来促进世界的发展。
@@ -321,7 +360,7 @@
 
                     </p>
                 </div>
-                <div class="schoolBox">
+                <div class="schoolBox nyu">
                     <h2>6. 纽约大学NYU</h2>
                     <p>
                     纽约大学（New York University）简称“NYU”，是一所位于纽约的世界著名私立综合性研究型大学，成立于1831年。纽约大学由18个学院和研究所组成，已经成为全美国境内规模最大的私立非营利高等教育机构之一，同时也是美国唯一一座位于纽约心脏地带的私立名校
@@ -342,7 +381,7 @@
                     </p>
                     <img src="../img/shangqu/uni/n2.jpg" alt="">
                 </div>
-                <div class="schoolBox">
+                <div class="schoolBox aku">
                     <h1>7. 阿肯色理工大学 ATU</h1>
                     <p>
                     美国阿肯色理工大学位于美国阿肯色州，建立于1909年，是美国著名的百年公立大学，连续多年被评为美国区域性最优良大学。阿肯色理工大学校风严谨，培养了美国各界无数英才，该校教授大多出自美国名校。阿肯色理工大学现有25个科系，颁发60多个学士、硕士学位。目前在校学生6000余人。
@@ -409,25 +448,94 @@ NCA (美国教育部区域性认可联盟/North Central Association of Colleges 
 <?php include '../partials/footer.php' ?>
 
 <script>
-    (initializeSchool = () => {
-  $('#highBtn').addClass('active')
-  console.log('active')
-  $('.uniTopBanner').hide();
-  $('.uniContent').hide();
-  $('.floatingBtn a').click(() => {
-    $('.floatingBtn a').toggleClass('active')
-  })
-  $('#uniBtn').click(() => {
-    $('.highTopBanner').hide();
-    $('.highContent').hide();
-    $('.uniTopBanner').fadeIn();
-    $('.uniContent').fadeIn();
-  })
-  $('#highBtn').click(() => {
-    $('.uniTopBanner').hide();
-    $('.uniContent').hide();
-    $('.highTopBanner').fadeIn();
-    $('.highContent').fadeIn();
-  })
-})()
+     $('#highBtn').addClass('active')
+     $('.uniTopBanner').hide();
+     $('.uniContent').hide();
+     $('#uniBtn').click(() => {
+         $('#highList').hide()
+         $('#uniList').fadeIn()
+         $('#highBtn').removeClass('active');
+         $('#uniBtn').addClass('active');
+         $('.highTopBanner').hide();
+         $('.highContent').hide();
+         $('.uniTopBanner').fadeIn();
+         $('.uniContent').fadeIn();
+     })
+     $('#highBtn').click(() => {
+         $('#highList').fadeIn()
+         $('#uniList').hide()
+         $('#highBtn').addClass('active');
+         $('#uniBtn').removeClass('active');
+         $('.uniTopBanner').hide();
+         $('.uniContent').hide();
+         $('.highTopBanner').fadeIn();
+         $('.highContent').fadeIn();
+     })
+    $('#caminotab').click(() => {
+        console.log('camino')
+        $('#highList a').removeClass('active');
+        $('#caminotab').addClass('active');
+        $('.schoolBox').hide()
+        $('.camino').fadeIn()
+      })
+      $('#plumtab').click(() => {
+        $('#highList a').removeClass('active');
+        $('#plumtab').addClass('active');
+        $('.schoolBox').hide()
+        $('.plum').fadeIn()
+      })
+      $('#martintab').click(() => {
+        $('#highList a').removeClass('active');
+        $('#martintab').addClass('active');
+        $('.schoolBox').hide()
+        $('.martin').fadeIn()
+      })
+      $('#birmtab').click(() => {
+        $('#highList a').removeClass('active');
+        $('#birmtab').addClass('active');
+        $('.schoolBox').hide()
+        $('.birm').fadeIn()
+      })
+      $('#harvardtab').click(() => {
+        $('#uniList a').removeClass('active');
+        $('#harvardtab').addClass('active');
+        $('.schoolBox').hide()
+        $('.harvard').fadeIn()
+      })
+      $('#mittab').click(() => {
+        $('#uniList a').removeClass('active');
+        $('#mittab').addClass('active');
+        $('.schoolBox').hide()
+        $('.mit').fadeIn()
+      })
+      $('#yaletab').click(() => {
+        $('#uniList a').removeClass('active');
+        $('#yaletab').addClass('active');
+        $('.schoolBox').hide()
+        $('.yale').fadeIn()
+      })
+      $('#caltab').click(() => {
+        $('#uniList a').removeClass('active');
+        $('#caltab').addClass('active');
+        $('.schoolBox').hide()
+        $('.cal').fadeIn()
+      })
+      $('#whartab').click(() => {
+        $('#uniList a').removeClass('active');
+        $('#whartab').addClass('active');
+        $('.schoolBox').hide()
+        $('.whar').fadeIn()
+      })
+      $('#nyutab').click(() => {
+        $('#uniList a').removeClass('active');
+        $('#nyutab').addClass('active');
+        $('.schoolBox').hide()
+        $('.nyu').fadeIn()
+      })
+      $('#akutab').click(() => {
+        $('#uniList a').removeClass('active');
+        $('#akutab').addClass('active');
+        $('.schoolBox').hide()
+        $('.aku').fadeIn()
+      })
 </script>

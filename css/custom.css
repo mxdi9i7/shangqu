@@ -338,3 +338,42 @@
     font-weight: 900;
     text-decoration: underline;
 }
+
+#highList {
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+}
+#highList li {
+    display: inline;
+    margin:  0 10px;
+    text-align: center;
+}
+#highList li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+#highList li a.active {
+    color: #000;
+    font-weight: 900;
+    text-decoration: underline;
+}
+#uniList {
+    text-align: center;
+    margin: 0 auto;
+    display: none;
+}
+#uniList li {
+    display: inline;
+    margin:  0 10px;
+    text-align: center;
+}
+#uniList li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+#uniList li a.active {
+    color: #000;
+    font-weight: 900;
+    text-decoration: underline;
+}
