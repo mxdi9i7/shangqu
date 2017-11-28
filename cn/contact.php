@@ -1,49 +1,43 @@
 <?php include '../partials/head.php' ?>
 
-    <input type="text" value="contact" type="hidden" id="activeIdentifier">
+    <input type="text" value="contact" type="hidden" id="activeIdentifier" hidden>
  <!-- Contact -->
- <section id="contact" class="contact section section-image" data-spy="scroll">
-    <div class="container">
+ <section class="contactSection">
+    <div class="contactTopContainer">
+        <div class="topText">
+            <h1>联系我们</h1>
+        </div>
+    </div>
+    <div class="contactContent">
+        <h2>咨询事宜</h2>
         <div class="row">
-            <div class="col-12 col-md-6">
-                <!-- Contact Form -->
-                <div class="section-title">
-                    <h2 class="contact-form__title">Ask a Question</h2>
-                </div>
+            <div class="col-md-12">
                 <form>
                     <div class="form-group row">
-                        <input class="col form-control form-control-lg" type="text" name="name" placeholder="Your Name">
-                        <input class="col form-control form-control-lg ml-2" type="email" name="email" placeholder="Your Email">
+                        <input class="col form-control form-control-lg" type="text" name="name" placeholder="你的名字">
+                        <input class="col form-control form-control-lg ml-2" type="email" name="email" placeholder="你的邮箱">
                     </div>
                     <div class="form-group row">
-                        <textarea class="col form-control form-control-lg" required name="message" placeholder="Your Message"></textarea>
+                        <textarea class="col form-control form-control-lg" required name="message" placeholder="你的问题"></textarea>
                     </div>
-                    <div class="form-group row">
-                        <button type="submit" class="btn btn-shadow btn-md btn-simple btn-simple__blue">Submit</button>
-                    </div>
+                    <button type="submit" class="btn btn-shadow btn-md btn-simple btn-simple__blue">提交</button>
                 </form>
-                <!--/ End Contact Form -->
             </div>
-            <div class="col-12 col-md-6 col-lg-4 ml-lg-auto">
-                <!-- Contact Address -->
-                <div class="section-title">
-                    <h2 class="contact-address__title">Our Contacts</h2>
-                </div>
-                <div class="contact-address__info">
-                    <div class="contact-address__info1 mb-3">
+            <div class="col-md-12 contactInfo">
+                <div class="row">
+                    <div class="col-md-4">
                         <h6 class="text-uppercase">Address</h6>
-                        <span>657 Bedford Park Blvd W,<br>Bronx<br>New York, NY, ZXX68</span>
+                        <span>136-85 Roosevelt Ave. Flushing, N.Y. 11355</span>
                     </div>
-                    <div class="contact-address__info2 mb-3">
+                    <div class="col-md-4">
                         <h6 class="text-uppercase">Phone</h6>
                         <span>+1 646 XX5-29DF</span>
                     </div>
-                    <div class="contact-address__info3 mb-3">
+                    <div class="col-md-4">
                         <h6 class="text-uppercase">Email</h6>
                         <span><a href="mailto:qdonow@gmail.com">qdonow@gmail.com</a></span>
                     </div>
                 </div>
-                <!--/ End Contact Address -->
             </div>
         </div>
     </div>

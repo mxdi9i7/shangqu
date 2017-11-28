@@ -77,13 +77,19 @@
                                         <a class="nav-link" href="./about.php">关于我们</a>
                                     </li>
                                     <li class="nav-item" id="cityLink">
-                                        <a class="nav-link"  href="./city.php">美国城市</a>
+                                        <a class="nav-link"  href="./city.php">中美合作城市介绍</a>
                                     </li>
                                     <li class="nav-item" id="schoolLink">
-                                        <a class="nav-link"  href="./school.php">美国高校</a>
+                                        <a class="nav-link"  href="./school.php">赴美游学</a>
                                     </li>
                                     <li class="nav-item" id="eventsLink">
                                         <a class="nav-link"  href="./events.php">精彩活动</a>
+                                    </li>
+                                    <li class="nav-item" id="jobLink">
+                                        <a class="nav-link"  href="./jobs.php">招聘</a>
+                                    </li>
+                                    <li class="nav-item" id="newsLink">
+                                        <a class="nav-link"  href="./news.php">新闻发布</a>
                                     </li>
                                     <li class="nav-item" id="contactLink">
                                         <a class="nav-link"  href="./contact.php">联系我们</a>

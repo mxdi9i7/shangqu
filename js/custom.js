@@ -28,6 +28,14 @@
             $('.nav-item').removeClass('active');
             $('#contactLink').addClass('active');
             break;
+        case "jobs":
+            $('.nav-item').removeClass('active');
+            $('#jobLink').addClass('active');
+            break;
+        case "news":
+            $('.nav-item').removeClass('active');
+            $('#newsLink').addClass('active');
+            break;
     }   
 })()
 

@@ -40,6 +40,11 @@
     font-size: 34px;
     margin: 30px 0 10px 0;
 }
+.aboutBox h2 {
+    font-weight: 100;
+    font-size: 28px;
+    margin: 30px 0 10px 0;
+}
 .aboutBox p {
     font-weight: 400;
     font-size: 14px;
@@ -220,4 +225,80 @@
 .articleBlock:hover {
     filter: brightness(80%);
     cursor: pointer;
+}
+.newsSection {
+    background-color: #fff;
+    min-height: 100vh;
+}
+.newsTopContainer {
+    background-color: #f5f7fa;
+    height: 200px;
+    width: 100%;
+    position: relative;
+    margin-top: 75px;
+}
+.jobsSection {
+    background-color: #fff;
+    min-height: 100vh;
+}
+.jobsTopContainer {
+    background-color: #f5f7fa;
+    height: 200px;
+    width: 100%;
+    position: relative;
+    margin-top: 75px;
+}
+.jobsBox {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #f5f5f5;
+    padding: 10%;
+    text-align: center;
+}
+.newsContent {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #f5f5f5;
+    padding: 10%;
+    text-align: center;
+}
+.newsContent h2 {
+    margin-bottom: 40px;
+    font-weight: 400;
+}
+.newsContent img {
+    width: 100%;
+     height: auto;
+     margin: 20px 0;
+}
+.contactTopContainer {
+    background-color: #f5f7fa;
+    height: 200px;
+    width: 100%;
+    position: relative;
+    margin-top: 75px;
+}
+.contactContent h2 {
+    font-weight: 100;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.contactContent {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #f5f5f5;
+    padding: 10%;
+}
+.contactContent .btn {
+    margin: 0 auto;
+    display: block;
+}
+.contactInfo {
+    margin-top: 40px;
+    text-align: center;
+}
+.contactInfo h6 {
+    font-weight: 100;
+    font-size: 18px;
+    margin: 20px;
 }
