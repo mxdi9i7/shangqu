@@ -302,3 +302,39 @@
     font-size: 18px;
     margin: 20px;
 }
+#usList {
+    width: 99%;
+    text-align: center;
+    margin: 0 auto;
+}
+#usList li {
+    display: inline;
+    margin:  0 10px;
+}
+#usList li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+#usList li a.active {
+    color: #000;
+    font-weight: 900;
+    text-decoration: underline;
+}
+#cnList {
+    width: 99%;
+    text-align: center;
+    margin: 0 auto;
+}
+#cnList li {
+    display: inline;
+    margin:  0 10px;
+}
+#cnList li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+#cnList li a.active {
+    color: #000;
+    font-weight: 900;
+    text-decoration: underline;
+}

@@ -1,4 +1,88 @@
 
+(handleCityTab = () => {
+  $('#nytab').click(() => {
+    $('#usList a').removeClass('active');
+    $('#nytab').addClass('active');
+    $('.cityBox').hide()
+    $('.ny').fadeIn()
+  })
+  $('#dctab').click(() => {
+    $('#usList a').removeClass('active');
+    $('#dctab').addClass('active');
+    $('.cityBox').hide()
+    $('.dc').fadeIn()
+  })
+  $('#matab').click(() => {
+    $('#usList a').removeClass('active');
+    $('#matab').addClass('active');
+    $('.cityBox').hide()
+    $('.ma').fadeIn()
+  })
+  $('#petab').click(() => {
+    $('#usList a').removeClass('active');
+    $('#petab').addClass('active');
+    $('.cityBox').hide()
+    $('.pe').fadeIn()
+  })
+  $('#fltab').click(() => {
+    $('#usList a').removeClass('active');
+    $('#fltab').addClass('active');
+    $('.cityBox').hide()
+    $('.fl').fadeIn()
+  })
+  $('#catab').click(() => {
+    $('#usList a').removeClass('active');
+    $('#catab').addClass('active');
+    $('.cityBox').hide()
+    $('.ca').fadeIn()
+  })
+  $('#txtab').click(() => {
+    $('#usList a').removeClass('active');
+    $('#txtab').addClass('active');
+    $('.cityBox').hide()
+    $('.tx').fadeIn()
+  })
+  $('#aktab').click(() => {
+    $('#usList a').removeClass('active');
+    $('#aktab').addClass('active');
+    $('.cityBox').hide()
+    $('.ak').fadeIn()
+  })
+
+  $('#gdtab').click(() => {
+    $('#cnList a').removeClass('active');
+    $('#gdtab').addClass('active');
+    $('.cityBox').hide()
+    $('.gd').fadeIn()
+  })
+  $('#cdtab').click(() => {
+    $('#cnList a').removeClass('active');
+    $('#cdtab').addClass('active');
+    $('.cityBox').hide()
+    $('.cd').fadeIn()
+  })
+  $('#shtab').click(() => {
+    $('#cnList a').removeClass('active');
+    $('#shtab').addClass('active');
+    $('.cityBox').hide()
+    $('.sh').fadeIn()
+  })
+  $('#bjtab').click(() => {
+    $('#cnList a').removeClass('active');
+    $('#bjtab').addClass('active');
+    $('.cityBox').hide()
+    $('.bj').fadeIn()
+  })
+  $('#jstab').click(() => {
+    $('#cnList a').removeClass('active');
+    $('#jstab').addClass('active');
+    $('.cityBox').hide()
+    $('.js').fadeIn()
+  })
+})()
+
+
+
 (navLinkActive = () => {
     var whosActive = $('#activeIdentifier').val()
     console.log(whosActive)

@@ -12,8 +12,53 @@
                 <a class="btn btn-sm btn-simple btn-simple__blue" id="usCityBtn">美国合作城市</a>
                 <a class="btn btn-sm btn-simple btn-simple__blue" id="cnCityBtn">中国合作城市</a>
             </div>
+            <div class="floatingLinks">
+                <ul id="usList">
+                    <li>
+                        <a id="nytab">纽约市</a>
+                    </li>
+                    <li>
+                        <a id="dctab">华盛顿特区</a>
+                    </li>
+                    <li>
+                        <a id="matab">马赛诸塞州</a>
+                    </li>
+                    <li>
+                        <a id="petab">宾夕法尼亚州</a>
+                    </li>
+                    <li>
+                        <a id="fltab">佛罗里达州</a>
+                    </li>
+                    <li>
+                        <a id="catab">加尼福尼亚州</a>
+                    </li>
+                    <li>
+                        <a id="txtab">德克萨斯州</a>
+                    </li>
+                    <li>
+                        <a id="aktab">阿肯色州</a>
+                    </li>
+                </ul>
+                <ul id="cnList">
+                    <li>
+                        <a id="gdtab">广东</a>
+                    </li>
+                    <li>
+                        <a id="cdtab">成都</a>
+                    </li>
+                    <li>
+                        <a id="shtab">上海</a>
+                    </li>
+                    <li>
+                        <a id="bjtab">北京</a>
+                    </li>
+                    <li>
+                        <a id="jstab">江苏</a>
+                    </li>
+                </ul>
+            </div>
             <div class="usCityContent">
-                <div class="cityBox">
+                <div class="cityBox ny">
                     <h1>1. 纽约市</h1>
                     <p>
                         纽约市（City of New York，简称NYC），位于美国纽约州东南部大西洋沿岸，是美国第一大城市及第一大港。
@@ -42,7 +87,7 @@
                     <img src="../img/shangqu/uscity/nyedu5.png" alt="">
                     <img src="../img/shangqu/uscity/nyedu6.png" alt="">
                 </div>
-                <div class="cityBox">
+                <div class="cityBox dc">
                     <h1>2. 华盛顿特区</h1>
                     <img src="../img/shangqu/uscity/5.jpg" alt="">
                     <p>
@@ -57,27 +102,27 @@
                     </p>
                     <p>
                     华盛顿哥伦比亚特区的最高权力机构为美国国会，通过华盛顿市政府实施管理。但是华盛顿市民在众议院仅有一名有选举权的代表，在参议院没有代表。
-•	约翰·霍普金斯大学（The Johns Hopkins University）
-•	乔治城大学（Georgetown University）
-•	乔治·华盛顿大学（George Washington University）
-•	华盛顿哥伦比亚特区美国社区学院协会（American Association of Community Colleges）的发源地。
-•	哥伦比亚特区大学（University of the District of Columbia），华盛顿哥伦比亚特区唯一的公立大学。
-•	国家国防大学（National Defense University）
-•	美国大学（American University）
-•	美国天主教大学（Catholic University of American）
-•	可可然艺术学校（Corcoran School of Art）
-•	哈沃德大学（Howard University）
-•	维嫩山学院（Mount Vernon College）
-•	奥伯雷特学院（Oblate College）
-•	东南大学（Southeastern University）
-•	史脆瑞尔学院（Strayer College）
-•	三圣学院（Trinity College）
-•	盖路德特大学（Gallaudet University）：专门收耳聋与听力损伤的学生。
+                        •	约翰·霍普金斯大学（The Johns Hopkins University）
+                        •	乔治城大学（Georgetown University）
+                        •	乔治·华盛顿大学（George Washington University）
+                        •	华盛顿哥伦比亚特区美国社区学院协会（American Association of Community Colleges）的发源地。
+                        •	哥伦比亚特区大学（University of the District of Columbia），华盛顿哥伦比亚特区唯一的公立大学。
+                        •	国家国防大学（National Defense University）
+                        •	美国大学（American University）
+                        •	美国天主教大学（Catholic University of American）
+                        •	可可然艺术学校（Corcoran School of Art）
+                        •	哈沃德大学（Howard University）
+                        •	维嫩山学院（Mount Vernon College）
+                        •	奥伯雷特学院（Oblate College）
+                        •	东南大学（Southeastern University）
+                        •	史脆瑞尔学院（Strayer College）
+                        •	三圣学院（Trinity College）
+                        •	盖路德特大学（Gallaudet University）：专门收耳聋与听力损伤的学生。
 
                     </p>
                     <img src="../img/shangqu/uscity/6.jpg" alt="">
                 </div>
-                <div class="cityBox">
+                <div class="cityBox ma">
                     <h1>3. 马萨诸塞州</h1>
                     <p>
                         波士顿（Boston）是美国马萨诸塞州的首府和最大城市，也是美国东北部的新英格兰地区的最大城市。
@@ -101,30 +146,30 @@
                     </p>
                     <p>
                     此外波士顿还拥有不少优质的私立学校、特许学校（charter school）和教会学校。其中波士顿学院高中（BC High）成立于1863年， 位于波士顿市内，是一所历史悠久的男校。
-知名大学
-主要有以下几所大学
-哈佛大学（HARVARD）
-麻省理工学院（MIT）
-塔夫茨大学（TUFTS）
-波士顿学院（BOSTON COLLEGE）
-布兰迪斯大学（BRANDEIS）
-波士顿大学（BOSTON UNIVERSITY）
-东北大学（NEU）
-麻省大学 (UMass)
-本特利大学 (Bentley)
-萨福克大学
-爱默生学院
-威廉姆斯学院
-阿莫斯特学院
-曼荷莲学院 （美国第一所女子学院 “七姐妹”女校）
-史密斯学院（“七姐妹”女校之一）
-新英格兰音乐学院
-伯克利音乐学院
+                        知名大学
+                        主要有以下几所大学
+                        哈佛大学（HARVARD）
+                        麻省理工学院（MIT）
+                        塔夫茨大学（TUFTS）
+                        波士顿学院（BOSTON COLLEGE）
+                        布兰迪斯大学（BRANDEIS）
+                        波士顿大学（BOSTON UNIVERSITY）
+                        东北大学（NEU）
+                        麻省大学 (UMass)
+                        本特利大学 (Bentley)
+                        萨福克大学
+                        爱默生学院
+                        威廉姆斯学院
+                        阿莫斯特学院
+                        曼荷莲学院 （美国第一所女子学院 “七姐妹”女校）
+                        史密斯学院（“七姐妹”女校之一）
+                        新英格兰音乐学院
+                        伯克利音乐学院
 
                     </p>
                     <img src="../img/shangqu/uscity/9.jpg" alt="">
                 </div>
-                <div class="cityBox">
+                <div class="cityBox pe">
                     <h1>4. 宾夕法尼亚州</h1>
                     <p>
                     宾夕法尼亚州（Commonwealth of Pennsylvania）是美国东北部的一州，为立国13州之一。著名城市有费城。费城（Philadelphia）位于美国宾夕法尼亚州东南部，是特拉华河谷都会区的中心城市，市区东起特拉华河，向西延伸到斯库基尔河以西，面积334㎞²。费城是美国最老、最具历史意义的城市之一，1790-1800年，在华盛顿建市前曾是美国的首都，因此在美国史上有非常重要的地位。
@@ -141,25 +186,25 @@
                     </p>
                     <p>
                     市内大学或学院有：
-宾夕法尼亚大学(University of Pennsylvania)US NEWS 最新排名第8位。
-德雷塞尔大学（Drexel University）
-天普大学(Temple University)
-圣约瑟夫大学（Saint Joseph's University）
-费城社区学院(Community College of Philadelphia)
-费城大学(Philadelphia University)
-费城艺术大学(The University of the Arts)
-费城科学大学(University of the Sciences)
-拉萨尔大学(La Salle University)
-栗山学院(Chestnut Hill College)
-皮尔斯学院(Peirce College)
-摩尔艺术与设计学院(Moore College of Art and Design)
-柯蒂斯音乐学院（Curtis Institute of Music)全世界音乐学院排名前三
-托马斯杰斐逊大学（Thomas Jefferson University）
+                        宾夕法尼亚大学(University of Pennsylvania)US NEWS 最新排名第8位。
+                        德雷塞尔大学（Drexel University）
+                        天普大学(Temple University)
+                        圣约瑟夫大学（Saint Joseph's University）
+                        费城社区学院(Community College of Philadelphia)
+                        费城大学(Philadelphia University)
+                        费城艺术大学(The University of the Arts)
+                        费城科学大学(University of the Sciences)
+                        拉萨尔大学(La Salle University)
+                        栗山学院(Chestnut Hill College)
+                        皮尔斯学院(Peirce College)
+                        摩尔艺术与设计学院(Moore College of Art and Design)
+                        柯蒂斯音乐学院（Curtis Institute of Music)全世界音乐学院排名前三
+                        托马斯杰斐逊大学（Thomas Jefferson University）
 
                     </p>
                     <img src="../img/shangqu/uscity/11.jpg" alt="">
                 </div>
-                <div class="cityBox">
+                <div class="cityBox fl">
                     <h1>5. 佛罗里达州</h1>
                     <p>
                     佛罗里达州（Florida）是美国东南部的一个州。位于东南海岸突出的半岛上。东濒大西洋，西临墨西哥湾，北与亚拉巴马州和佐治亚州接壤。面积为151670平方公里。
@@ -181,38 +226,38 @@
                     迈阿密是国际性的大都市，在金融、商业、媒体、娱乐、艺术和国际贸易等方面拥有重要的地位，也是许多公司、银行和电视台的总部所在。是文化的大熔炉，受庞大的拉丁美洲族群和加勒比海岛国居民的影响很大，与北美洲、南美洲、中美洲以及加勒比海地区在文化和语言上关系密切，因此有时还被称为“美洲的首都”。
                     </p>
                     <p>
-                    2008年，迈阿密被《福布斯》杂志评为“美国最干净的城市“。
-2009年，迈阿密还被瑞士联合银行评为美国最富裕城市和全球第五富裕城市。
-学院与大学
-诺瓦东南大学(Nova Southeastern University) 美国东南最大私立大学
-贝瑞大学(Barry University)
-强生和威尔士大学(Johnson and Wales University)
-迈阿密艺术与设计国际大学(Miami International University of Art and Design)
-迈阿密大学(University of Miami) 最新US NEWS排名第48位
-佛罗里达国际大学（Florida International University）
-佛罗里达纪念大学（Florida Memorial University）
-迈阿密-戴德学院(Miami-Dade College)
-圣托玛斯大学（St.Thomas University）
-著名高中
-贝伦耶稣预备学校(Belen Jesuit Preparatory School)
-克里斯托弗·哥伦布中学(Christopher Columbus High School))
-珊瑚礁中学(Coral Reef High School)
-设计与建筑中学(Design and Architecture Senior High School)
-迈克尔·M·克罗普博士中学(Dr. Michael M. Krop High School)
-格列弗预备学校(Gulliver Preparatory School)
-拉萨尔中学(LaSalle High School)
-海事与科学技术高等专科学校(MAST Academy High School)
-迈阿密中学(Miami High School)
-迈阿密棕榈中学(Miami Palmetto Senior High School)
-新世界艺术学校(New World School of the Arts)
-Ransom Everglades Middle School
-威廉·特纳高等技术学校(William Turner Technical High School)
-Miami Country Day School
+                                            2008年，迈阿密被《福布斯》杂志评为“美国最干净的城市“。
+                        2009年，迈阿密还被瑞士联合银行评为美国最富裕城市和全球第五富裕城市。
+                        学院与大学
+                        诺瓦东南大学(Nova Southeastern University) 美国东南最大私立大学
+                        贝瑞大学(Barry University)
+                        强生和威尔士大学(Johnson and Wales University)
+                        迈阿密艺术与设计国际大学(Miami International University of Art and Design)
+                        迈阿密大学(University of Miami) 最新US NEWS排名第48位
+                        佛罗里达国际大学（Florida International University）
+                        佛罗里达纪念大学（Florida Memorial University）
+                        迈阿密-戴德学院(Miami-Dade College)
+                        圣托玛斯大学（St.Thomas University）
+                        著名高中
+                        贝伦耶稣预备学校(Belen Jesuit Preparatory School)
+                        克里斯托弗·哥伦布中学(Christopher Columbus High School))
+                        珊瑚礁中学(Coral Reef High School)
+                        设计与建筑中学(Design and Architecture Senior High School)
+                        迈克尔·M·克罗普博士中学(Dr. Michael M. Krop High School)
+                        格列弗预备学校(Gulliver Preparatory School)
+                        拉萨尔中学(LaSalle High School)
+                        海事与科学技术高等专科学校(MAST Academy High School)
+                        迈阿密中学(Miami High School)
+                        迈阿密棕榈中学(Miami Palmetto Senior High School)
+                        新世界艺术学校(New World School of the Arts)
+                        Ransom Everglades Middle School
+                        威廉·特纳高等技术学校(William Turner Technical High School)
+                        Miami Country Day School
 
                     </p>
                     <img src="../img/shangqu/uscity/13.jpg" alt="">
                 </div>
-                <div class="cityBox">
+                <div class="cityBox ca">
                     <h1>6. 加尼福尼亚州</h1>
                     <p>
                     加利福尼亚州（State of California）是美国西部太平洋沿岸的一个州，州政府位于萨克拉门托。北接俄勒冈州，东界内华达州和亚利桑那州，南邻墨西哥，西濒太平洋。面积411013km²，它的名称取自西班牙传说中一个小岛的名称。
@@ -236,17 +281,17 @@ Miami Country Day School
                     </p>
                     <p>
                     洛杉矶是全世界重要的工商业、国际贸易、科教、娱乐和体育中心之一。
-拥有美国西部最大的海港，也是美国石油化工、海洋、航天工业和电子业的最大基地之一。洛杉矶拥有许多世界知名的高等教育机构，大洛杉矶地区的著名高等学府包括加州理工学院（Caltech）、加州大学洛杉矶分校（UCLA）、南加州大学（USC）、佩珀代因大学（Pepperdine University）等。[1-3] 
-娱乐方面，好莱坞、加州迪士尼乐园、环球影城等等都位于洛杉矶，南加州的奢华之城比佛利山庄也坐落在洛杉矶的中心地带，众多国际名流居住于此。
-体育方面，洛杉矶还曾主办了1932年洛杉矶奥运会、1984年洛杉矶奥运会，即将主办2028年洛杉矶奥运会。
+                        拥有美国西部最大的海港，也是美国石油化工、海洋、航天工业和电子业的最大基地之一。洛杉矶拥有许多世界知名的高等教育机构，大洛杉矶地区的著名高等学府包括加州理工学院（Caltech）、加州大学洛杉矶分校（UCLA）、南加州大学（USC）、佩珀代因大学（Pepperdine University）等。[1-3] 
+                        娱乐方面，好莱坞、加州迪士尼乐园、环球影城等等都位于洛杉矶，南加州的奢华之城比佛利山庄也坐落在洛杉矶的中心地带，众多国际名流居住于此。
+                        体育方面，洛杉矶还曾主办了1932年洛杉矶奥运会、1984年洛杉矶奥运会，即将主办2028年洛杉矶奥运会。
                     </p>
                     <p>
                     文化教育
-洛杉矶的文化和教育事业也很发达。这里有世界著名的加州理工学院、加利福尼亚大学洛杉矶分校（US NEWS 最新排名24位）、南加利福尼亚大学，亨廷顿图书馆、格蒂博物馆等。洛杉矶公共图书馆藏书量居全美第三位。洛杉矶还是世界上屈指可数的举办过两届夏季奥运会的城市。
-公立大学
-洛杉矶市拥有3所公立大学：加利福尼亚大学洛杉矶分校（UCLA）、北岭加州州立大学（CSUN）和洛杉矶加州州立大学（CSULA）。
-私立大学
-该市的私立大学有南加州大学（USC）,佩珀代因大学（Pepperdine University),加州理工学院(Cal Tech),安蒂奥克大学（Antioch University）的洛杉矶校区，罗耀拉玛利曼大学（Loyola Marymount University，LMU）以及罗耀拉法学院，圣玛丽山学院（Mount St. Mary's College），西方学院（Occidental College），东洛杉矶学院（East Los Angeles College，简称ELAC）等。
+                    洛杉矶的文化和教育事业也很发达。这里有世界著名的加州理工学院、加利福尼亚大学洛杉矶分校（US NEWS 最新排名24位）、南加利福尼亚大学，亨廷顿图书馆、格蒂博物馆等。洛杉矶公共图书馆藏书量居全美第三位。洛杉矶还是世界上屈指可数的举办过两届夏季奥运会的城市。
+                    公立大学
+                    洛杉矶市拥有3所公立大学：加利福尼亚大学洛杉矶分校（UCLA）、北岭加州州立大学（CSUN）和洛杉矶加州州立大学（CSULA）。
+                    私立大学
+                    该市的私立大学有南加州大学（USC）,佩珀代因大学（Pepperdine University),加州理工学院(Cal Tech),安蒂奥克大学（Antioch University）的洛杉矶校区，罗耀拉玛利曼大学（Loyola Marymount University，LMU）以及罗耀拉法学院，圣玛丽山学院（Mount St. Mary's College），西方学院（Occidental College），东洛杉矶学院（East Los Angeles College，简称ELAC）等。
 
                     </p>
                     <img src="../img/shangqu/uscity/16.jpg" alt="">
@@ -263,7 +308,7 @@ Miami Country Day School
                     圣地亚哥市（San Diego）是加利福尼亚州第二大城市，也是美国第八大城市，位于该州南端圣迭戈湾畔，南距墨西哥边境20公里，市区面积829平方公里，人口137万多，有很多墨西哥和西班牙人后裔；2015-2016年统计，白种人占人口的64%，拉美及墨裔占32%，亚裔占10%。大都市区包括附近各海滩和高地等，面积11020平方公里；大都市区包括18个小的城市，总人口超过280万人，大多聚居在离开海滨不远的地区。
                     </p>
                 </div>
-                <div class="cityBox">
+                <div class="cityBox tx">
                     <h1>7. 德克萨斯州</h1>
                     <p>
                     休斯敦（Houston），是美国德克萨斯州的第一大城，全美国第四大城市，墨西哥湾沿岸最大的经济中心。面积为1,440千平方公里，市名是以当年德克萨斯共和国总统山姆·休斯敦（Sam Houston）命名的。
@@ -273,28 +318,28 @@ Miami Country Day School
                     </p>
                     <p>
                     休斯敦创建于1836年，合并于1837年，是美国成长最迅速的大城市之一，也是全美最大的一个没有规划法的大城市。
-1900年，休斯敦有45,000人口，排名美国第85位。2014年美国人口统计指出，城市人口总数达到220万人。大休斯敦都会区是美国第五大都会区（9个县），2014年7月1日人口6,490,180人。
+                        1900年，休斯敦有45,000人口，排名美国第85位。2014年美国人口统计指出，城市人口总数达到220万人。大休斯敦都会区是美国第五大都会区（9个县），2014年7月1日人口6,490,180人。
 
                     </p>
                     <p>
                     休斯敦以其能源（特别是石油）、航空工业和运河闻名世界。休斯敦港是世界第六大港口，美国最繁忙的港口，外轮吨位第一，不分国籍则居第二位。财富500强总部仅次于纽约市。休斯敦是德克萨斯医疗中心的所在地，世界最大和最重要的研究和治疗机构的集中地。休斯敦还是美国27个超过170万人口的重要大都会地区中生活消费和房价最低的。休斯敦被全球化和世界城市研究小组和网络（GaWC）称为“全球城市。
                     休斯敦的官方绰号为“太空城（Space City）”，因为它是约翰逊航空中心的所在地，任务监控中心也设在这里（因此，“休斯敦”是在月球上说的第一个词）。许多当地人喜爱称作“牛沼城”。其他绰号还有“H镇”、“脚爪城”或“蒙古城”。    
-                </p>
+                     </p>
                     <p>
                     休斯敦大学
-休斯敦大学（University of Houston,简称UH）位于美国南部徳克萨斯州休斯敦市。休斯敦是美国第四大城市，大都会区人口约700万，举世闻名的美国宇航中心和世界最大的医疗中心坐落在该市南部。休斯敦还是美国石油化工中心，享有“世界能源之都”的美称。休斯敦港口是美国第二大港口（世界第六大），该港口的外贸吞吐量为全美第一。2001年，休斯敦有23家公司被美国《财富》杂志列入世界500强。
-休斯敦大学坐落在休斯顿市中心，1927年建校，是美国第四大城市休斯顿市最具活力的公立大学，有近90年年历史，在教学和研究方面是德州最好的大学之一。该校研究多样性，著称于全美。
+                    休斯敦大学（University of Houston,简称UH）位于美国南部徳克萨斯州休斯敦市。休斯敦是美国第四大城市，大都会区人口约700万，举世闻名的美国宇航中心和世界最大的医疗中心坐落在该市南部。休斯敦还是美国石油化工中心，享有“世界能源之都”的美称。休斯敦港口是美国第二大港口（世界第六大），该港口的外贸吞吐量为全美第一。2001年，休斯敦有23家公司被美国《财富》杂志列入世界500强。
+                    休斯敦大学坐落在休斯顿市中心，1927年建校，是美国第四大城市休斯顿市最具活力的公立大学，有近90年年历史，在教学和研究方面是德州最好的大学之一。该校研究多样性，著称于全美。
 
                     </p>
                     <p>
                     休斯敦大学属于研究型大学〈research university〉。每年注册的学生中有21%是研究生，而这些学生中有33%接受休斯敦大学的奖学金资助。在这些研究生中，除了商学院、MBA是受学生青睐的热门科系外，因为邻近计算机大厂，使得该校的信息科学的相关科系排名也居高不下。
-休斯敦大学有12个学术学院，分别是：建筑学院，商学院，文学与社会科学学院，教育学院，工程学院，技术学院，自然科学与数学学院，制药学院，光学学院，酒店管理学院，法学院，社会工作研究生院。大学的课程涵盖278个学科。因教学质量高，休斯顿大学本科教育生源优异，入学SAT成绩平均为1281。在研究生教育阶段，休斯敦大学重视对学生独立研究能力的培养。
-休斯敦大学设有40余个研究中心，并与300余家政府和个人企业建立合作关系，为学生提供诸多实习机会，在超导电性，生物医学工程，石油勘探，经济，教育，虚拟技术方面取得很大成效。因为休斯敦大学的学生多半可以获得很好的实习机会，并有机会申请各种的奖助学金，因此能比其他大学的学生更快地进入社会，体验工作和生活的乐趣。
+                    休斯敦大学有12个学术学院，分别是：建筑学院，商学院，文学与社会科学学院，教育学院，工程学院，技术学院，自然科学与数学学院，制药学院，光学学院，酒店管理学院，法学院，社会工作研究生院。大学的课程涵盖278个学科。因教学质量高，休斯顿大学本科教育生源优异，入学SAT成绩平均为1281。在研究生教育阶段，休斯敦大学重视对学生独立研究能力的培养。
+                    休斯敦大学设有40余个研究中心，并与300余家政府和个人企业建立合作关系，为学生提供诸多实习机会，在超导电性，生物医学工程，石油勘探，经济，教育，虚拟技术方面取得很大成效。因为休斯敦大学的学生多半可以获得很好的实习机会，并有机会申请各种的奖助学金，因此能比其他大学的学生更快地进入社会，体验工作和生活的乐趣。
 
                     </p>
                     <img src="../img/shangqu/uscity/17.jpg" alt="">
                 </div>
-                <div class="cityBox">
+                <div class="cityBox  ak">
                     <h1>8. 阿肯色州</h1>
                     <p>
                     阿肯色州（State of Arkansas），简称阿州，是美国南部的一个州份，位处密西西比河中下游，北接密苏里州，西界俄克拉荷马州，南邻路易斯安那州，西南与得克萨斯州接壤，东隔密西西比河与田纳西州和密西西比州相望，其面积137539Km²，人口2810872（2006年）。其首府是小石城。州名来自印第安语，原为夸保族、奥萨格族、卡多族、切罗基族和乔克托族印地安人居住地。
@@ -303,23 +348,23 @@ Miami Country Day School
                     <img src="../img/shangqu/uscity/18.jpg" alt="">
                     <p>
                     教育事业
-阿肯色州有公私立高等院校共计29所，[5]  主要公立综合性大学有：
-阿肯色大学菲亚特维尔校区，
-中阿肯色大学，
-阿肯色州立大学，
-阿肯色科技大学，
-阿肯色大学小石城分校
-职业性大学有阿肯色医科大学，
-阿肯色医科大学，
-阿肯色大学菲亚特维尔，
-阿肯色大学小石城分校都属于阿肯色大学系统，也是该州唯一的大学系统。
+                        阿肯色州有公私立高等院校共计29所，[5]  主要公立综合性大学有：
+                        阿肯色大学菲亚特维尔校区，
+                        中阿肯色大学，
+                        阿肯色州立大学，
+                        阿肯色科技大学，
+                        阿肯色大学小石城分校
+                        职业性大学有阿肯色医科大学，
+                        阿肯色医科大学，
+                        阿肯色大学菲亚特维尔，
+                        阿肯色大学小石城分校都属于阿肯色大学系统，也是该州唯一的大学系统。
 
                     </p>
                     <img src="../img/shangqu/uscity/19.jpg" alt="">
                 </div>
             </div>
             <div class="cnCityContent">
-            <div class="cityBox">
+                 <div class="cityBox gd">
                     <h1>1. 广东 Guangdong Province</h1>
                     <img src="../img/shangqu/cncity/1.png" alt="">
                     <p>
@@ -341,17 +386,17 @@ Miami Country Day School
                     Guangzhou has a comparatively recent history of two centuries related to its importance for foreign trade. Long the only Chinese port accessible to foreign traders, the city fell to the British during the First Opium War. No longer enjoying a monopoly after the war, it lost trade to other ports such as Hong Kong (which is close by) and Shanghai, but continued to serve as a major entrepôt. In modern commerce, Guangzhou is best known for its annual Canton Fair, the oldest and largest trade fair in China. For the three consecutive years 2013–2015, Forbes ranked Guangzhou as the best commercial city on the Chinese mainland.
                     </p>
                     <p>
-                    深圳Shenzen
-Shenzhen is a major city in Guangdong Province, China. It forms part of the Pearl River Delta megalopolis. The city is located in immediately north of Hong Kong Special Administrative Region and holds sub-provincial administrative status, with powers slightly less than a province. 
-Shenzhen was a market town of 30,000 people on the route of the Kowloon–Canton Railway. That changed in 1979 when Shenzhen was promoted to city-status and in 1980 designated China’s first Special Economic Zone (SEZ). Official statistics based on China 2010 Census put Shenzhen's total population of 10,357,938, that included migrants staying at least six months. Popular press speculate that counts do not include migrant workers living in the city who come and go daily weekly or monthly and do not stay the entire year. Such estimates put the instantaneous or sum total of individuals who have lived in Shenzhen for any length of time to at least 18 million. Shenzhen was one of the fastest-growing cities in the world during the 1990s and the 2000s. A nationwide 2015 intercensal survey (mini-census conducted five years after the official census in every decade) surveyed for every city in the country recorded 11.389 million residents (9.186 million holding city residency (hukou), the remainder are considered migratory who were present at least six months of the year), while the household size increased to 2.49 people from 2.11 in 2010, indicative of soaring rents. Those not present six months of the year were not tallied.
+                                            深圳Shenzen
+                        Shenzhen is a major city in Guangdong Province, China. It forms part of the Pearl River Delta megalopolis. The city is located in immediately north of Hong Kong Special Administrative Region and holds sub-provincial administrative status, with powers slightly less than a province. 
+                        Shenzhen was a market town of 30,000 people on the route of the Kowloon–Canton Railway. That changed in 1979 when Shenzhen was promoted to city-status and in 1980 designated China’s first Special Economic Zone (SEZ). Official statistics based on China 2010 Census put Shenzhen's total population of 10,357,938, that included migrants staying at least six months. Popular press speculate that counts do not include migrant workers living in the city who come and go daily weekly or monthly and do not stay the entire year. Such estimates put the instantaneous or sum total of individuals who have lived in Shenzhen for any length of time to at least 18 million. Shenzhen was one of the fastest-growing cities in the world during the 1990s and the 2000s. A nationwide 2015 intercensal survey (mini-census conducted five years after the official census in every decade) surveyed for every city in the country recorded 11.389 million residents (9.186 million holding city residency (hukou), the remainder are considered migratory who were present at least six months of the year), while the household size increased to 2.49 people from 2.11 in 2010, indicative of soaring rents. Those not present six months of the year were not tallied.
 
                     </p>
                     <p>Shenzhen's modern cityscape is the result of its vibrant economy made possible by rapid foreign investment since the institution of the policy of "reform and opening" in late 1979 in which SEZ established. 
-Shenzhen is a major financial center in southern China. The city is home to the Shenzhen Stock Exchange as well as the headquarters of numerous home grown multinational well-known companies such as Vanke, JXD, Hytera, CIMC, Shenzhen Airlines, Nepstar, Hasee, Ping An Bank, Ping An Insurance, China Merchants Bank, Tencent, ZTE, Huawei and BYD Shenzhen ranks 22nd in the 2017 edition of the Global Financial Centres Index published by the Z/Yen Group and Qatar Financial Centre Authority. It also has one of the busiest container ports in the world. 
-</p>
+                        Shenzhen is a major financial center in southern China. The city is home to the Shenzhen Stock Exchange as well as the headquarters of numerous home grown multinational well-known companies such as Vanke, JXD, Hytera, CIMC, Shenzhen Airlines, Nepstar, Hasee, Ping An Bank, Ping An Insurance, China Merchants Bank, Tencent, ZTE, Huawei and BYD Shenzhen ranks 22nd in the 2017 edition of the Global Financial Centres Index published by the Z/Yen Group and Qatar Financial Centre Authority. It also has one of the busiest container ports in the world. 
+                        </p>
                     <img src="../img/shangqu/cncity/4.jpg" alt="">
                 </div>
-                <div class="cityBox">
+                <div class="cityBox cd">
                     <h1>2. 成都 Chengdu</h1>
                     <p>
                     Chengdu, formerly romanized as Chengtu, is a sub-provincial city which has served as capital of China's Sichuan province. It is one of the three most populous cities in Western China (the other two are Chongqing and Xi'an). As of 2014, the administrative area houses 14,427,500 inhabitants, with an urban population of 10,152,632. At the time of the 2010 census, Chengdu was the 5th-most populous agglomeration in China, with 10,484,996 inhabitants in the built-up area including Xinjin County and Deyang's Guanghan City.
@@ -367,18 +412,18 @@ Shenzhen is a major financial center in southern China. The city is home to the 
                     <img src="../img/shangqu/cncity/6.jpg" alt="">
                     <p>
                     Chengdu is the center of higher education and scientific research in Southwest China.
-•	Sichuan University (SCU) (Founded in 1896), including the West China Medical Center of Sichuan University
-•	Southwest Jiaotong University (Founded in 1896)
-•	Southwestern University of Finance and Economics (Founded in 1925)
-•	University of Electronic Science and Technology of China (Founded in 1956)
-•	Sichuan Agricultural University (Founded in 1906) [69]
-•	Sichuan Normal University (Founded in 1946)
-•	Southwest University for Nationalities (Founded in 1951)
-•	Chengdu University of Technology (Founded in 1956)
-•	Southwest Petroleum University (Founded in 1958)
-•	Chengdu University of Traditional Chinese Medicine (CDUTCM) (Founded in 1956)[70]
-•	Sichuan Conservatory of Music (Founded in 1939)
-•	Chengdu University of Information Technology (CUIT) (Founded in 1951)
+                    •	Sichuan University (SCU) (Founded in 1896), including the West China Medical Center of Sichuan University
+                    •	Southwest Jiaotong University (Founded in 1896)
+                    •	Southwestern University of Finance and Economics (Founded in 1925)
+                    •	University of Electronic Science and Technology of China (Founded in 1956)
+                    •	Sichuan Agricultural University (Founded in 1906) [69]
+                    •	Sichuan Normal University (Founded in 1946)
+                    •	Southwest University for Nationalities (Founded in 1951)
+                    •	Chengdu University of Technology (Founded in 1956)
+                    •	Southwest Petroleum University (Founded in 1958)
+                    •	Chengdu University of Traditional Chinese Medicine (CDUTCM) (Founded in 1956)[70]
+                    •	Sichuan Conservatory of Music (Founded in 1939)
+                    •	Chengdu University of Information Technology (CUIT) (Founded in 1951)
 
                     </p>
                     <img src="../img/shangqu/cncity/5.jpg" alt="">
@@ -392,7 +437,7 @@ Shenzhen is a major financial center in southern China. The city is home to the 
                     </p>
                     <img src="../img/shangqu/cncity/7.png" alt="">
                 </div>
-                <div class="cityBox">
+                <div class="cityBox sh">
                     <h1>3. 上海 Shanghai</h1>
                     <p>
                     Shanghai is one of the four direct-controlled municipalities of China and the most populous city proper in the world with a population of more than 24 million as of 2014. It is a global financial centre and transport hub, with the world's busiest container port. Located in the Yangtze River Delta, it sits on the south edge of the estuary of the Yangtze in the middle portion of the East China coast. The municipality borders the provinces of Jiangsu and Zhejiang to the north, south and west, and is bounded to the east by the East China Sea. 
@@ -403,7 +448,7 @@ Shenzhen is a major financial center in southern China. The city is home to the 
                     <img src="../img/shangqu/cncity/9.jpg" alt="">
                     <p>
                     economic reforms introduced by Deng Xiaoping resulted in an intense re-development of the city, aiding the return of finance and foreign investment to the city. 
-Shanghai has been described as the "showpiece" of the booming economy of mainland China; renowned for its Lujiazui skyline, and museums and historic buildings, such as those along The Bund, as well as the City God Temple and the Yu Garden.
+                    Shanghai has been described as the "showpiece" of the booming economy of mainland China; renowned for its Lujiazui skyline, and museums and historic buildings, such as those along The Bund, as well as the City God Temple and the Yu Garden.
 
                     </p>
                     <p>
@@ -426,7 +471,7 @@ Shanghai has the largest number of international schools of any city in China. I
                     </p>
                     <img src="../img/shangqu/cncity/12.jpg" alt="">
                 </div>
-                <div class="cityBox">
+                <div class="cityBox bj">
                     <h1>4. 北京 Beijing</h1>
                     <p>
                     Beijing formerly romanized as Peking, is the capital of the People's Republic of China and the world's second most populous city proper and most populous capital city. The city, located in northern China, is governed as a direct-controlled municipality under the national government with 16 urban, suburban, and rural districts. Beijing Municipality is surrounded by Hebei Province with the exception of neighboring Tianjin Municipality to the southeast; together the three divisions form the Jingjinji metropolitan region and the national capital region of China. 
@@ -448,7 +493,7 @@ Shanghai has the largest number of international schools of any city in China. I
                     </p>
                     <img src="../img/shangqu/cncity/15.jpg" alt="">
                 </div>
-                <div class="cityBox">
+                <div class="cityBox js">
                     <h1>5. 江苏 Jiangsu Province</h1>
                     <img src="../img/shangqu/cncity/17.jpg" alt="">
                     <p>
@@ -487,25 +532,32 @@ Shanghai has the largest number of international schools of any city in China. I
 
 <?php include '../partials/footer.php' ?>
 <script>
-    (initializeCity = () => {
+   
+   (initializeCity = () => {
   $('#usCityBtn').addClass('active')
   $('.cnCityTopBanner').hide();
   $('.cnCityContent').hide();
-  $('.floatingBtn a').click(() => {
-    $('.floatingBtn a').toggleClass('active')
-  })
-  $('#cnCityBtn').click(() => {
-    $('.usCityTopBanner').hide();
-    $('.usCityContent').hide();
-    $('.cnCityTopBanner').fadeIn();
-    $('.cnCityContent').fadeIn();
-  })
-  $('#usCityBtn').click(() => {
-    $('.cnCityTopBanner').hide();
-    $('.cnCityContent').hide();
-    $('.usCityTopBanner').fadeIn();
-    $('.usCityContent').fadeIn();
-  })
+  $('#cnList').hide();
+  
+$('#cnCityBtn').click(() => {
+  $('.usCityTopBanner').hide();
+  $('.usCityContent').hide();
+  $('.cnCityTopBanner').fadeIn();
+  $('.cnCityContent').fadeIn();
+  $('#cnList').fadeIn();
+  $('#usList').hide()
+  $('#usCityBtn').removeClass('active')
+  $('#cnCityBtn').addClass('active')
+})
+$('#usCityBtn').click(() => {
+  $('.cnCityTopBanner').hide();
+  $('.cnCityContent').hide();
+  $('.usCityTopBanner').fadeIn();
+  $('.usCityContent').fadeIn();
+  $('#cnList').hide();
+  $('#usList').fadeIn();
+  $('#usCityBtn').addClass('active')
+  $('#cnCityBtn').removeClass('active')
+})
 })()
-
 </script>
