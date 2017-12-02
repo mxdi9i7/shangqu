@@ -9,7 +9,7 @@
         <div class="eventArticleContainer">
             <div class="row">
                 <div class="col-md-6">
-                    <a class="articleBlock" style="background-image:url(../img/shangqu/1/img/11.png)">
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzAwMDM0OTAzNg==&amp;mid=2651078442&amp;idx=1&amp;sn=ce494e13aec3410a6f7b0844e0014015&amp;chksm=811ad929b66d503fb37c19c9f71eda9bb27ccbe6c5f56c0856053f9ff258a2d9666e071f5c1b&amp;mpshare=1&amp;scene=1&amp;srcid=1110FrBWxluVorBF3aMa96N4&amp;pass_ticket=FhPoajO5%2BseDREapPKykaN0jSvqh1D%2FKfjdgxOcT6aDkYO6kZkXkhZK24ZNTpyWD" class="articleBlock" style="background-image:url(../img/shangqu/1/img/11.png)">
                         <h1>
                             白天热气球，晚上孔明灯加烟花！天空有多美，由你决定！
                         </h1>

@@ -7,7 +7,10 @@
     overflow: hidden;
     background: linear-gradient(rgba(0, 0, 0, 0.25), transparent);
 }
-
+.articleCarousel {
+    margin-top: 73px;
+    background-color: #000;
+}
 .carousel-control-prev, .carousel-control-next {
     z-index: 2;
 }
@@ -376,4 +379,143 @@
     color: #000;
     font-weight: 900;
     text-decoration: underline;
+}
+#home .articleCarousel {
+    position: relative;
+}
+#home .owl-nav .owl-prev, #home .owl-nav .owl-next {
+    background-color: transparent;
+    height: 50px;
+    width: 50px;
+    box-sizing: border-box;
+}
+#home .owl-prev {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+#home .owl-next {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.contentSection {
+    width: 80%;
+    padding: 5% 0;
+    margin: 0 auto;
+}
+.contentSection img {
+    width: 100%;
+}
+.contentSection h1 {
+    font-size: 22px;
+    font-weight: 300;
+    margin: 20px 0px;
+    color: #000;
+    transition: .2s;
+    cursor: pointer;
+}
+.contentSection .mainArticle h1:hover {
+    color: #72c02c;
+}
+.contentSection p {
+    font-weight: 100;
+    color: #777;
+    margin: 0 px;
+    font-size: 14px;
+}
+.contentSection a {
+    color: #444;
+    font-size: 14px;
+    margin: 20px 0;
+}
+.contentSection .mainArticle a {
+    margin:  0;
+}
+.contentSection .mainArticle a:hover {
+    border-bottom: 1px solid #000;
+}
+.medBox {
+    width: 100%;
+    height: 400px;
+    color: #fff;
+    padding: 100px 30px;
+    position: relative;
+}
+.medBoxOverlay {
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: inherit;
+    background: transparent; /* For browsers that do not support gradients */
+    background: linear-gradient(transparent, #000); /* Standard syntax */
+}
+.medBox.edu {
+    background-image: url(../img/shangqu/edu1.jpg);
+    background-size: cover;
+    margin-bottom: 30px;
+}
+.medBox.travel {
+    background-image: url(../img/shangqu/travel1.jpg);
+    background-size: cover;
+    margin-bottom: 30px;
+}
+.medBox .medBoxContent  {
+    position: relative;
+    z-index: 1;
+}
+.medBox .medBoxContent h1 {
+    font-size: 28px;
+    color: #fff;
+    font-weight: 400;
+    text-align: center;
+    margin: 10px 0;
+}
+.medBox .medBoxContent p {
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+}
+.medBox .boxContactContainer {
+    margin: 20px 0;
+}
+.medBox .boxContactContainer p {
+    color: #72c02c;
+    font-weight: 400;
+    font-size: 12px;
+}
+.medBox .boxContactContainer h2 {
+    font-size: 24px;
+    color: #fff;
+    font-weight: 400;
+    text-align: center;
+}
+.medBox a {
+    background-color: #72c02c;
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 5px;
+    text-align: center;
+    display: block;
+    transition: 0.4s;
+}
+.medBox a:hover {
+    background-color: #56a50c;
+
+}
+.indexCityBox {
+    margin: 30px 0;
+}
+.indexCityBox h1 {
+    font-size: 22px;
+    display: inline-block;
+    margin: 20px 0;
+    transition: .2s;
+}
+.indexCityBox h1:hover {
+    color: #72c02c;
 }

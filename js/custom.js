@@ -2,7 +2,6 @@
 
 
 
-
 (navLinkActive = () => {
     var whosActive = $('#activeIdentifier').val()
     console.log(whosActive)
