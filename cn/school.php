@@ -9,11 +9,33 @@
             <div class="uniTopBanner">
                 
             </div>
-            <div class="floatingBtn">
-                <a class="btn btn-sm btn-simple btn-simple__blue" id="highBtn">高中游学</a>
-                <a class="btn btn-sm btn-simple btn-simple__blue" id="uniBtn">大学游学</a>
+            <div class="exchangeTopBanner">
+                
             </div>
-            <div class="floatingLinks">
+            <div class="homestayTopBanner">
+                
+            </div>
+            <div class="floatingBtn">
+                <a class="btn btn-sm btn-simple btn-simple__blue" id="highBtn">初高中插班生1-4周学习体验</a>
+                <a class="btn btn-sm btn-simple btn-simple__blue" id="exchangeBtn">赴美知名学府1-4周学习定制</a>
+                <a class="btn btn-sm btn-simple btn-simple__blue" id="uniBtn">常青藤名校深度游览、北美名胜参观</a>
+                <a class="btn btn-sm btn-simple btn-simple__blue" id="homestayBtn">寄宿家庭住宿</a>
+            </div>
+            <div class="floatingLinks" id="floatingLinks">
+                <ul id="exList">
+                    <li>
+                        <a id="exoverviewtab">项目介绍</a>
+                    </li>
+                    <li>
+                        <a id="elementarytab">小学</a>
+                    </li>
+                    <li>
+                        <a id="middletab">初中</a>
+                    </li>
+                    <li>
+                        <a id="hightab">高中</a>
+                    </li>
+                </ul>
                 <ul id="highList">
                     <li>
                         <a id="caminotab">艾尔卡米诺特许高中</a>
@@ -29,6 +51,9 @@
                     </li>
                 </ul>
                 <ul id="uniList">
+                    <li>
+                        <a id="uniOverview">项目介绍</a>
+                    </li>
                     <li>
                         <a id="harvardtab">哈佛大学</a>
                     </li>
@@ -51,6 +76,70 @@
                         <a id="akutab">阿肯色理工大学</a>
                     </li>
                 </ul>
+            </div>
+            <div class="exContent">
+                <div class="schoolBox overviewtab">
+                    <h1>假期赴美知名学府1-4周英语学习定制</h1>
+                    <hr>
+                    <h2>-项目优势-</h2>
+                    <p>英文强化训练，适合小学、初中、高中以及大学生。</p>
+                    <p>由学校老师带领参与不同的学校暑期活动和训练营，丰富课程，纯美式生 活体验，课程为数学、英语、社会科学、科技、口语及写作训练、音乐、美术、物理、化 学等。增加学生在海外学习与实践的经历，开拓国际化视野。不仅能使学生和带队老师亲身体验美国主流社会和学 生生活，组织和领导能力培训和英文强化训练等，还能深入了解美国教育的特点，在实践中培养学生创新意识及组织沟通能力，尚趣通过根据中方和学生的情况和要求，专门设计和组织夏令营的内容，如领导力培训、科技创新、工作实习、留学指南等多种形式的夏令营，使学生们获得最大的收益。</p>
+                    <p>可参考学习安排（可根据不同要求在英语听说读写的学习中，加入科技、美术、音乐、演讲、物理、化学等专业课程）</p>
+                    <p>插班到不同的班级里与美国当地孩子们一起上课，一起学习和生活，我们特别欢迎对数学、计算机、人文学科、历史、设计，美术，科学实验和写作有兴趣的学生加入。</p>
+                    <p>本项目整合美国院校及教学研究机构的强力资源，为学生提供优良的教学环境及优秀的师资教学团队，让学生在寓教于乐中感受美国精英教育，培养学生的独立学习意识，对学生未来的学习及升学奠定良好基础，课程结束颁发证书，整个学习过程中中美学生互动学习，感受美国校园文化，融入美式生活。</p>
+                    <hr>
+                    <h2>-项目优势-</h2>
+                    <ol>
+                        <li>中美学生结对子美国课堂实景教学</li>
+                        <li>美国东部名城名校游览</li>
+                        <li>美国校园丰富多彩课后活动</li>
+                        <li>美国寄宿家庭感受美式文化</li>
+                    </ol>
+                    <hr>
+                    <h2>-适合对象-</h2>
+                    <ol>
+                        <li>8 -18岁的青少年学生</li>
+                        <li>有一定的英文听说读写基础，可以在课堂上进行交流 </li>
+                        <li>未来有计划去美国读高中和大学，希望体验美国家庭生活和美国文化的学生</li>
+                    </ol>
+                    <hr>
+                </div>
+                <div class="schoolBox elemtab">
+                    <h2>小学插班生常规参考课程</h2>
+                    <img src="../img/shangqu/elem/1.png" alt="">
+                    <h2>小学插班生特色课程</h2>
+                    <img src="../img/shangqu/elem/2.png" alt="">
+                    <h2>小学常规课程表</h2>
+                    <img src="../img/shangqu/elem/5.png" alt="">
+                </div>
+                <div class="schoolBox middletab">
+                    <h2>初中插班生常规参考课程</h2>
+                    <img src="../img/shangqu/elem/3.png" alt="">
+                    <h2>初中常规课程参考</h2>
+                    <img src="../img/shangqu/elem/4.png" alt="">
+                </div>
+                <div class="schoolBox hightab">
+                    <h2>高中常规特色课程</h2>
+                    <img src="../img/shangqu/elem/2.png" alt="">
+                </div>
+            </div>
+            <div class="homeContent">
+                <div class="schoolBox">
+                    <h2>Homestay寄宿家庭住宿，体验美国本土文化</h2>
+                    <p>
+                    寄宿家庭旨在提高外语水平，促进了解国外文化。当孩子被送到一所学校，远离他们所熟悉的世界。这使他们有机会接触不同背景的学生，可以让他们学习到不同的文化。寄宿是孩子们最好选择。不仅给孩子们提供了更多的安全性、社会互动和家的感觉，作为家长，还让您的孩子在寄宿家庭里更放心。寄宿家庭也能时刻照顾着您的孩子，还给予他们充分的自由、社会生活和乐趣。他们可以与他们的寄宿家庭建立毕生的友谊，这无疑也是一种财富！
+                    </p>
+                    <ol>
+                        <li>一个说英文的家庭</li>
+                        <li>一个私人的房间</li>
+                        <li>一个舒适的床</li>
+                        <li>一个床头柜、台灯、书桌、衣柜或者梳妆台和镜子</li>
+                        <li>工作日提供两餐（午餐在学校吃）和周末会提供三餐</li>
+                        <li>一个私人或共用的浴室</li>
+                        <li>互联网</li>
+                        <li>寄宿家庭安排的学校接送</li>
+                    </ol>
+                </div>
             </div>
             <div class="highContent">
                 <div class="schoolBox camino">
@@ -206,6 +295,26 @@
                 </div>
             </div>
             <div class="uniContent">
+                <div class="schoolBox uniOverview">
+                    <h2>常青藤大学与各州知名学府深入参观：</h2>
+                    <p>
+                    哈佛大学、耶鲁大学、麻省理工、哥伦比亚大学等深入参观，耳濡目染名校的魅力！
+                    </p>
+                    <p>
+                    知名景点参观游览，听未听过的历史故事，了解一段又一段传奇人物的事迹，踏遍北美，边行边学习。
+                    </p>
+                    <p>
+                    看看孩子们开心的笑容，还等什么呢？Come on！咱们温暖的大家庭期待您的加入！
+                    </p>
+                    <img src="../img/shangqu/uni/o1.png" alt="">
+                    <img src="../img/shangqu/uni/o2.png" alt="">
+                    <img src="../img/shangqu/uni/o3.png" alt="">
+                    <img src="../img/shangqu/uni/o4.png" alt="">
+                    <img src="../img/shangqu/uni/o5.png" alt="">
+                    <img src="../img/shangqu/uni/o6.png" alt="">
+                    <img src="../img/shangqu/uni/o7.png" alt="">
+                    <img src="../img/shangqu/uni/o8.png" alt="">
+                </div>
                 <div class="schoolBox harvard">
                     <h1>1. 哈佛大学Harvard University</h1>
                     <img src="../img/shangqu/uni/h1.png" alt="">
@@ -450,29 +559,128 @@ NCA (美国教育部区域性认可联盟/North Central Association of Colleges 
 <script>
      $('#highBtn').addClass('active')
      $('.uniTopBanner').hide();
+     $('#exList').hide();
      $('.uniContent').hide();
+     $('.exchangeTopBanner').hide();
+     $('.homestayTopBanner').hide();
+     $('.exContent').hide();
+     $('.homeContent').hide();
+     $('#caminotab').addClass('active')
      $('#uniBtn').click(() => {
          $('#highList').hide()
          $('#uniList').fadeIn()
          $('#highBtn').removeClass('active');
          $('#uniBtn').addClass('active');
+         $('#exList').hide()
+         $('#homestayBtn').removeClass('active');
+         $('#exchangeBtn').removeClass('active');
          $('.highTopBanner').hide();
          $('.highContent').hide();
+         $('.exContent').hide();
+         $('.homeContent').hide();
          $('.uniTopBanner').fadeIn();
          $('.uniContent').fadeIn();
+         $('.exchangeTopBanner').hide();
+         $('.exContent').hide();
+         $('.homestayTopBanner').hide();
+         $('.homeContent').hide();
+         $('.uniOverview').fadeIn();
+         $('#uniOverview').addClass('active')
      })
      $('#highBtn').click(() => {
          $('#highList').fadeIn()
          $('#uniList').hide()
          $('#highBtn').addClass('active');
+         $('#exList').hide()
+         $('#homestayBtn').removeClass('active');
+         $('#exchangeBtn').removeClass('active');
          $('#uniBtn').removeClass('active');
          $('.uniTopBanner').hide();
+         $('.exContent').hide();
+         $('.homeContent').hide();
          $('.uniContent').hide();
          $('.highTopBanner').fadeIn();
          $('.highContent').fadeIn();
+         $('.exchangeTopBanner').hide();
+         $('.exContent').hide();
+         $('.homestayTopBanner').hide();
+         $('.homeContent').hide();
+         $('.camino').fadeIn();
+         $('#caminotab').addClass('active')
      })
+     $('#exchangeBtn').click(() => {
+        $('#highList').hide()
+         $('#uniList').hide()
+         $('#exList').fadeIn()
+         $('#highBtn').removeClass('active');
+         $('#uniBtn').removeClass('active');
+         $('#homestayBtn').removeClass('active');
+         $('#exchangeBtn').addClass('active');
+         $('.uniTopBanner').hide();
+         $('.exContent').hide();
+         $('.homeContent').hide();
+         $('.uniContent').hide();
+         $('.highTopBanner').hide();
+         $('.highContent').hide();
+         $('.exchangeTopBanner').fadeIn();
+         $('.exContent').fadeIn();
+         $('.homestayTopBanner').hide();
+         $('.homeContent').hide();
+         $('.elemtab, .middletab, .hightab').hide()
+         $('.overviewtab').fadeIn()
+         $('#exoverviewtab').addClass('active')
+     })
+     $('#homestayBtn').click(() => {
+        $('#highList').hide()
+         $('#uniList').hide()
+         $('#exList').hide()
+         $('#highBtn').removeClass('active');
+         $('#uniBtn').removeClass('active');
+         $('#homestayBtn').addClass('active');
+         $('#exchangeBtn').removeClass('active');
+         $('.uniTopBanner').hide();
+         $('.exContent').hide();
+         $('.homeContent').hide();
+         $('.uniContent').hide();
+         $('.highTopBanner').hide();
+         $('.highContent').hide();
+         $('.exchangeTopBanner').hide();
+         $('.exContent').hide();
+         $('.homestayTopBanner').fadeIn();
+         $('.homeContent').fadeIn();
+         $('.homeContent .schoolBox').fadeIn();
+     })
+     $('#exoverviewtab').click(() => {
+        $('#exList a').removeClass('active');
+        $('#exoverviewtab').addClass('active');
+        $('.schoolBox').hide();
+        $('.overviewtab').fadeIn();
+     })
+     $('#elementarytab').click(() => {
+        $('#exList a').removeClass('active');
+        $('#elementarytab').addClass('active');
+        $('.schoolBox').hide();
+        $('.elemtab').fadeIn();
+     })
+     $('#middletab').click(() => {
+        $('#exList a').removeClass('active');
+        $('#middletab').addClass('active');
+        $('.schoolBox').hide();
+        $('.middletab').fadeIn();
+     })
+     $('#hightab').click(() => {
+        $('#exList a').removeClass('active');
+        $('#hightab').addClass('active');
+        $('.schoolBox').hide();
+        $('.hightab').fadeIn();
+     })
+    $('#uniOverview').click(() => {
+        $('#uniList a').removeClass('active');
+        $('#uniOverview').addClass('active');
+        $('.schoolBox').hide()
+        $('.uniOverview').fadeIn()
+    })
     $('#caminotab').click(() => {
-        console.log('camino')
         $('#highList a').removeClass('active');
         $('#caminotab').addClass('active');
         $('.schoolBox').hide()

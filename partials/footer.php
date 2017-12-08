@@ -139,7 +139,7 @@
   loop:true,
   margin:15,
   stagePadding: 50,
-  nav:true,
+  nav:false,
   dots: false,
   autoplay: true,
   autoplayTimeout: 3000,

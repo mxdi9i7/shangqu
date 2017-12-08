@@ -12,7 +12,7 @@
                 <a class="btn btn-sm btn-simple btn-simple__blue" id="usCityBtn">美国合作城市</a>
                 <a class="btn btn-sm btn-simple btn-simple__blue" id="cnCityBtn">中国合作城市</a>
             </div>
-            <div class="floatingLinks">
+            <div class="floatingLinks" id="floatingLinks">
                 <ul id="usList">
                     <li>
                         <a id="nytab">纽约市</a>
@@ -537,7 +537,7 @@ Shanghai has the largest number of international schools of any city in China. I
    $('.cnCityTopBanner').hide();
    $('.cnCityContent').hide();
    $('#cnList').hide();
-   
+   $('#nytab').addClass('active');
  $('#cnCityBtn').click(() => {
    $('.usCityTopBanner').hide();
    $('.usCityContent').hide();
@@ -547,6 +547,7 @@ Shanghai has the largest number of international schools of any city in China. I
    $('#usList').hide()
    $('#usCityBtn').removeClass('active')
    $('#cnCityBtn').addClass('active')
+   $('#gdtab').addClass('active');
  })
  $('#usCityBtn').click(() => {
    $('.cnCityTopBanner').hide();
@@ -557,6 +558,7 @@ Shanghai has the largest number of international schools of any city in China. I
    $('#usList').fadeIn();
    $('#usCityBtn').addClass('active')
    $('#cnCityBtn').removeClass('active')
+   $('#nytab').addClass('active');
  })
 $('#nytab').click(() => {
     $('#usList a').removeClass('active');
