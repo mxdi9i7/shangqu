@@ -44,7 +44,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6">
-                趣教育传播，已经成为新锐父母们研究北美教育、推广户外教学的不二园地，我们的主旨在于训练孩子们养成独立思考、大胆创新、团队合作、冷静应急的性格。
+                尚-尊重与推崇，趣-激情与使之愉快，带你学行天下，和孩子们纵横北美！
                 </div>
                 <div class="col-12 col-md-6">
                     <!-- Copyright -->

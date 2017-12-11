@@ -134,55 +134,57 @@
     </div>
     <section class="contentSection">
         <div class="row">
-            <div class="col-md-8">
-                <div class="mainArticle">
+            <div class="col-md-12">
+                <!-- <div class="mainArticle">
                     <img src="../img/shangqu/1/img/6.png" alt="">
                     <h1>白天热气球，晚上孔明灯加烟花！天空有多美，由你决定！</h1>
                     <p>如果你因为错过了那一个色彩缤纷的热气球节而感觉遗憾，如果你想把你许下的美好愿望放飞天际，这个金秋9月，给你一个无憾的秋季嘉年华！</p>
                     <a href="">阅读更多</a>
-                </div>
+                </div> -->
                 <div class="row">
                     <div class="col-md-6">
                         <div class="indexCityBox">
                             <img src="../img/shangqu/us1.jpg" alt="">
-                            <h1>美国合作城市</h1> 
+                            <h1>美国合作城市介绍</h1> 
                         </div>
                         
                     </div>
                     <div class="col-md-6">
                         <div class="indexCityBox">
                             <img src="../img/shangqu/cn1.jpg" alt="">
-                            <h1>中国合作城市</h1>
+                            <h1>中国合作城市介绍</h1>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="medBox edu">
-                    <div class="medBoxOverlay">
+                    <div class="col-md-6">
+                        <div class="medBox edu">
+                            <div class="medBoxOverlay">
 
-                    </div>
-                    <div class="medBoxContent">
-                        <h1>美国游学</h1>
-                        <p>体验世界顶尖教学环境，与国际接轨。</p>
-                        <div class="boxContactContainer">
-                            <p>联系电话</p>
-                            <h2>+1-281-281-2811</h2>
-                            <a href="">了解更多</a>
+                            </div>
+                            <div class="medBoxContent">
+                                <h1>美国游学</h1>
+                                <p>体验世界顶尖教学环境，与国际接轨。</p>
+                                <div class="boxContactContainer">
+                                    <p>联系电话</p>
+                                    <h2>+1-281-281-2811</h2>
+                                    <a href="">了解更多</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="medBox travel">
-                    <div class="medBoxOverlay">
-                        
-                    </div>
-                    <div class="medBoxContent">
-                        <h1>北美旅游</h1>
-                        <p>领略北美各地风土人情，拓展视野，去看更大的世界。</p>
-                        <div class="boxContactContainer">
-                            <p>联系电话</p>
-                            <h2>+1-281-281-2811</h2>
-                            <a href="">了解更多</a>
+                    <div class="col-md-6">
+                        <div class="medBox travel">
+                            <div class="medBoxOverlay">
+                                
+                            </div>
+                            <div class="medBoxContent">
+                                <h1>北美旅游</h1>
+                                <p>领略北美各地风土人情，拓展视野，去看更大的世界。</p>
+                                <div class="boxContactContainer">
+                                    <p>联系电话</p>
+                                    <h2>+1-281-281-2811</h2>
+                                    <a href="">了解更多</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
