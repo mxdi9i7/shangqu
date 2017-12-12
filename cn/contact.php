@@ -27,15 +27,18 @@
                 <div class="row">
                     <div class="col-md-4">
                         <h6 class="text-uppercase">Address</h6>
-                        <span>136-85 Roosevelt Ave. Flushing, N.Y. 11355</span>
+                        <span>136-21 Roosevelt Ave. Flushing, N.Y. 11355</span>
                     </div>
                     <div class="col-md-4">
                         <h6 class="text-uppercase">Phone</h6>
-                        <span>+1 646 XX5-29DF</span>
+                        <span>+1 646-288-3191</span>
+                        <br>
+                        <span>+1 479-970-4683</span>
                     </div>
                     <div class="col-md-4">
                         <h6 class="text-uppercase">Email</h6>
-                        <span><a href="mailto:qdonow@gmail.com">qdonow@gmail.com</a></span>
+                        <span><a href="mailto:pomelo31218@gmail.com">pomelo31218@gmail.com</a></span>
+                        <span><a href="mailto:pomelo31218@hotmail.com">pomelo31218@hotmail.com</a></span>
                     </div>
                 </div>
             </div>
