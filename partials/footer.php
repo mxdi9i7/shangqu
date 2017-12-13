@@ -10,25 +10,12 @@
                 <div class="col-12 col-md-2">
                     <!-- Footer Logo -->
                     <div class="footer-main__logo">
-                        Orator
+                        尚趣
                     </div>
                     <!--/ End Footer Logo -->
                 </div>
                 <div class="col-12 col-sm-8 col-md-6">
                     <!-- Footer Menu -->
-                    <div class="footer-main__menu">
-                        <ul class="nav justify-content-center">
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">Terms</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">Privacy</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">Security</a>
-                            </li>
-                        </ul>
-                    </div>
                     <!--/ End Footer Menu -->
                 </div>
                 <div class="col-12 col-sm-4 col-md-4">
@@ -57,12 +44,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                尚-尊重与推崇，趣-激情与使之愉快，带你学行天下，和孩子们纵横北美！
                 </div>
                 <div class="col-12 col-md-6">
                     <!-- Copyright -->
                     <div class="copyright text-md-right">
-                        &copy; something.com 2017.
+                        &copy; 本成科技 2017.
                     </div>
                     <!--/ End Copyright -->
                 </div>
@@ -144,9 +131,32 @@
 
 <!-- Main JS -->
 <script type="text/javascript" src="../js/main.js"></script>
-<script type="text/javascript" src="../js/custom.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDMzTj8HeeIrpLd6EUqv3J7Lyk8A1o_o50&callback=initMap"
-        async defer></script>
-</body>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
+<script type="text/javascript" src="../js/custom.js"></script>
+<script>
+    $('.owl-carousel').owlCarousel({
+  loop:true,
+  margin:15,
+  stagePadding: 50,
+  nav:false,
+  dots: false,
+  autoplay: true,
+  autoplayTimeout: 3000,
+  autoplayHoverPause: true,
+  navText: [`<span class="fa fa-5x fa-angle-left"></span>`, `<span class="fa fa-5x fa-angle-right"></span>`],
+  responsive:{
+      0:{
+          items:1
+      },
+      600:{
+          items:3
+      },
+      1000:{
+          items:5
+      }
+  }
+})
+
+</script>
 </html>
