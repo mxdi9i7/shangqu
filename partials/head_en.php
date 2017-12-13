@@ -62,7 +62,7 @@
                         <!-- Logo -->
                         <div class="navbar-brand header-logo py-1">
                             <img src="../img/shangqu/logo.jpg" alt="" >
-                            <a class="logoText" href="index.php">尚趣教育</a>
+                            <a class="logoText" href="index.php">NobleFun</a>
                         </div>
                         <!--/ End Logo -->
                     </div>
@@ -73,36 +73,36 @@
                             <div class="header-nav__main collapse navbar-collapse justify-content-end">
                                 <ul class="nav navbar-nav navAnimateBorder">
                                     <li class="nav-item" id="homeLink">
-                                        <a class="nav-link"  href="./index.php">首页 <span class="sr-only">(current)</span></a>
+                                        <a class="nav-link"  href="./index.php">Home <span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item"  id="aboutLink">
-                                        <a class="nav-link" href="./about.php">关于我们</a>
+                                        <a class="nav-link" href="./about.php">About us</a>
                                     </li>
                                     <li class="nav-item" id="cityLink">
-                                        <a class="nav-link"  href="./city.php">中美合作城市介绍</a>
+                                        <a class="nav-link"  href="./city.php">Cities</a>
                                     </li>
                                     <li class="nav-item" id="schoolLink">
-                                        <a class="nav-link"  href="./school.php">赴美游学</a>
+                                        <a class="nav-link"  href="./school.php">Education</a>
                                     </li>
                                     <li class="nav-item" id="eventsLink">
-                                        <a class="nav-link"  href="./events.php">精彩活动</a>
+                                        <a class="nav-link"  href="./events.php">Events</a>
                                     </li>
                                     <li class="nav-item" id="jobLink">
-                                        <a class="nav-link"  href="./jobs.php">招聘</a>
+                                        <a class="nav-link"  href="./jobs.php">Jobs</a>
                                     </li>
                                     <li class="nav-item" id="newsLink">
-                                        <a class="nav-link"  href="./news.php">新闻发布</a>
+                                        <a class="nav-link"  href="./news.php">Press</a>
                                     </li>
                                     <li class="nav-item" id="contactLink">
-                                        <a class="nav-link"  href="./contact.php">联系我们</a>
+                                        <a class="nav-link"  href="./contact.php">Contact</a>
                                     </li>
                                     <div class="lang">
                                         <a href="#" id="lang-toggle" class="lang__option lang__option--current">
-                                        中文 <span class="lang__chevron">›</span>
+                                        EN <span class="lang__chevron">›</span>
                                         </a>
                                         <ul class="lang__list">
                                             <li>
-                                            <a href="../en/index.php" class="lang__option">英文</a>
+                                            <a href="../cn/index.php" class="lang__option">CN</a>
                                             </li>
                                         </ul>  
                                     </div>

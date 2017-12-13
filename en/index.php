@@ -1,5 +1,5 @@
 
-<?php include '../partials/head.php' ?>
+<?php include '../partials/head_en.php' ?>
 <input type="text" value="home" hidden id="activeIdentifier">
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
@@ -30,17 +30,9 @@
         <img class="d-block w-100" src="../img/shangqu/c6.JPG" alt="Third slide">
         </div>
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
     </div>
     <!-- Hero -->
-    <h1 class="indexTitle">-精彩瞬间-</h1>
+    <h1 class="indexTitle">-Moments-</h1>
     <div class="owl-carousel owl-theme articleCarousel">
         <div class="item">
             <a class="articleBlock" style="background-image:url(../img/shangqu/2/img/43.png)">
@@ -147,24 +139,18 @@
     <section class="contentSection">
         <div class="row">
             <div class="col-md-12">
-                <!-- <div class="mainArticle">
-                    <img src="../img/shangqu/1/img/6.png" alt="">
-                    <h1>白天热气球，晚上孔明灯加烟花！天空有多美，由你决定！</h1>
-                    <p>如果你因为错过了那一个色彩缤纷的热气球节而感觉遗憾，如果你想把你许下的美好愿望放飞天际，这个金秋9月，给你一个无憾的秋季嘉年华！</p>
-                    <a href="">阅读更多</a>
-                </div> -->
                 <div class="row">
                     <div class="col-md-6">
                         <div class="indexCityBox">
                             <img src="../img/shangqu/us1.jpg" alt="">
-                            <h1>美国合作城市介绍</h1> 
+                            <h1>U.S. Cities</h1> 
                         </div>
                         
                     </div>
                     <div class="col-md-6">
                         <div class="indexCityBox">
                             <img src="../img/shangqu/cn1.jpg" alt="">
-                            <h1>中国合作城市介绍</h1>
+                            <h1>C.N. Cities</h1>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -173,12 +159,12 @@
 
                             </div>
                             <div class="medBoxContent">
-                                <h1>美国游学</h1>
-                                <p>体验世界顶尖教学环境，与国际接轨。</p>
+                                <h1>Study in U.S.</h1>
+                                <p>Experience the world class education.</p>
                                 <div class="boxContactContainer">
-                                    <p>联系电话</p>
+                                    <p>Contact Number</p>
                                     <h2>+1 646-288-3191</h2>
-                                    <a href="">了解更多</a>
+                                    <a href="/school.php">Learn more</a>
                                 </div>
                             </div>
                         </div>
@@ -189,12 +175,12 @@
                                 
                             </div>
                             <div class="medBoxContent">
-                                <h1>北美旅游</h1>
-                                <p>领略北美各地风土人情，拓展视野，去看更大的世界。</p>
+                                <h1>Travel in U.S.</h1>
+                                <p>Experience the world and different cultures.</p>
                                 <div class="boxContactContainer">
-                                    <p>联系电话</p>
+                                    <p>Contact Number</p>
                                     <h2>+1 646-288-3191</h2>
-                                    <a href="">了解更多</a>
+                                    <a href="/city.php">Learn more</a>
                                 </div>
                             </div>
                         </div>
@@ -215,7 +201,7 @@
                             <i class="fa fa-check"></i>
                         </div>
                         <h2 class="single-stat__counter counter">5917</h2>
-                        <p>人次参加</p>
+                        <p>Participants</p>
                     </div>
                     <!--/ End Single Count -->
                 </div>
@@ -226,7 +212,7 @@
                             <i class="fa fa-star"></i>
                         </div>
                         <h2 class="single-stat__counter counter">175</h2>
-                        <p>次集体活动</p>
+                        <p>Events</p>
                     </div>
                     <!--/ End Single Count -->
                 </div>
@@ -237,7 +223,7 @@
                             <i class="fa fa-pencil-square"></i>
                         </div>
                         <h2 class="single-stat__counter counter">32</h2>
-                        <p>个合作机构</p>
+                        <p>Partners</p>
                     </div>
                     <!--/ End Single Count -->
                 </div>
@@ -248,7 +234,7 @@
                             <i class="fa fa-coffee"></i>
                         </div>
                         <h2 class="single-stat__counter counter">100</h2>
-                        <p>百分之一百的好评</p>
+                        <p>Percent of Positive Reviews</p>
                     </div>
                     <!--/ End Single Count -->
                 </div>
@@ -257,4 +243,4 @@
     </section>
     <!--/ End Stats -->
 
-    <?php include '../partials/footer.php' ?>
+    <?php include '../partials/footer_en.php' ?>

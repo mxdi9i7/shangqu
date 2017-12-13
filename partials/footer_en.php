@@ -10,7 +10,7 @@
                 <div class="col-12 col-md-8">
                     <!-- Footer Logo -->
                     <div class="footer-main__logo">
-                    尚趣（美国）中美文化教育交流中心
+                    NobleFun Educational Communications
                     </div>
                     <!--/ End Footer Logo -->
                 </div>
@@ -40,12 +40,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6">
-                尚-尊重与推崇，趣-激情与使之愉快，带你学行天下，和孩子们纵横北美！
+                Shang (Noble) - respect and respected, Qu (Fun) - passion and positivity, we take you to explore the world, with children across the United States!
                 </div>
                 <div class="col-12 col-md-6">
                     <!-- Copyright -->
                     <div class="copyright text-md-right">
-                        &copy; 尚趣（美国）中美文化教育交流中心 2017 版权所有
+                        &copy; NobleFun Educational Communications 2017 All rights reserved.
                     </div>
                     <!--/ End Copyright -->
                 </div>

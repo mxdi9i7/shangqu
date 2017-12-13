@@ -491,7 +491,7 @@
     margin: 20px 0;
 }
 .carousel-item img {
-    height: 80vh;
+    height: 100vh;
 }
 .indexTitle {
     font-size: 28px;
@@ -528,3 +528,82 @@
 .floatingLinks a {
     margin: 10px 0;
 }
+.header-logo img, .header-logo svg {
+    height: 40px;
+}
+
+.lang {
+    display: inline-block;
+    text-align: left;
+    margin-left: 30px;
+  }
+  
+  .lang a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+  .lang__list,
+  .lang__option {
+    margin: 0;
+    padding: 0;
+    display: inline;
+  }
+  
+  .lang__chevron {
+    display: none;
+  }
+  
+  .js .lang {
+    border: solid 1px black;
+    min-width: 4rem;
+    position: relative;
+  }
+  
+  .js .lang__list,
+  .js .lang__option {
+    display: block;
+  }
+  
+  .js .lang__chevron {
+    display: inline-block;
+    float: right;
+    transform: rotate(90deg);
+  }
+  
+  .js .lang__option {
+    padding: 0.5rem;
+    background-color: #fff;
+    box-shadow:0 1px 8px 0 rgba(0,0,0,.2), 0 3px 4px 0 rgba(0,0,0,.14), 0 3px 3px -2px rgba(0,0,0,.12)
+  }
+  
+  .js .lang__option:hover, .js .lang__option:focus {
+    background-color: white;
+  }
+  
+  .js .lang__list {
+    display: none;
+    list-style-type: none;
+  }
+  
+  .js .is-open {
+    border-bottom: none;
+  }
+  
+  .js .is-open .lang__list {
+    border: solid 1px;
+    border-top: none;
+    display: block;
+    position: absolute;
+    left: -1px;
+    width: 100%;
+  }
+  
+  .js .is-open .lang__chevron {
+    transform: rotate(270deg);
+  }
+  .navbar .logoText {
+      font-weight: 400;
+      font-size: 32px;
+  }
