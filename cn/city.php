@@ -1,5 +1,43 @@
 <?php include '../partials/head.php' ?>
     <input type="text" value="city" type="hidden" id="activeIdentifier" hidden>
+    <style>
+        #usList {
+            width: 99%;
+            text-align: center;
+            margin: 0 auto;
+        }
+        #usList li {
+            display: inline;
+            margin:  0 10px;
+        }
+        #usList li:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+        #usList li a.active {
+            color: #000;
+            font-weight: 900;
+            text-decoration: underline;
+        }
+        #cnList {
+            width: 99%;
+            text-align: center;
+            margin: 0 auto;
+        }
+        #cnList li {
+            display: inline;
+            margin:  0 10px;
+        }
+        #cnList li:hover {
+            text-decoration: underline;
+            cursor: pointer;
+        }
+        #cnList li a.active {
+            color: #000;
+            font-weight: 900;
+            text-decoration: underline;
+        }
+    </style>
     <section class="citySection">
         <section class="cityContainer">
             <div class="usCityTopBanner">
