@@ -106,6 +106,9 @@
                                             </li>
                                         </ul>  
                                     </div>
+                                    <li class="lang-text nav-item">
+                                        <a href="../en/index.php">英文</a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>

@@ -570,7 +570,7 @@ NCA (美国教育部区域性认可联盟/North Central Association of Colleges 
                     Participate in a variety of summer camps, activities and enriched curriculums. We offer Math, English, Social Studies, Technology, Public Speaking and Intensive Writing courses. 
                     We also offer a variety of liberal arts curriculum such as Music, Arts, Physics and Chemistry. While the students experience a world class hoslistic education, we also train them on 
                     leadership, organization skills and intensive English courses. Students will get the first hand practical experience in an American education while developing new concepts of teamwork and social skills.
-                    NobleFun designs and organizes summer camp activities accoding to the demands and needs of our students, we work hard to make sure that every student walks away with valuable lessons and a fun time. 
+                    Noblefun designs and organizes summer camp activities accoding to the demands and needs of our students, we work hard to make sure that every student walks away with valuable lessons and a fun time. 
                     </p>
                     <p>
                     For more information, please visit the links above to learn more about the public school curriculums our partner schools offer.

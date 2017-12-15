@@ -106,6 +106,9 @@
                                             </li>
                                         </ul>  
                                     </div>
+                                    <li class="lang-text nav-item">
+                                        <a href="../cn/index.php">CN</a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>

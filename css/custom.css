@@ -607,3 +607,21 @@
       font-weight: 400;
       font-size: 32px;
   }
+  .lang-text {
+      display: none;
+  }
+  @media screen and (max-width:450px) {
+    .lang {
+        display: none;
+        text-align: left;
+        margin-left: 30px;
+      }
+    .lang-text {
+        display: inline;
+    }
+    .header .lang-text a {
+        display: inline;
+        padding-left: 30px;
+        margin: 0;
+    }
+  }

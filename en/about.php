@@ -4,26 +4,26 @@
         <div class="aboutContainer">
             <div class="aboutBox">
                 <h1>-Mission-</h1>
-                <span>NobleFun educational communications, havs become a new trend for parents of the 21st century. As outdoor learning becomes more and more popular, our goal is to nurture independent thinking, bold innovation, teamwork, calm and passionate characters in children.
+                <span>Noblefun educational communications, has become a new trend for parents of the 21st century. As outdoor learning becomes more and more popular, our goal is to nurture independent thinking, bold innovation, teamwork, calm and passionate characters in children.
                 </span>
                 <h2>About us</h2>
                 <p>
-                NobleFun covers every area of learning from experiencing the classrooms of prestigious schools to western outdoor learning to create a holistic environment that allows children to embrace diversity. 
+                Noblefun covers every area of learning from experiencing the classrooms of prestigious schools to western outdoor learning to create a holistic environment that allows children to embrace diversity. 
                  From primary, junior high school, high school, and then to college, 
                  to provide parents and children from the "line" and "learn "360-degree teaching in all directions, to activate the children's 
                  knowledge of exploration, and to put aside the framework that limits children's thinking and imagination, and the shackles that
                   hinder the success of each child. We encourage children to discover and to grow in the process of experiencing the world!
-                  NobleFun brings you to explore prestigious schools of North America, to participate in homestay programs with local families, blend into local schools to exprience the value of elite education and diversity. You will learn
+                  Noblefun brings you to explore prestigious schools of North America, to participate in homestay programs with local families, blend into local schools to exprience the value of elite education and diversity. You will learn
                   among the best students and be exposed to the authentic American culture.
                 </p>
                 <p>Our curriculums range from STEM education to robotics research, from music to liberal arts.</p>
                 <p>Premium tours to Ivy League schools like Harvard, MIT and Yale.</p>
-                <p>Visit American landmarks like the Lady of Liberty, Empire State Building, Universal Studio and Holywood. </p>
+                <p>Visit American landmarks like the Statue of Liberty, Empire State Building, Universal Studio and Hollywood. </p>
                 <p>Study in American primary schools, middle schools and highschools and enjoy the most original English education.
                 </p>
                 <p>
                  
-                NobleFun Outdoors Exploration Program: Join us, you will learn with your children while having fun. Grow together with your children and become best friends with them. Beside private family tours, we also offer family events to all parents to create the most beautiful memories with the children.<br>
+                Noblefun Outdoors Exploration Program: Join us, you will learn with your children while having fun. Grow together with your children and become best friends with them. Beside private family tours, we also offer family events to all parents to create the most beautiful memories with the children.<br>
                 <p>
                 On the ground:   Shooting, equestrian, hunting, hiking, skiing, rafting, rock climbing, camping, enjoy the beauty of the seasons ... </p>
                 <p>On the sea: Boats, fishing, fishing crabs, grabbing big lobster, diving, yachting ...  </p>
