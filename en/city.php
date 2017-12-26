@@ -97,25 +97,25 @@
             </div>
             <div class="usCityContent">
                 <div class="cityBox ny">
-                    <h1>1. 纽约市</h1>
+                    <h1>1. New York </h1>
                     <p>
-                        纽约市（City of New York，简称NYC），位于美国纽约州东南部大西洋沿岸，是美国第一大城市及第一大港。
+                    New York is a state in the northeastern United States. New York was one of the original thirteen colonies that formed the United States. 
                     </p>
                     <p>
-                        纽约坐拥大纽约都会区的核心地带，是一座世界级国际化大都市，也是世界第一大经济中心，其GDP于2013年超越东京，位居世界第一。截至2010年，纽约的财产所有总值为813万亿美元，直接影响着全球的金融、媒体、政治、娱乐以及时尚界。
+                    With an estimated 19.8 million residents in 2015, it is the fourth most populous state in the United States. To differentiate from its city with the same name, it is sometimes called New York State.
                     </p>
                     <img src="../img/shangqu/uscity/3.jpg" alt="">
                     <p>
-                        纽约是美国人口最多的城市，也是个多族裔聚居的多元化城市，拥有来自97个国家和地区的移民，在此使用的语言达到800种。截至2014年，纽约市大约有849万人，居住在789平方千米的土地上。而纽约大都市圈则有2000万人左右。
+                    The state's largest city, New York City, makes up over 40% of the state's population. Two-thirds of the state's population lives in the New York metropolitan area, and nearly 40% lives on Long Island.The state and city were both named for the 17th-century Duke of York, future King James II of England. With an estimated population of 8.55 million in 2015, New York City is the most populous city in the United States and the premier gateway for legal immigration to the United States.
                     </p>
                     <p>
-                        纽约在商业和金融的方面也发挥着巨大的影响力。纽约的金融区，以曼哈顿下城及华尔街为龙头，被称为世界的金融中心，世界500强企业中，有56家总部企业位于纽约。 纽约证券交易所是世界第二大证交所，它曾是最大的交易所，全球市值为15万亿美元，直到1996年它的交易量被纳斯达克超过。纽约时报广场位于百老汇剧院区枢纽，被称作“世界的十字路口”，亦是世界娱乐产业的中心之一。曼哈顿的唐人街是西半球最为密集的华人集中地。
+                    New York's gross state product in 2015 was $1.44 trillion. If New York State were an independent nation, it would rank as the 12th or 13th largest economy in the world, depending upon international currency fluctuations. However, in 2013, the multi-state, New York City-centered Metropolitan Statistical Area produced a gross metropolitan product (GMP) of nearly US$1.4 trillion, while in 2012, the corresponding Combined Statistical Area generated a GMP of over US$1.55 trillion, both ranking first nationally by a wide margin and behind the GDP of only twelve nations and eleven nations, respectively.
                     </p>
                     <p>
-                        纽约地铁是世界上最为发达的快速交通系统之一，提供一日24小时、一周七日的服务。 纽约拥有哥伦比亚大学、纽约大学和洛克菲勒大学等名校。
+                    New York has one of the most extensive and one of the oldest transportation infrastructures in the country. Engineering challenges posed by the complex terrain of the state and the unique infrastructural issues of New York City brought on by urban crowding have had to be overcome perennially.
                     </p>
                     <p>
-                        纽约是美国文化、艺术、音乐和出版中心，有众多的博物馆、美术馆、图书馆、科学研究机构和艺术中心，美国三大广播电视网和一些有影响的报刊、通讯社的总部都设在这里。
+                    New York's higher education network comprises approximately 200 colleges and universities, including Columbia University , Cornell University , New York University , and Rockefeller University , which have been ranked among the top 35 in the world.
                     </p>
                     <img src="../img/shangqu/uscity/2.jpg" alt="">
                     <img src="../img/shangqu/uscity/nyedu1.png" alt="">
@@ -126,277 +126,158 @@
                     <img src="../img/shangqu/uscity/nyedu6.png" alt="">
                 </div>
                 <div class="cityBox dc">
-                    <h1>2. 华盛顿特区</h1>
+                    <h1>2. Washington D.C.</h1>
                     <img src="../img/shangqu/uscity/5.jpg" alt="">
                     <p>
-                    华盛顿哥伦比亚特区（Washington, D.C.）英文全称为Washington District of Columbia，缩写为WDC，简称为华盛顿，又称华都、华府，美利坚合众国的首都，靠近弗吉尼亚州和马里兰州，位于美国的东北部、中大西洋地区，是1790年作为首都而设置、由美国国会直接管辖的特别行政区划，因此不属于美国的任何一州。位于北纬38°53.707′，西经77°02.182′。UTC-5 EST 东部标准时区，使用东部标准时间。市区面积178平方千米。2012年华盛顿哥伦比亚特区人口为64.6 万，位列全美各州第49位，其中58%为黑人。
+                    Washington, D.C., formally the District of Columbia and commonly referred to as "Washington", "the District", or simply "D.C.", is the capital of the United States.
                     </p>
                     <p>
-                    华盛顿是美国的政治中心，因此经济色彩不浓，是大多数美国联邦政府机关与各国驻美国大使馆的所在地，也是世界银行、国际货币基金组织、美洲国家组织等国际组织总部的所在地，还拥有为数众多的博物馆与文化史迹。
+                    Washington, D.C., is located in the mid-Atlantic region of the U.S. East Coast. Due to the District of Columbia retrocession, the city has a total area of 68.34 square miles (177.0 km2), of which 61.05 square miles (158.1 km2) is land and 7.29 square miles (18.9 km2) (10.67%) is water. The District is bordered by Montgomery County, Maryland, to the northwest; Prince George's County, Maryland, to the east; and Arlington and Alexandria, Virginia, to the south and west. Washington had an estimated population of 693,972 as of July 2017. Commuters from the surrounding Maryland and Virginia suburbs raise the city's population to more than one million during the workweek.
                     </p>
                     <img src="../img/shangqu/uscity/4.jpg" alt="">
                     <p>
-                    华盛顿位于马里兰州和弗吉尼亚州之间。这里原是一片灌木丛生之地，只有一些村舍散落其间。1789年，美国邦联政府正式成立，乔治·华盛顿当选为首任总统。当国会在纽约召开第一次会议时，建都选址问题引起激烈争吵，南北两方的议员都想把首都设在本方境内。1790年国会最后达成妥协，由总统华盛顿选定南北方的天然分界线－－波托马克河畔长宽各为16公里的地区作为首都地址，并请法国工程师皮埃尔·夏尔·朗方主持首都的总体规划和设计。
                     </p>
                     <p>
-                    华盛顿哥伦比亚特区的最高权力机构为美国国会，通过华盛顿市政府实施管理。但是华盛顿市民在众议院仅有一名有选举权的代表，在参议院没有代表。
-                        •	约翰·霍普金斯大学（The Johns Hopkins University）
-                        •	乔治城大学（Georgetown University）
-                        •	乔治·华盛顿大学（George Washington University）
-                        •	华盛顿哥伦比亚特区美国社区学院协会（American Association of Community Colleges）的发源地。
-                        •	哥伦比亚特区大学（University of the District of Columbia），华盛顿哥伦比亚特区唯一的公立大学。
-                        •	国家国防大学（National Defense University）
-                        •	美国大学（American University）
-                        •	美国天主教大学（Catholic University of American）
-                        •	可可然艺术学校（Corcoran School of Art）
-                        •	哈沃德大学（Howard University）
-                        •	维嫩山学院（Mount Vernon College）
-                        •	奥伯雷特学院（Oblate College）
-                        •	东南大学（Southeastern University）
-                        •	史脆瑞尔学院（Strayer College）
-                        •	三圣学院（Trinity College）
-                        •	盖路德特大学（Gallaudet University）：专门收耳聋与听力损伤的学生。
-
+                    There are twenty colleges and universities in Washington, D.C. that are listed under the Carnegie Classification of Institutions of Higher Education. These institutions include five research universities, four master's universities, and ten special-focus institutions.
                     </p>
                     <img src="../img/shangqu/uscity/6.jpg" alt="">
                 </div>
                 <div class="cityBox ma">
-                    <h1>3. 马萨诸塞州</h1>
+                    <h1>3. Massachusetts</h1>
                     <p>
-                        波士顿（Boston）是美国马萨诸塞州的首府和最大城市，也是美国东北部的新英格兰地区的最大城市。
+                    Boston is the capital city and most populous municipality of the Commonwealth of Massachusetts in the United States. It is also the seat of Suffolk County, although the county government.
                     </p>
                     <p>
-                    波士顿位于美国东北部大西洋沿岸，创建于1630年，是美国最古老、最有文化价值的城市之一。美国历史上发生的波士顿倾茶事件，最终引起著名的美国独立战争。
-                    </p>
+                    The city proper covers 48 square miles (124 km2) with an estimated population of 673,184 in 2016, making it the largest city in the New England region of the northeastern United States.</p>
                     <img src="../img/shangqu/uscity/7.jpg" alt="">
                     <p>
-                    波士顿是美国东北部高等教育和医疗保健的中心，是全美人口受教育程度最高的城市。它的经济基础是科研、金融与技术—特别是生物工程，并被认为是一个全球性城市或世界性城市。
-                    </p>
-                    <p>
-                    波士顿被誉为“美国雅典”，是因为在波士顿大都会区拥有超过100所大学，超过25万名大学生在此接受教育。在市区内，东北大学是一所大型的私立大学，在芬威区有一座校园。波士顿大学(BOSTON UNIVERSITY)是世界上最大的大学之一，位于查尔斯河畔的联邦大道。惠洛克学院、西蒙斯学院、马萨诸塞药学院和温沃斯理工学院组成了芬威大学群，毗邻东北大学。萨福克大学是一所小型私立大学，以法学院著称，校园坐落在灯塔山。新英格兰法学院是一所小型的私立法学院，位于剧院区，创建时是美国唯一的一所女子法学院。爱默生学院是一所小型的私立学院，在表演艺术领域、新闻、写作和电影方面有很高的声望，位置靠近波士顿公园。该市还拥有几所音乐学校和美术学校，包括马萨诸塞美术学院、新英格兰音乐学院（美国最古老的独立音乐学校）、波士顿音乐学校、波士顿美术博物馆学校和伯克利音乐学院。波士顿主要的公立大学是马萨诸塞大学波士顿分校，位于多尔切斯特的哥伦比亚角，该市的2所社区学院是洛克斯布里社区学院和邦克山社区学院。
-                    </p>
+                    The city is the economic and cultural anchor of a substantially larger metropolitan area known as Greater Boston, a metropolitan statistical area (MSA) home to a census-estimated 4.8 million people in 2016 and ranking as the tenth-largest such area in the country. As a combined statistical area (CSA), this wider commuting region is home to some 8.2 million people, making it the sixth-largest in the United States.</p>
                     <img src="../img/shangqu/uscity/8.jpg" alt="">
                     <p>
-                    几所美国主要的大学都位于波士顿外围，在该市有重要影响。哈佛大学(HARVARD)是美国最古老的高等教育机构，位于查尔斯河对岸的剑桥。哈佛商学院和哈佛医学院位于波士顿，并正在计划在波士顿的阿尔斯顿附近进行重大扩展。麻省理工学院（MIT）最初位于波士顿市内，很长时期称为“波士顿理工学院”（1865-1916），在1916年才跨过查尔斯河迁往剑桥。塔夫茨大学(TUFTS)管理着它的医学院和牙科学院，塔夫茨-新英格兰医疗中心是一个拥有451个床位的医学学术机构，拥有一个科室齐全的成人医院和流动的儿童医院。波士顿学院(BC)是波士顿最早的高等教育机构，也是美国最古老的教会大学之一，BC现在的主校区位于波士顿西郊的栗树山（CHESTNUT HILL），同时在邻近的牛顿（Newton）和布莱顿（Brighton）设立有分校区。而位于沃尔瑟姆镇的布兰迪斯大学(BRANDEIS)则是一所全新型的私立综合性大学，学术和校园气氛活跃，虽然仅有60多年的建校历史但却早已声名卓著。哈佛大学(HARVARD)、麻省理工学院(MIT)、塔夫茨大学(TUFTS)、波士顿学院(BOSTON COLLEGE)、布兰迪斯大学(BRANDEIS)这五所私立顶级名校实行精英教育，教育质量优良， 常年在美国大学US NEWS 综合排名中名列前茅， 这五所综合性大学被称为“波士顿五大名校”。
+                    The Boston area's many colleges and universities make it an international center of higher education , including law, medicine, engineering, and business, and the city is considered to be a world leader in innovation and entrepreneurship , with nearly 2,000 start-ups.
                     </p>
                     <p>
-                    波士顿公立学校是美国最古老的公立学校系统，从幼儿园到12年级，共有58,600名学生。该系统包括145所学校，其中包括波士顿拉丁学校（最古老的公立学校，成立于1635年；有7-12年级，在7-9年级通过公开考试招收学生），英文中学（最古老的公立中学，成立于1821年）和马特学校（最古老的公立小学，成立于1639年。3,000名少数族裔学生通过大都会教育机会委员会（METCO）得到在郊区学校就学的机会。2002年，福布斯杂志将波士顿公立学校系统列为美国最好的大城市学校系统，毕业率达到82%。
+                    The Boston Public Schools enroll 57,000 students attending 145 schools, including the renowned Boston Latin Academy , John D. O'Bryant School of Math & Science , and Boston Latin School .
                     </p>
                     <p>
-                    此外波士顿还拥有不少优质的私立学校、特许学校（charter school）和教会学校。其中波士顿学院高中（BC High）成立于1863年， 位于波士顿市内，是一所历史悠久的男校。
-                        知名大学
-                        主要有以下几所大学
-                        哈佛大学（HARVARD）
-                        麻省理工学院（MIT）
-                        塔夫茨大学（TUFTS）
-                        波士顿学院（BOSTON COLLEGE）
-                        布兰迪斯大学（BRANDEIS）
-                        波士顿大学（BOSTON UNIVERSITY）
-                        东北大学（NEU）
-                        麻省大学 (UMass)
-                        本特利大学 (Bentley)
-                        萨福克大学
-                        爱默生学院
-                        威廉姆斯学院
-                        阿莫斯特学院
-                        曼荷莲学院 （美国第一所女子学院 “七姐妹”女校）
-                        史密斯学院（“七姐妹”女校之一）
-                        新英格兰音乐学院
-                        伯克利音乐学院
-
+                    Greater Boston has more than 100 colleges and universities, with 250,000 students enrolled in Boston and Cambridge alone. The city's largest private universities include Boston University (also the city's fourth-largest employer), with its main campus along Commonwealth Avenue and a medical campus in the South End; Northeastern University in the Fenway area; Suffolk University near Beacon Hill, which includes law school and business school; and Boston College, which straddles the Boston (Brighton)–Newton border. Boston's only public university is the University of Massachusetts Boston on Columbia Point in Dorchester. Roxbury Community College and Bunker Hill Community College are the city's two public community colleges. Altogether, Boston's colleges and universities employ more than 42,600 people, accounting for nearly seven percent of the city's workforce.
                     </p>
                     <img src="../img/shangqu/uscity/9.jpg" alt="">
                 </div>
                 <div class="cityBox pe">
-                    <h1>4. 宾夕法尼亚州</h1>
+                    <h1>4. Pennsylvania</h1>
                     <p>
-                    宾夕法尼亚州（Commonwealth of Pennsylvania）是美国东北部的一州，为立国13州之一。著名城市有费城。费城（Philadelphia）位于美国宾夕法尼亚州东南部，是特拉华河谷都会区的中心城市，市区东起特拉华河，向西延伸到斯库基尔河以西，面积334㎞²。费城是美国最老、最具历史意义的城市之一，1790-1800年，在华盛顿建市前曾是美国的首都，因此在美国史上有非常重要的地位。
+                    Pennsylvania, officially the Commonwealth of Pennsylvania, is a state located in the northeastern and Mid-Atlantic regions of the United States. The Appalachian Mountains run through its middle. The Commonwealth borders Delaware to the southeast, Maryland to the south, West Virginia to the southwest, Ohio to the west, Lake Erie and the Canadian province of Ontario to the northwest, New York to the north, and New Jersey to the east.
                     </p>
                     <p>
-                    费城别称“友爱之城”，是宾州最大城市，与新泽西州仅一河之隔；是美国第5大城市，仅次于纽约、洛杉矶、芝加哥和休斯敦；费城都会区是全美第4大都会区，仅次于纽约、洛杉矶和芝加哥。费城市区人口共有1,553,165人（2013年），都会区人口超过715万人（2013年）。费城地理位置优越，向东北距离纽约大约160公里（2小时车程），向西南距离首都华盛顿约220公里（3小时车程）。
+                    Pennsylvania is the 33rd-largest, the 5th-most populous, and the 9th-most densely populated of the 50 United States. The state's five most populous cities are Philadelphia (1,560,297), Pittsburgh (305,801), Allentown (118,577), Erie (100,671), and Reading (89,893). The state capital, and its ninth-largest city, is Harrisburg. Pennsylvania has 140 miles (225 km) of shoreline along Lake Erie and the Delaware Estuary.
                     </p>
                     <img src="../img/shangqu/uscity/10.jpg" alt="">
                     <p>
-                    费城是宾州最大的经济体城市，2013年，费城经济圈的经济产值（GDP）4207.68亿美元，排名美国第7，是美国东部仅次于纽约和华盛顿的第三经济城市。费城港是世界最大的河口港之一。有运河沟通特拉华河和切萨皮克湾，设有面积约29公顷的自由贸易区，大市区内有6座大桥横跨特拉华河，与对岸新泽西州各城镇相连。费城国际机场位于市中心西南12公里处，客、货运量在国内居前列。费城三十街车站则为美国东北部的铁路枢纽之一，是美铁系统内第三繁忙的车站。2015年11月费城入列世界遗产城市，是第一个入列世界遗产城市的美国都市。
+                    Philadelphia is the largest city in the Commonwealth of Pennsylvania and the sixth-most populous city in the United States, with an estimated population of 1,567,872 and more than 6 million in the seventh-largest metropolitan statistical area, as of 2016. Philadelphia is the economic and cultural anchor of the Delaware Valley region. Philadelphia is the center of economic activity in Pennsylvania with the headquarters of five Fortune 1000 companies located within city limits. According to the Bureau of Economic Analysis, the Philadelphia area had a total gross domestic product of $431 billion in 2016, the eighth-largest metropolitan economy in the United States. Philadelphia was rated by the GaWC as a 'Beta' city in its 2016 ranking of world cities.</p>
+                    <p>
+                    Philadelphia has the third-largest student concentration on the East Coast, with over 120,000 college and university students enrolled within the city and nearly 300,000 in the metropolitan area. There are over 80 colleges, universities, trade, and specialty schools in the Philadelphia region. One of the founding members of the Association of American Universities is in the city, the University of Pennsylvania, an Ivy League institution with claims to being the oldest university in the country.
                     </p>
                     <p>
-                    费城大学云集，其中包括著名的常青藤名校宾夕法尼亚大学，著名的沃顿商学院即是宾大的商学院。
-                    </p>
-                    <p>
-                    市内大学或学院有：
-                        宾夕法尼亚大学(University of Pennsylvania)US NEWS 最新排名第8位。
-                        德雷塞尔大学（Drexel University）
-                        天普大学(Temple University)
-                        圣约瑟夫大学（Saint Joseph's University）
-                        费城社区学院(Community College of Philadelphia)
-                        费城大学(Philadelphia University)
-                        费城艺术大学(The University of the Arts)
-                        费城科学大学(University of the Sciences)
-                        拉萨尔大学(La Salle University)
-                        栗山学院(Chestnut Hill College)
-                        皮尔斯学院(Peirce College)
-                        摩尔艺术与设计学院(Moore College of Art and Design)
-                        柯蒂斯音乐学院（Curtis Institute of Music)全世界音乐学院排名前三
-                        托马斯杰斐逊大学（Thomas Jefferson University）
-
+                    The city's largest private school by number of students is Temple University, followed by Drexel University. The University of Pennsylvania, Temple University and Drexel University comprise the city's major research universities. Philadelphia is also home to five schools of medicine: Drexel University College of Medicine, Perelman School of Medicine at the University of Pennsylvania, Philadelphia College of Osteopathic Medicine, Temple University School of Medicine, and the Thomas Jefferson University. Hospitals, universities, and higher education research institutions in Philadelphia's four congressional districts received more than $252 million in National Institutes of Health grants in 2015.
                     </p>
                     <img src="../img/shangqu/uscity/11.jpg" alt="">
                 </div>
                 <div class="cityBox fl">
                     <h1>5. 佛罗里达州</h1>
                     <p>
-                    佛罗里达州（Florida）是美国东南部的一个州。位于东南海岸突出的半岛上。东濒大西洋，西临墨西哥湾，北与亚拉巴马州和佐治亚州接壤。面积为151670平方公里。
-                    </p>
+                    Florida is the southernmost state in the southeastern region of the United States. The state is bordered to the west by the Gulf of Mexico and Alabama, to the north by Alabama and Georgia, to the east by the Atlantic Ocean, and to the south by the Straits of Florida.                     </p>
                     <p>
-                    海岸线总长13500公里，仅次于阿拉斯加州，居全美第二位。首府塔拉哈西（Tallahassee）。“佛罗里达” 源于西班牙语，意为“鲜花盛开的地方”。
+                    About two-thirds of Florida occupies a peninsula between the Gulf of Mexico and the Atlantic Ocean. Florida has the longest coastline in the contiguous United States, approximately 1,350 miles (2,170 km), not including the contribution of the many barrier islands. It is the only state that borders both the Gulf of Mexico and the Atlantic Ocean. Much of the state is at or near sea level and is characterized by sedimentary soil. 
                     </p>
                     <img src="../img/shangqu/uscity/12.jpg" alt="">
                     <p>
-                    奥兰多位于美国佛罗里达州的中部，是世界上最好的休闲旅游城市之一。奥兰多市区有多个面积不小的湖泊，市区的街道也非常的干净，原住这里居民也非常的友善，而且这里的气候温度也是旅行、露营、水上活动、蜜月及家庭旅行的最佳去处，每年到奥兰多旅游的游客约2600万以上。
-                    </p>
+                    Orlando is a city in the U.S. state of Florida and the county seat of Orange County. Located in Central Florida, it is the center of the Orlando metropolitan area.The City of Orlando is nicknamed "The City Beautiful," and its symbol is the fountain at Lake Eola. Orlando is also known as "The Theme Park Capital of the World" and in 2016 its tourist attractions and events drew more than 68 million visitors.</p>
                     <p>
-                    奥兰多拥有与洛杉矶迪斯尼齐名的世界上最大的迪斯尼乐园，在Lock Haven区内还有奥兰多艺术博物馆、橙县历史博物馆及附近的哈利花园，美国境内最大的的海洋世界也位于奥兰多，值得一提的是由华纳兄弟与环球影城公司合作兴建的“哈利波特的魔法世界”，它就位于两大电影制片商在奥兰多面积达七百八十七英亩的主题公园内，另外还有老少皆宜的主题乐园，如华特▪迪士尼世界、环球影城、冒险岛乐园及无数的旅游景点，造就了它在美国人心中最最佳观光地位之一。奥兰多景点美，就美在它的多彩、新奇、动感，还有那宜人的温馨。奥兰多虽小，小城中却有大世界。
-                    </p>
+                    As one of the world's most visited tourist destinations, Orlando's famous attractions form the backbone of its tourism industry: Walt Disney World, located approximately 21 miles (34 km) southwest of Downtown Orlando in Bay Lake, opened by the Walt Disney Company in 1971; the Universal Orlando Resort, opened in 1999 as a major expansion of Universal Studios Florida. With the exception of Walt Disney World, most major attractions are located along International Drive. The city is also one of the busiest American cities for conferences and conventions; the Orange County Convention Center is the second-largest convention facility in the United States.                    </p>
                     <p>
-                    迈阿密（Miami）是美国佛罗里达州第二大城市，位于佛罗里达半岛比斯坎湾。迈阿密还是南佛罗里达州都市圈中最大的城市，这个都市圈由迈阿密-戴德县、布劳沃德县和棕榈滩县组成，人口超过559万人，是美国人口最为稠密的城市之一，美国东南部最大的都市圈，也是全美第四大都市圈。
-                    </p>
+                    Miami is a major port city on the Atlantic coast of south Florida in the southeastern United States. As the seat of Miami-Dade County, the municipality is the principal, central, and the most populous city of the Miami metropolitan area and part of the second-most populous metropolis in the southeastern United States.</p>
                     <p>
-                    迈阿密是国际性的大都市，在金融、商业、媒体、娱乐、艺术和国际贸易等方面拥有重要的地位，也是许多公司、银行和电视台的总部所在。是文化的大熔炉，受庞大的拉丁美洲族群和加勒比海岛国居民的影响很大，与北美洲、南美洲、中美洲以及加勒比海地区在文化和语言上关系密切，因此有时还被称为“美洲的首都”。
-                    </p>
+                    Miami is a major center, and a leader in finance, commerce, culture, media, entertainment, the arts, and international trade. In 2008, Forbes magazine ranked Miami "America's Cleanest City", for its year-round good air quality, vast green spaces, clean drinking water, clean streets, and citywide recycling programs. UBS study of 73 world cities, Miami was ranked as the richest city in the United States, and the world's seventh-richest city in terms of purchasing power .</p>
                     <p>
-                                            2008年，迈阿密被《福布斯》杂志评为“美国最干净的城市“。
-                        2009年，迈阿密还被瑞士联合银行评为美国最富裕城市和全球第五富裕城市。
-                        学院与大学
-                        诺瓦东南大学(Nova Southeastern University) 美国东南最大私立大学
-                        贝瑞大学(Barry University)
-                        强生和威尔士大学(Johnson and Wales University)
-                        迈阿密艺术与设计国际大学(Miami International University of Art and Design)
-                        迈阿密大学(University of Miami) 最新US NEWS排名第48位
-                        佛罗里达国际大学（Florida International University）
-                        佛罗里达纪念大学（Florida Memorial University）
-                        迈阿密-戴德学院(Miami-Dade College)
-                        圣托玛斯大学（St.Thomas University）
-                        著名高中
-                        贝伦耶稣预备学校(Belen Jesuit Preparatory School)
-                        克里斯托弗·哥伦布中学(Christopher Columbus High School))
-                        珊瑚礁中学(Coral Reef High School)
-                        设计与建筑中学(Design and Architecture Senior High School)
-                        迈克尔·M·克罗普博士中学(Dr. Michael M. Krop High School)
-                        格列弗预备学校(Gulliver Preparatory School)
-                        拉萨尔中学(LaSalle High School)
-                        海事与科学技术高等专科学校(MAST Academy High School)
-                        迈阿密中学(Miami High School)
-                        迈阿密棕榈中学(Miami Palmetto Senior High School)
-                        新世界艺术学校(New World School of the Arts)
-                        Ransom Everglades Middle School
-                        威廉·特纳高等技术学校(William Turner Technical High School)
-                        Miami Country Day School
-
+                    Miami has over 200,000 students enrolled in local colleges and universities, placing it seventh in the nation in per capita university enrollment. In 2010, the city's four largest colleges and universities (MDC, FIU, UM, and Barry) graduated 28,000 students.
+                    <p>Colleges and universities in and around Miami:</p>
+                    Barry University (private),
+                    Carlos Albizu University (private),
+                    Florida International University (FIU) (public),
+                    Florida Memorial University (private),
+                    Johnson and Wales University (private),
+                    Keiser University (private),
+                    Manchester Business School (satellite location, UK public),
+                    Miami Culinary Institute (public),
+                    Miami Dade College (public),
+                    Miami International University of Art & Design (private),
+                    Nova Southeastern University (private),
+                    St. Thomas University (private),
+                    Talmudic University (private),
+                    University of Miami (private)
                     </p>
                     <img src="../img/shangqu/uscity/13.jpg" alt="">
                 </div>
                 <div class="cityBox ca">
-                    <h1>6. 加尼福尼亚州</h1>
+                    <h1>6. California</h1>
                     <p>
-                    加利福尼亚州（State of California）是美国西部太平洋沿岸的一个州，州政府位于萨克拉门托。北接俄勒冈州，东界内华达州和亚利桑那州，南邻墨西哥，西濒太平洋。面积411013km²，它的名称取自西班牙传说中一个小岛的名称。
-                    </p>
+                    California is a state in the Pacific Region of the United States. With 39.5 million residents, California is the most populous state in the United States and the third most extensive by area. The state capital is Sacramento. The Greater Los Angeles Area and the San Francisco Bay Area are the nation's second- and fifth-most populous urban regions, with 18.7 million and 8.8 million residents respectively.                    </p>
                     <p>
-                    加州西北角有雷德伍德国家公园；东部内华达山脉西侧坡山麓地带有约塞米蒂国家公园、金斯峡谷国家公园；东南部的死亡谷国家公园、约书亚树国家公园。世界知名的“好莱坞”和“硅谷”均在州内。
-                    </p>
+                    California's $2.717 trillion economy is larger than that of any other state. If it were a country, California would be the 5th largest economy in the world, and the 36th most populous. The Greater Los Angeles Area and the San Francisco Bay Area are the nation's second- and third-largest urban economies. The San Francisco Bay Area combined statistical area has the nation's highest GDP per capita, and is home to four of the world's ten largest companies by market capitalization and four of the world's ten richest people.                    </p>
                     <img src="../img/shangqu/uscity/14.jpg" alt="">
                     <p>
-                    州花是金罂粟 (Golden Poppy)。州鸟是加州鹑 (California Valley Quail)。州树是加州红木 (California Redwood)。州座右铭是“我已找到它” (I have found it)。
+                    California is considered a global trendsetter in popular culture, innovation, and politics. It is the origin of the film industry, the hippie counterculture, the Internet, and the personal computer, among others. The San Francisco Bay Area and the Greater Los Angeles Area are widely seen as centers of the global technology and entertainment industries, respectively. California has a very diverse economy: fifty-eight percent of the state's economy is centered on finance, government, real estate services, technology, and professional, scientific and technical business services. Although it accounts for only 1.5 percent of the state's economy, California's agriculture industry has the highest output of any U.S. state.
                     </p>
-                    <p>
-                    2016年6月，美国加利福尼亚州政府公布的数据显示，2015年加州经济总量已经超过法国，成为全球第六大经济体。
-                    </p>
+                    
                     <img src="../img/shangqu/uscity/15.jpg" alt="">
                     <p>
-                    洛杉矶（Los Angeles），位于美国加利福尼亚州西南部。是加州第一大城市也是全美第二大城市，常被称为“天使之城”（City of Angels）。
+                    Los Angeles, officially the City of Los Angeles and often known by its initials L.A., is the cultural, financial, and commercial center of Southern California. With a U.S. Census-estimated 2016 population of 3,976,322, it is the second most populous city in the United States (after New York City) and the most populous city in the state of California. Located in a large coastal basin surrounded on three sides by mountains reaching up to and over 10,000 feet (3,000 m), Los Angeles covers an area of about 469 square miles.                    </p>
+                    <p>
+                    Nicknamed the "City of Angels" in part because of how its name translates from the Spanish, Los Angeles is known for its Mediterranean climate, ethnic diversity, and sprawling metropolis. The city is also one of the most substantial economic engines within the nation, with a diverse economy in a broad range of professional and cultural fields. Los Angeles is also famous as the home of Hollywood, a major center of the world entertainment industry. A global city, it has been ranked 6th in the Global Cities Index and 9th in the Global Economic Power Index. 
                     </p>
                     <p>
-                    洛杉矶市区面积为1214.9km²，拥有约397.6万人口（2016年）；而洛杉矶-长滩-圣安娜都会区拥有约1300万人口（2013年），大洛杉矶地区（Greater Los Angeles Area）所涵盖的范围更大，包括5个县，大约1800万人口。洛杉矶是美国西部最大的都会区（另一大为加州北部的旧金山湾区）。
+                    Los Angeles is often billed as the "Creative Capital of the World", because one in every six of its residents works in a creative industry and there are more artists, writers, filmmakers, actors, dancers and musicians living and working in Los Angeles than any other city at any time in history.
                     </p>
                     <p>
-                    洛杉矶是全世界重要的工商业、国际贸易、科教、娱乐和体育中心之一。
-                        拥有美国西部最大的海港，也是美国石油化工、海洋、航天工业和电子业的最大基地之一。洛杉矶拥有许多世界知名的高等教育机构，大洛杉矶地区的著名高等学府包括加州理工学院（Caltech）、加州大学洛杉矶分校（UCLA）、南加州大学（USC）、佩珀代因大学（Pepperdine University）等。[1-3] 
-                        娱乐方面，好莱坞、加州迪士尼乐园、环球影城等等都位于洛杉矶，南加州的奢华之城比佛利山庄也坐落在洛杉矶的中心地带，众多国际名流居住于此。
-                        体育方面，洛杉矶还曾主办了1932年洛杉矶奥运会、1984年洛杉矶奥运会，即将主办2028年洛杉矶奥运会。
-                    </p>
-                    <p>
-                    文化教育
-                    洛杉矶的文化和教育事业也很发达。这里有世界著名的加州理工学院、加利福尼亚大学洛杉矶分校（US NEWS 最新排名24位）、南加利福尼亚大学，亨廷顿图书馆、格蒂博物馆等。洛杉矶公共图书馆藏书量居全美第三位。洛杉矶还是世界上屈指可数的举办过两届夏季奥运会的城市。
-                    公立大学
-                    洛杉矶市拥有3所公立大学：加利福尼亚大学洛杉矶分校（UCLA）、北岭加州州立大学（CSUN）和洛杉矶加州州立大学（CSULA）。
-                    私立大学
-                    该市的私立大学有南加州大学（USC）,佩珀代因大学（Pepperdine University),加州理工学院(Cal Tech),安蒂奥克大学（Antioch University）的洛杉矶校区，罗耀拉玛利曼大学（Loyola Marymount University，LMU）以及罗耀拉法学院，圣玛丽山学院（Mount St. Mary's College），西方学院（Occidental College），东洛杉矶学院（East Los Angeles College，简称ELAC）等。
-
+                    There are three public universities located within the city limits: California State University, Los Angeles (CSULA), California State University, Northridge (CSUN) and University of California, Los Angeles (UCLA).
+                    Private colleges in the city include the American Film Institute Conservatory, Alliant International University, Syracuse University (Los Angeles Campus), American Academy of Dramatic Arts (Los Angeles Campus), American Jewish University, Abraham Lincoln University, The American Musical and Dramatic Academy – Los Angeles campus, Antioch University's Los Angeles campus, Charles R. Drew University of Medicine and Science, Emperor's College, Fashion Institute of Design & Merchandising's Los Angeles campus (FIDM), Los Angeles Film School, Loyola Marymount University (LMU is also the parent university of Loyola Law School located in Los Angeles), Marymount College, Mount St. Mary's College, National University of California, Occidental College ("Oxy"), Otis College of Art and Design (Otis), Southern California Institute of Architecture (SCI-Arc), Southwestern Law School, University of Southern California (USC), and Woodbury University.
                     </p>
                     <img src="../img/shangqu/uscity/16.jpg" alt="">
                     <p>
-                    旧金山（San Francisco），又译“三藩市”、“圣弗朗西斯科”，美国加利福尼亚州太平洋沿岸港口城市，是世界著名旅游胜地、加州人口第四大城市。旧金山临近世界著名高新技术产业区硅谷，是世界最重要的高新技术研发基地和美国西部最重要的金融中心 ，也是联合国的诞生地（1945年《联合国宪章》）。
-                    </p>
+                    San Francisco is the cultural, commercial, and financial center of Northern California.                     </p>
                     <p>
-                    旧金山属亚热带地中海气候，拥有享誉世界的旧金山湾区、金门大桥和渔人码头，气候冬暖夏凉、阳光充足，临近众多美国国家公园（如约塞米蒂国家公园）和加州葡萄酒产地纳帕谷，被誉为“最受美国人欢迎的城市”。1769年西班牙人发现此地，1848年加入美联邦。19世纪中叶旧金山在淘金热中迅速发展，华侨称为“金山”，后为区别于澳大利亚的墨尔本，改称“旧金山”。截止到2014年7月，全市人口约85万，其中华人18万[4-5]  ，是西半球华人人口密度最高的地区之一，华人总数量仅次于纽约。
-                    </p>
+                    A popular tourist destination, San Francisco is known for its cool summers, fog, steep rolling hills, eclectic mix of architecture, and landmarks, including the Golden Gate Bridge, cable cars, the former Alcatraz Federal Penitentiary, Fisherman's Wharf, and its Chinatown district.  </p>
                     <p>
-                    旧金山湾区是世界最重要的科教文化中心之一，拥有的世界著名高等学府包括公立型的加州大学伯克利分校和私立型的斯坦福大学，以及世界顶级医学中心加州大学旧金山分校 。逾百位诺贝尔奖得主（伯克利94位、斯坦福67位）、菲尔兹奖得主（伯克利13位、斯坦福7位）和图灵奖得主（伯克利23位、斯坦福20位）在湾区工作或求学；更有超过200位奥运会冠军（斯坦福139枚金牌、伯克利117枚金牌）从旧金山湾区走出。旧金山湾区从20世纪起一直是美国嬉皮士文化、近代自由主义和进步主义的中心之一，还有全美最大艺术院校旧金山艺术大学。
-                    </p>
+                    San Francisco has several nicknames, including "The City by the Bay", "Golden Gate City", "Frisco", "SF", "San Fran", "Fog City", and as well as older ones like "The City that Knows How", "Baghdad by the Bay", "The Paris of the West", or simply "The City". </p>
                     <p>
-                    圣地亚哥市（San Diego）是加利福尼亚州第二大城市，也是美国第八大城市，位于该州南端圣迭戈湾畔，南距墨西哥边境20公里，市区面积829平方公里，人口137万多，有很多墨西哥和西班牙人后裔；2015-2016年统计，白种人占人口的64%，拉美及墨裔占32%，亚裔占10%。大都市区包括附近各海滩和高地等，面积11020平方公里；大都市区包括18个小的城市，总人口超过280万人，大多聚居在离开海滨不远的地区。
+                    San Diego is the eighth-largest city in the United States and second-largest in California. San Diego has been called "the birthplace of California". The city is the seat of San Diego County and is the economic center of the region as well as the San Diego–Tijuana metropolitan area. San Diego's main economic engines are military and defense-related activities, tourism, international trade, and manufacturing. The presence of the University of California, San Diego (UCSD), with the affiliated UCSD Medical Center, has helped make the area a center of research in biotechnology.
                     </p>
                 </div>
                 <div class="cityBox tx">
-                    <h1>7. 德克萨斯州</h1>
+                    <h1>7. Texas</h1>
                     <p>
-                    休斯敦（Houston），是美国德克萨斯州的第一大城，全美国第四大城市，墨西哥湾沿岸最大的经济中心。面积为1,440千平方公里，市名是以当年德克萨斯共和国总统山姆·休斯敦（Sam Houston）命名的。
+                    Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas–Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively.                     </p>
+                    <p>
+                    It is also the largest city in the Southern United States, and the seat of Harris County. Located in Southeast Texas near the Gulf of Mexico, it is the principal city of the Greater Houston metro area, which is the fifth-most populated MSA in the United States.                    </p>
+                    <p>
+                    Houston was founded on August 30, 1836, near the banks of Buffalo Bayou (now known as Allen's Landing) and incorporated as a city on June 5, 1837. The city was named after former General Sam Houston, who was president of the Republic of Texas and had commanded and won at the Battle of San Jacinto 25 miles (40 km) east of where the city was established.
                     </p>
                     <p>
-                    休斯敦是哈里斯县（全国第三大县）的县城。休斯敦在密苏里市的东面，西南部分伸入福遍县，东北一小部分伸入蒙哥马利县。
-                    </p>
+                    Houston's economy has a broad industrial base in energy, manufacturing, aeronautics, and transportation. Leading in health care sectors and building oilfield equipment, Houston has the second most Fortune 500 headquarters of any U.S. municipality within its city limits (after New York City). The Port of Houston ranks first in the United States in international waterborne tonnage handled and second in total cargo tonnage handled. Nicknamed the "Space City", Houston is a global city, with strengths in business, international trade, entertainment, culture, media, fashion, science, sports, technology, education, medicine, and research. The city has a population from various ethnic and religious backgrounds and a large and growing international community. Houston is the most diverse city in Texas and has been described as the most racially and ethnically diverse major metropolis in the U.S.</p>
                     <p>
-                    休斯敦创建于1836年，合并于1837年，是美国成长最迅速的大城市之一，也是全美最大的一个没有规划法的大城市。
-                        1900年，休斯敦有45,000人口，排名美国第85位。2014年美国人口统计指出，城市人口总数达到220万人。大休斯敦都会区是美国第五大都会区（9个县），2014年7月1日人口6,490,180人。
-
-                    </p>
-                    <p>
-                    休斯敦以其能源（特别是石油）、航空工业和运河闻名世界。休斯敦港是世界第六大港口，美国最繁忙的港口，外轮吨位第一，不分国籍则居第二位。财富500强总部仅次于纽约市。休斯敦是德克萨斯医疗中心的所在地，世界最大和最重要的研究和治疗机构的集中地。休斯敦还是美国27个超过170万人口的重要大都会地区中生活消费和房价最低的。休斯敦被全球化和世界城市研究小组和网络（GaWC）称为“全球城市。
-                    休斯敦的官方绰号为“太空城（Space City）”，因为它是约翰逊航空中心的所在地，任务监控中心也设在这里（因此，“休斯敦”是在月球上说的第一个词）。许多当地人喜爱称作“牛沼城”。其他绰号还有“H镇”、“脚爪城”或“蒙古城”。    
-                     </p>
-                    <p>
-                    休斯敦大学
-                    休斯敦大学（University of Houston,简称UH）位于美国南部徳克萨斯州休斯敦市。休斯敦是美国第四大城市，大都会区人口约700万，举世闻名的美国宇航中心和世界最大的医疗中心坐落在该市南部。休斯敦还是美国石油化工中心，享有“世界能源之都”的美称。休斯敦港口是美国第二大港口（世界第六大），该港口的外贸吞吐量为全美第一。2001年，休斯敦有23家公司被美国《财富》杂志列入世界500强。
-                    休斯敦大学坐落在休斯顿市中心，1927年建校，是美国第四大城市休斯顿市最具活力的公立大学，有近90年年历史，在教学和研究方面是德州最好的大学之一。该校研究多样性，著称于全美。
-
-                    </p>
-                    <p>
-                    休斯敦大学属于研究型大学〈research university〉。每年注册的学生中有21%是研究生，而这些学生中有33%接受休斯敦大学的奖学金资助。在这些研究生中，除了商学院、MBA是受学生青睐的热门科系外，因为邻近计算机大厂，使得该校的信息科学的相关科系排名也居高不下。
-                    休斯敦大学有12个学术学院，分别是：建筑学院，商学院，文学与社会科学学院，教育学院，工程学院，技术学院，自然科学与数学学院，制药学院，光学学院，酒店管理学院，法学院，社会工作研究生院。大学的课程涵盖278个学科。因教学质量高，休斯顿大学本科教育生源优异，入学SAT成绩平均为1281。在研究生教育阶段，休斯敦大学重视对学生独立研究能力的培养。
-                    休斯敦大学设有40余个研究中心，并与300余家政府和个人企业建立合作关系，为学生提供诸多实习机会，在超导电性，生物医学工程，石油勘探，经济，教育，虚拟技术方面取得很大成效。因为休斯敦大学的学生多半可以获得很好的实习机会，并有机会申请各种的奖助学金，因此能比其他大学的学生更快地进入社会，体验工作和生活的乐趣。
-
+                    Four distinct state universities are located in Houston. The University of Houston is a nationally recognized Tier One research university, and is the flagship institution of the University of Houston System. The third-largest university in Texas, the University of Houston has nearly 44,000 students on its 667-acre campus in southeast Houston. The University of Houston–Clear Lake and the University of Houston–Downtown are stand-alone universities; they are not branch campuses of the University of Houston. Located in the historic community of Third Ward is Texas Southern University, one of the largest and most comprehensive historically black universities in the United States. Texas Southern University is also the first state university in Houston.
                     </p>
                     <img src="../img/shangqu/uscity/17.jpg" alt="">
                 </div>
                 <div class="cityBox  ak">
-                    <h1>8. 阿肯色州</h1>
+                    <h1>8. Arkansas</h1>
                     <p>
-                    阿肯色州（State of Arkansas），简称阿州，是美国南部的一个州份，位处密西西比河中下游，北接密苏里州，西界俄克拉荷马州，南邻路易斯安那州，西南与得克萨斯州接壤，东隔密西西比河与田纳西州和密西西比州相望，其面积137539Km²，人口2810872（2006年）。其首府是小石城。州名来自印第安语，原为夸保族、奥萨格族、卡多族、切罗基族和乔克托族印地安人居住地。
-                    </p>
+                    Arkansas is a state in the southeastern region of the United States , home to over 3 million people as of 2017. The culture of Arkansas is observable in museums, theaters, novels, television shows, restaurants, and athletic venues across the state.</p>
                     
                     <img src="../img/shangqu/uscity/18.jpg" alt="">
                     <p>
-                    教育事业
-                        阿肯色州有公私立高等院校共计29所，[5]  主要公立综合性大学有：
-                        阿肯色大学菲亚特维尔校区，
-                        中阿肯色大学，
-                        阿肯色州立大学，
-                        阿肯色科技大学，
-                        阿肯色大学小石城分校
-                        职业性大学有阿肯色医科大学，
-                        阿肯色医科大学，
-                        阿肯色大学菲亚特维尔，
-                        阿肯色大学小石城分校都属于阿肯色大学系统，也是该州唯一的大学系统。
-
+                    Arkansas has 1,064 state-funded kindergartens, elementary, junior- and senior high schools. The state supports a network of public universities and colleges, including two major university systems: Arkansas State University System and University of Arkansas System. The University of Arkansas, flagship campus of the University of Arkansas System in Fayetteville was ranked #63 among public schools in the nation by U.S. News & World Report. Other public institutions include University of Arkansas at Pine Bluff, Arkansas Tech University, Henderson State University, Southern Arkansas University, and University of Central Arkansas across the state. It is also home to 11 private colleges and universities including Hendrix College, one of the nation's top 100 liberal arts colleges, according to U.S. News & World Report.
                     </p>
                     <img src="../img/shangqu/uscity/19.jpg" alt="">
                 </div>
