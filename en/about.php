@@ -33,9 +33,9 @@
                  
                 <h2>－Noblefun Outdoors Study Exploration－</h2>
                 <p> Join us, you will learn with your children while having fun. Grow together with your children and become best friends with them. Beside private family tours, we also offer family events to all parents to create the most beautiful memories with the children.<br>
-                <p>On the ground:   Shooting, archery, equestrian, hunting, hiking, outdoor survival, skiing, rafting, rock climbing, camping, enjoy the beauty of the seasons ... </p>
-                <p>On the sea: Boats, fishing, water hunting, kite surfing, grabbing big lobster and abalone ...  </p>
-                <p>In the air: Test drive aircraft flight, glider, skydiving, lanterns, hot air balloon ... </p>
+                <p>Ground:   Shooting, archery, equestrian, hunting, hiking, outdoor survival, skiing, rafting, rock climbing, camping, enjoy the beauty of the seasons... </p>
+                <p>Marine: Boats, underwater diving, ice-fishing, water hunting, kite surfing, deep-sea fishing, grabbing big lobster and abalone...  </p>
+                <p>Sky: Experience driving aircraft flight, drones assembling, aerial photo, model aircraft, glider, paramotor, parachuting, hot air balloon, rock climbing... </p>
                 <p><strong> Shang (Noble) - respect and respected, Qu (Fun) - passion and positivity, we take you to explore the world, with children across the United States! </strong></p>
             </div>
             <div class="aboutBox">

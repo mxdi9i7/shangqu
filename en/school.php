@@ -582,7 +582,7 @@ NCA (美国教育部区域性认可联盟/North Central Association of Colleges 
             </div>
             <div class="uniContent">
                 <div class="schoolBox uniOverview">
-                    <h2>常青藤大学与各州知名学府深入参观：</h2>
+                    <h2>Visit Ivy League Universities and other prestigious universities of different states:</h2>
                     <p>
                     Harvard, Yale, MIT, Columbia in-depth tours, experience the prestige and feel the pride of Ivy Leagues!
                     </p>
