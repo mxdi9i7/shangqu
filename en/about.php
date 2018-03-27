@@ -3,31 +3,39 @@
     <section class="aboutSection">
         <div class="aboutContainer">
             <div class="aboutBox">
-                <h1>-Mission-</h1>
+                <!-- <h1>-Mission-</h1>
                 <span>Noblefun educational communications, has become a new trend for parents of the 21st century. As outdoor learning becomes more and more popular, our goal is to nurture independent thinking, bold innovation, teamwork, calm and passionate characters in children.
                 </span>
-                <h2>About us</h2>
+                <h2>About us</h2> -->
                 <p>
-                Noblefun covers every area of learning from experiencing the classrooms of prestigious schools to western outdoor learning to create a holistic environment that allows children to embrace diversity. 
-                 From primary, junior high school, high school, and then to college, 
-                 to provide parents and children from the "line" and "learn "360-degree teaching in all directions, to activate the children's 
-                 knowledge of exploration, and to put aside the framework that limits children's thinking and imagination, and the shackles that
-                  hinder the success of each child. We encourage children to discover and to grow in the process of experiencing the world!
-                  Noblefun brings you to explore prestigious schools of North America, to participate in homestay programs with local families, blend into local schools to exprience the value of elite education and diversity. You will learn
-                  among the best students and be exposed to the authentic American culture.
+                Noblefun (US) Educational Communications Center, previously known as the 
+                New York Noblefun Children's Outdoor Activities Organization, was started in 2014. As the 
+                first educational institution that targets Chinese families in outdoor activities, we 
+                are now forming our partnerships in studying abroad and students exchange programs with
+                major human resource institutions and schools in China. By offering specialized education resources,
+                we are now leading the market in the North America's specialized educations. Noblefun promotes
+                outdoor education and focus on studying the differences of Chinese and American education systems.
+                Spending time with your children will greatly improve the bonds between the parents and the
+                children, also helping the children experience the love and care given by their parents.
+                Our outdoor programs will help children develop independent and innovative thinking, teamwork,
+                problem solving skills and leadership. Our children will no longer be just a school-smart kid,
+                but a life-smart future leader of the American society who will remain competitive even
+                in the most elite environments. 
                 </p>
+
+                <h2>－Noblefun Cultural Communication－</h2>
                 <p>Our curriculums range from STEM education to robotics research, from music to liberal arts.</p>
                 <p>Premium tours to Ivy League schools like Harvard, MIT and Yale.</p>
                 <p>Visit American landmarks like the Statue of Liberty, Empire State Building, Universal Studio and Hollywood. </p>
                 <p>Study in American primary schools, middle schools and highschools and enjoy the most original English education.
                 </p>
-                <p>
+                
                  
-                Noblefun Outdoors Exploration Program: Join us, you will learn with your children while having fun. Grow together with your children and become best friends with them. Beside private family tours, we also offer family events to all parents to create the most beautiful memories with the children.<br>
-                <p>
-                On the ground:   Shooting, equestrian, hunting, hiking, skiing, rafting, rock climbing, camping, enjoy the beauty of the seasons ... </p>
-                <p>On the sea: Boats, fishing, fishing crabs, grabbing big lobster, diving, yachting ...  </p>
-                <p>In the air: Test drive aircraft flight, glider, skydiving, lanterns, hot air balloon ... </p>
+                <h2>－Noblefun Outdoors Study Exploration－</h2>
+                <p> Join us, you will learn with your children while having fun. Grow together with your children and become best friends with them. Beside private family tours, we also offer family events to all parents to create the most beautiful memories with the children.<br>
+                <p>Ground:   Shooting, archery, equestrian, hunting, hiking, outdoor survival, skiing, rafting, rock climbing, camping, enjoy the beauty of the seasons... </p>
+                <p>Marine: Boats, underwater diving, ice-fishing, water hunting, kite surfing, deep-sea fishing, grabbing big lobster and abalone...  </p>
+                <p>Sky: Experience driving aircraft flight, drones assembling, aerial photo, model aircraft, glider, paramotor, parachuting, hot air balloon, rock climbing... </p>
                 <p><strong> Shang (Noble) - respect and respected, Qu (Fun) - passion and positivity, we take you to explore the world, with children across the United States! </strong></p>
             </div>
             <div class="aboutBox">

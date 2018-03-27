@@ -121,23 +121,23 @@
                     <img src="../img/shangqu/x3.png" alt="">
                 </div>
                 <div class="schoolBox camino">
-                    <h2>1. 艾尔卡米诺特许高中EL Camino Real Charter High School</h2>
+                    <h2>1. Camino Real Charter High School</h2>
                     <p>
-                    大本营学校：美国加利佛尼亚州艾尔卡米诺特许高中EL Camino Real Charter High School
-                    <br>
-                        建校时间：1969年建校 
                         <br>
-                        学校性质：综合性四年制公立高中，由“美国学校和学院西部协会”（WASC）正式鉴定和认可
+                        Founding Year：1969 
                         <br>
-                        年级设置：9-12年级
+                        School Property：A comprehensive four-year public high school, 
+                        formally identified and recognized by the Western Association of Schools and Colleges (WASC)
                         <br>
-                        学生人数：3700人
+                        Grades：9-12 Grade
                         <br>
-                        地理位置：位于加利福尼亚州洛杉矶以北20英里
+                        Students Enrollment: 3700
                         <br>
-                        学校荣誉：加利福尼亚杰出学校
-
+                        Location: 20 miles north of Los Angeles in California
+                        <br>
+                        School Honors: The California Distinguished School
                     </p>
+
                     <div class="row">
                         <div class="col-md-4">
                             <img src="../img/shangqu/high/1.jpg" alt="">
@@ -154,7 +154,7 @@
                         <div class="col-md-8">
                             <img src="../img/shangqu/high/5.jpg" alt="">
                         </div>
-                        <p>（ 奥巴马在白宫接见了2010年全国冠军，埃尔卡密诺高中学术十项全能队）</p>
+                        <p>(Obama met at the White House with the 2010 National Champion)</p>
                         <div class="col-md-12">
                             <img src="../img/shangqu/high/6.png" alt="">
                         </div>
@@ -169,107 +169,109 @@
                         </div>
                         <div class="col-md-6">
                             <img src="../img/shangqu/high/s1.jpg" alt="">
-                            <p>科学课</p>
+                            <p>Science Class</p>
                         </div>
                         <div class="col-md-6">
                             <img src="../img/shangqu/high/s2.jpg" alt="">
-                            <p>文学课</p>
+                            <p>Literature Class</p>
                         </div>
                         <div class="col-md-6">
                             <img src="../img/shangqu/high/s3.jpg" alt="">
-                            <p>演讲课</p>
+                            <p>Speech Class</p>
                         </div>
                         <div class="col-md-6">
                             <img src="../img/shangqu/high/s4.jpg" alt="">
-                            <p>英语课</p>
+                            <p>English Class</p>
                         </div>
                         <div class="col-md-6">
                             <img src="../img/shangqu/high/s5.jpg" alt="">
-                            <p>数学课</p>
+                            <p>Math Class</p>
                         </div>
                         <div class="col-md-6">
                             <img src="../img/shangqu/high/s6.jpg" alt="">
-                            <p>写作课</p>
+                            <p>Writing Class</p>
                         </div>
                         <div class="col-md-12">
                             <img src="../img/shangqu/high/s7.png" alt="">
-                            <p>木工，汽修，表演课程</p>
+                            <p>Carpenter，Automobile，Performing Programs</p>
                         </div>
                         <div class="col-md-4">
                             <img src="../img/shangqu/high/s8.jpg" alt="">
-                            <p>音乐课</p>
+                            <p>Music Class</p>
                         </div>
                         <div class="col-md-4">
                             <img src="../img/shangqu/high/s9.jpg" alt="">
-                            <p>足球课</p>
+                            <p>Football Class</p>
                         </div>
                         <div class="col-md-4">
                             <img src="../img/shangqu/high/s10.jpg" alt="">
-                            <p>篮球课</p>
+                            <p>Basketball Class</p>
                         </div>
-                        <h4>其他课程：单独安排美国学校老师为我们开设中美文化差异和大学升学指导课程。</h4>
+                        <h4>Other Courses: The school arranges the special courses of 
+                        Culture Differences Education and College Tutorials.
+                        </h4>
                         <div class="col-md-8">
                             <img src="../img/shangqu/high/s11.jpg" alt="">
-                            <p>中美文化差异课</p>
+                            <p>Culture Differences Education</p>
                         </div>
                         <div class="col-md-8">
                             <img src="../img/shangqu/high/s12.jpg" alt="">
-                            <p>大学升学指导课</p>
+                            <p>University Tutorials</p>
                         </div>
                     </div>
                 </div>
+
                 <div class="schoolBox plum">
-                    <h2>2. 宾夕法尼亚州普朗姆学区 PLUM Schools district</h2>
-                    <p>普朗姆学区位于宾夕法尼亚州匹兹堡市区，普朗姆学区被评选为宾州最好的六个学区之一。联邦政府“不让任何孩子掉队” 政策示范学校。</p>
+                    <h2>2. PLUM Schools district</h2>
+                    <p>PLUM School district position in Pittsburgh, Pennsylvania, PLUM School has been elected for one of the best 6 School district in Pennsylvania. One of the school that is testing out the Federal Government policy of “No children left behind”.</p>
                     <img src="../img/shangqu/high/p1.jpg" alt="">
-                    <p>学区运营六所学校,包括普朗姆高中(9- 12),Oblock初中(7至8),和四个小学(K-6th):服务中心小学,假日公园小学,Pivik小学,摄政公园小学。</p>
+                    <p>The school district includes six schools, Plum Senior High School (9-12), Oblock Junior High School (7-8), and four Elementary School (K-6): Center Elementary School, Holiday Park Elementary School, Pivik Elementary School, and Regency Park Elementary school.
+                    </p>                    
                     <img src="../img/shangqu/high/p2.jpg" alt="">
-                    <p>普朗姆高中高中位于Elicker路900号,匹兹堡市，学生数量1782人。学校聘有101名教师, 据宾夕法尼亚教育部的一份报告，普朗姆高中所有教师均获得"Highly Qualified” 称号。《匹兹堡商业时报》评比学校为美国东部高中排名46位，PSSAs排名43位。</p>
+                    <p>Plum Senior High School is located on Elicker Road, 900, with 1,782 students. The school has 101 teachers, according to a report by Pennsylvania Board of Education, all teachers of Plum Senior High School has been titled “Highly Qualified”. < Pittsburgh Business Times> ranked the school as the 46th in America East High School, and ranked 43rd on PSSAs.
+                    </p>                    
                     <img src="../img/shangqu/high/p3.jpg" alt="">
                     <img src="../img/shangqu/high/p4.jpg" alt="">
                 </div>
                 <div class="schoolBox martin">
-                    <h2>3. 安纳波利斯圣马丁路德学校 St. Martin's Lutheran School of Annapolis</h2>
+                    <h2>3. St. Martin's Lutheran School of Annapolis</h2>
                     <img src="../img/shangqu/high/a1.jpg" alt="">
-                    <p> St. Martin's Lutheran School of Annapolis安纳波利斯圣马丁路德学校建校于1963年， 50多年以来，安纳波利斯圣马丁路德学校从托幼机构发展成三岁至八年级的学校，为安纳波利斯社区的孩子提供了优质的教育。</p>
+                    <p>St. Martin's Lutheran School of Annapolis is established in 1963, and grew from daycare to a school educating children from age of 3 to 8th grade over the 50 years, provided high quality of education for the children in Annapolis Community.
+                    </p>
                     <img src="../img/shangqu/high/a2.jpg" alt="">
-                    <p> St. Martin's Lutheran School of Annapolis安纳波利斯圣马丁路德学校规模不大，却有着许多优秀的教育工作者，为学生们成功进入优秀的高中提供了优质的教育和协助。</p>
+                    <p>Even though St. Martin's Lutheran School of Annapolis is small in scale, they have many excellent educators, provided high quality of education and help to the student in getting into a good Senior High School.
+                    </p>
                     <img src="../img/shangqu/high/a3.jpg" alt="">
-                    <p> St. Martin's Lutheran School of Annapolis安纳波利斯圣马丁路德学校距离华盛顿特区、切萨皮克海湾、巴尔的摩、大洋城都非常近。</p>
+                    <p>St. Martin's Lutheran School of Annapolis is very close to Washington DC, Chesapeake Bay, Baltimore, and Ocean City.
+                    </p>                    
                     <img src="../img/shangqu/high/a4.jpg" alt="">
-                    <p>课程设置：数学，科学，英语，社会科学，西班牙语，艺术，音乐，体育
+                    <p>Course：Math, Science, English, Social Science, Spanish, Art, Music, Physical Education.
                         <br>
-                        体育活动：足球，篮球
+                        Physical Activities: soccer, basketball
                         <br>
-                        社团和俱乐部：合唱队，音乐，自然与户外俱乐部，机器人小组，志愿者活动等
+                        Student Societies and Clubs: Chorus, music, nature and outdoor clubs, robotics groups, volunteer activities and more.
                     </p>
                     <img src="../img/shangqu/high/a5.jpg" alt="">
                 </div>
                 <div class="schoolBox birm">
-                    <h2>4. 伯明翰特许学校 Birmingham Community Charter High School</h2>
+                    <h2>4. Birmingham Community Charter High School</h2>
                     <img src="../img/shangqu/high/b1.jpg" alt="">
-                    <p>伯明翰特许学校成立于1953年，是美国最大的学区洛杉矶联合学区中排名第四的特许学校，1960年，二战后不少东部或者中西部搬迁到洛杉矶西北部的中产阶级的孩子在这所学校就读。</p>
-                    <p>2009年伯明翰高中转为特许学校，并且是洛杉矶联合学区最大的学校之一
-                        学校目前有大约4000名学生
-                        大学升学率在80%
-                    </p>
-                    <p>伯明翰高中有出色的艺术类课程及项目</p>
-                    <p>同时，也是很多音乐节目、广告、电视节目的拍摄基地
-                        比如，Can not keep my hands off you ，Missy Elliott的歌曲Gossip Folks、等多首歌曲的录取
-                        2007年的全美模特赛的一个单元的节目也是学校拍摄完成
-                        学校的足球场拍摄过 Everything is Magic. 电影Like father like son的拍摄也是布景。
-                        全美最好的舞蹈团在巡演前，也是在学校进行排练
-                    </p>
+                    <p>Birmingham Community Charter High School is found in 1953, ranked fourth in Charter school of Los Angeles Unified School District, the largest School District in America.</p>
+                    <p>Birmingham Community Charter High School became a Charter school in 2009, and is a school of Los Angeles Unified School District, the largest School District in America, the High School has about 4000 students, with a University enrollment rate of 80%.</p>
+                    <p>Birmingham Community Charter High School has many outstanding art classes and projects.</p>
+                    <p>At the same time, it is also the film base for many music shows, advertisements, and tv shows, for example, Can not keep my hands off you, Missy Elliott’s song Gossip Folks, and many other songs, a unit of the tv show America’s Next Top Model was also filmed at the school in 2007. The soccer field once filmed the movie Everything is Magic. Movie such as Like father like son was also taken place there. The best dancing group also rehearsed at the school before they started their tour.</p>
                     <img src="../img/shangqu/high/b2.jpg" alt="">
-                    <p>Dancing Crazy也在学校进行拍摄</p>
-                    <p>伯明翰学校的篮球、男子足球、曲棍球都有不俗的表现 <br>
-                        2013年，摔跤队获得洛杉矶地区第一名 <br>
-                        2010年，越野赛男女组都获得洛杉矶第一名
-                            <br>
-                        伯明翰有很多校友为知名演艺人士和艺术家
-                    </p>
+                    <p>Dancing Crazy was also filmed at the school.</p>
+                    <p>Birmingham Community Charter High School also has decent performance in basketball, male soccer and hockey.
+                     <br>
+                     Wrestling team achieved first place in Los Angeles area on 2013.
+                     <br>
+                      Both male and female Motocross team achieved first place in Los Angeles on 2010.
+                     <br>
+                     Birmingham Community Charter High School has many alumni that are famous actors and artists.
+                     </p>
                     <img src="../img/shangqu/high/b3.png" alt="">
-                    <p>著名演员及导演Sally Field也毕业有这所学校</p>
+                    <p>Famous actor and director Sally Field also graduated from this school.</p>
                 </div>
                 
             </div>
@@ -580,7 +582,7 @@ NCA (美国教育部区域性认可联盟/North Central Association of Colleges 
             </div>
             <div class="uniContent">
                 <div class="schoolBox uniOverview">
-                    <h2>常青藤大学与各州知名学府深入参观：</h2>
+                    <h2>Visit Ivy League Universities and other prestigious universities of different states:</h2>
                     <p>
                     Harvard, Yale, MIT, Columbia in-depth tours, experience the prestige and feel the pride of Ivy Leagues!
                     </p>

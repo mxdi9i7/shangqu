@@ -473,7 +473,7 @@
                     <p>
                        
                     </p>
-                    <img src="../img/shangqu/cncity/7.png" alt="">
+                    <img src="../img/shangqu/cncity/7.jpg" alt="">
                 </div>
                 <div class="cityBox sh">
                     <h1>3. 上海 Shanghai</h1>
@@ -514,7 +514,7 @@ Shanghai has the largest number of international schools of any city in China. I
                     <p>
                     Beijing formerly romanized as Peking, is the capital of the People's Republic of China and the world's second most populous city proper and most populous capital city. The city, located in northern China, is governed as a direct-controlled municipality under the national government with 16 urban, suburban, and rural districts. Beijing Municipality is surrounded by Hebei Province with the exception of neighboring Tianjin Municipality to the southeast; together the three divisions form the Jingjinji metropolitan region and the national capital region of China. 
                     </p>
-                    <img src="../img/shangqu/cncity/13.jpg" alt="">
+                    <img src="../img/shangqu/cncity/13.png" alt="">
                     <p>
                     As a city combining both modern and traditional architecture, Beijing is an ever-changing megacity rich in history but also truly modern, exemplified in its global influence in politics, business & economy, education, history, culture, language, music, sporting, architecture, civilization, fashion, art, entertainment, innovation, and technology. Beijing is the second largest Chinese city by urban population after Shanghai and is the nation's political, cultural, and educational center. It is home to the headquarters of most of China's largest state-owned companies and is a major hub for the national highway, expressway, railway, and high-speed rail networks. The Beijing Capital International Airport has been the second busiest in the world by passenger traffic since 2010, and, as of 2016, the city's subway network is the busiest and second longest in the world, after Shanghai's subway system.
                     </p>
