@@ -208,7 +208,7 @@
                 </div>
                 
                 <div class="col-md-6">
-                    <a class="articleBlock" href="../events/9.php" style="background-image:url(../img/shangqu/10/img/1.jpg)">
+                    <a class="articleBlock" href="../events/10.php" style="background-image:url(../img/shangqu/10/img/1.jpg)">
                         <h1>
                         玩完这个，你会觉得以前玩的都不是运动
                         </h1>
@@ -233,7 +233,7 @@
                 </div>
 
                 <div class="col-md-6">
-                    <a class="articleBlock" href="../events/10.php" style="background-image:url(../img/shangqu/9/img/1.jpg)">
+                    <a class="articleBlock" style="background-image:url(../img/shangqu/9/img/1.jpg)">
                         <h1>
                         春回大地，美丽绽放！一年一度【世界最大室内花展】+百年农夫市场美食品尝，阳春三月，跟我来！
                         </h1>
