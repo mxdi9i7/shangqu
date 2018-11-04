@@ -1,4 +1,126 @@
-<?php include '../partials/head.php' ?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Meta tag -->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="">
+    <meta name='copyright' content='qdonow'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Title Tag -->
+    <title>尚趣</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="../img/shangqu/logo.jpg">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,300,400,500,700,900" rel="stylesheet">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="../css/font-awesome.min.css">
+
+    <!-- Slick Nav CSS -->
+    <link rel="stylesheet" href="../css/slicknav.min.css">
+
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="../css/owl.theme.default.css">
+    <link rel="stylesheet" href="../css/owl.carousel.min.css">
+
+    <!-- Magnific Popup CSS -->
+    <link rel="stylesheet" href="../css/magnific-popup.css">
+
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="../css/animate.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.theme.default.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css" />
+    <!-- Theme Style CSS -->
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/responsive.css">
+    <link rel="stylesheet" href="../css/custom.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+          <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+</head>
+
+<body id="home" data-spy="scroll">
+    <!-- Start Header -->
+    <header id="header" class="header bg-color fixed-top">
+        <!-- Header Inner -->
+        <div class="header-outter">
+            <div class="container">
+                <nav class="navbar header-inner navbar-expand-md">
+                    <div class="col-12 col-md-2 pl-md-0">
+                        <!-- Logo -->
+                        <div class="navbar-brand header-logo py-1">
+                            <img src="../img/shangqu/logo.jpg" alt="" >
+                            <a class="logoText" href="index.php">NobleFun</a>
+                        </div>
+                        <!--/ End Logo -->
+                    </div>
+                    <div class="col-12 col-md-10 pr-md-0">
+                        <!-- Nav -->
+                        <div class="header-nav">
+                            <div class="header-nav__mobile d-md-none"></div>
+                            <div class="header-nav__main collapse navbar-collapse justify-content-end">
+                                <ul class="nav navbar-nav navAnimateBorder">
+                                    <li class="nav-item" id="homeLink">
+                                        <a class="nav-link"  href="./index.php">Home <span class="sr-only">(current)</span></a>
+                                    </li>
+                                    <li class="nav-item"  id="aboutLink">
+                                        <a class="nav-link" href="./about.php">About us</a>
+                                    </li>
+                                    <li class="nav-item" id="cityLink">
+                                        <a class="nav-link"  href="./city.php">Cities</a>
+                                    </li>
+                                    <li class="nav-item" id="schoolLink">
+                                        <a class="nav-link"  href="./school.php">Education</a>
+                                    </li>
+                                    <li class="nav-item" id="eventsLink">
+                                        <a class="nav-link"  href="./events.php">Events</a>
+                                    </li>
+                                    <li class="nav-item" id="jobLink">
+                                        <a class="nav-link"  href="./jobs.php">Jobs</a>
+                                    </li>
+                                    <li class="nav-item" id="newsLink">
+                                        <a class="nav-link"  href="./news.php">Press</a>
+                                    </li>
+                                    <li class="nav-item" id="contactLink">
+                                        <a class="nav-link"  href="./contact.php">Contact</a>
+                                    </li>
+                                    <div class="lang">
+                                        <a href="#" id="lang-toggle" class="lang__option lang__option--current">
+                                        EN <span class="lang__chevron">›</span>
+                                        </a>
+                                        <ul class="lang__list">
+                                            <li>
+                                            <a href="../cn/index.php" class="lang__option">CN</a>
+                                            </li>
+                                        </ul>  
+                                    </div>
+                                    <li class="lang-text nav-item">
+                                        <a href="../cn/index.php">CN</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--/ End Nav -->
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <!--/ End Header Inner -->
+    </header>
+    <!--/ End Header -->
+
 <link rel="stylesheet" href="../css/custom.css">
     <input type="text" value="school" type="hidden" id="activeIdentifier" hidden>
     <section class="schoolSection">
@@ -16,70 +138,70 @@
                 
             </div>
             <div class="floatingBtn">
-                <a class="btn btn-sm btn-simple btn-simple__blue" id="highBtn">假期赴美知名学府1-4周英语学习定制</a>
-                <a class="btn btn-sm btn-simple btn-simple__blue" id="exchangeBtn">小学初中赴美插班生1-4周学习体验</a>
-                <a class="btn btn-sm btn-simple btn-simple__blue" id="uniBtn">常青藤名校深度游览、北美名胜参观</a>
-                <a class="btn btn-sm btn-simple btn-simple__blue" id="homestayBtn">寄宿家庭住宿</a>
+                <a class="btn btn-sm btn-simple btn-simple__blue" id="highBtn">1-4 Week Study English Abroad Program</a>
+                <a class="btn btn-sm btn-simple btn-simple__blue" id="exchangeBtn">1-4 Week Local School Curriculum Explorer Program</a>
+                <a class="btn btn-sm btn-simple btn-simple__blue" id="uniBtn">Ivy League Schools and Attractions Tour</a>
+                <a class="btn btn-sm btn-simple btn-simple__blue" id="homestayBtn">Homestay Program</a>
             </div>
             <div class="floatingLinks" id="floatingLinks">
                 <ul id="exList">
                     <li>
-                        <a id="exoverviewtab">项目优势</a>
+                        <a id="exoverviewtab">Program Benefits</a>
                     </li>
                     <li>
-                        <a id="exschedule">插班生常规参考课程</a>
+                        <a id="exschedule">Curriculum Overview</a>
                     </li>
                     <li>
-                        <a id="caminotab">艾尔卡米诺特许高中</a>
+                        <a id="caminotab">Camino Real Charter High School</a>
                     </li>
                     <li>
-                        <a id="plumtab">宾夕法尼亚州普朗姆学区</a>
+                        <a id="plumtab">PLUM Schools district</a>
                     </li>
                     <li>
-                        <a id="martintab">安纳波利斯圣马丁路德学校</a>
+                        <a id="martintab">St. Martin's Lutheran School of Annapolis</a>
                     </li>
                     <li>
-                        <a id="birmtab">伯明翰特许学校</a>
+                        <a id="birmtab">Birmingham Community Charter High School</a>
                     </li>
                 </ul>
                 <ul id="highList">
                     <li>
-                        <a id="youshitab">项目优势</a>
+                        <a id="youshitab">Program Overview</a>
                     </li>
                     <li>
-                        <a id="elementarytab">小学常规课程</a>
+                        <a id="elementarytab">Primary School Curriculum</a>
                     </li>
                     <li>
-                        <a id="middletab">初中常规课程</a>
+                        <a id="middletab">Middle School Curriculum</a>
                     </li>
                     <li>
-                        <a id="hightab">高中常规课程</a>
+                        <a id="hightab">High school Curriculum</a>
                     </li>
                     <li>
-                        <a id="harvardtab">哈佛大学</a>
+                        <a id="harvardtab">Harvard University</a>
                     </li>
                     <li>
-                        <a id="mittab">麻省理工大学</a>
+                        <a id="mittab">M.I.T.</a>
                     </li>
                     <li>
-                        <a id="yaletab">耶鲁大学</a>
+                        <a id="yaletab">Yale University</a>
                     </li>
                     <li>
-                        <a id="whartab">沃顿商学院</a>
+                        <a id="whartab">Wharton School</a>
                     </li>
                     <li>
-                        <a id="caltab">加州州立大学</a>
+                        <a id="caltab">California State University</a>
                     </li>
                     <li>
-                        <a id="nyutab">纽约大学</a>
+                        <a id="nyutab">New York University</a>
                     </li>
                     <li>
-                        <a id="akutab">阿肯色理工大学</a>
+                        <a id="akutab">Arkansas Tech University</a>
                     </li>
                 </ul>
                 <ul id="uniList">
                     <li>
-                        <a id="uniOverview">项目介绍</a>
+                        <a id="uniOverview">Program Overview</a>
                     </li>
                 </ul>
             </div>
@@ -87,54 +209,57 @@
                 
                 <div class="schoolBox overviewtab">
                     <hr>
-                    <h2>-项目优势-</h2>
+                    <h2>-Program Benefits-</h2>
                     <ol>
-                        <li>中美学生结对子美国课堂实景教学</li>
-                        <li>美国东部名城名校游览</li>
-                        <li>美国校园丰富多彩课后活动</li>
-                        <li>美国寄宿家庭感受美式文化</li>
+                        <li>Student partner program that pairs our student up with an American student in a real classroom setting.</li>
+                        <li>Specialized tours to cities and schools of East Coast.</li>
+                        <li>Lots of extracurriculums and in school activities.</li>
+                        <li>Experience lives of Americans first hand in our Homestay program.</li>
                     </ol>
                     <hr>
-                    <h2>-适合对象-</h2>
+                    <h2>-Targeted Students-</h2>
                     <ol>
-                        <li>8 -18岁的青少年学生</li>
-                        <li>有一定的英文听说读写基础，可以在课堂上进行交流 </li>
-                        <li>未来有计划去美国读高中和大学，希望体验美国家庭生活和美国文化的学生</li>
+                        <li>Students age between 8 - 18</li>
+                        <li>Comfortable in conversations with English speakers</li>
+                        <li>Has plans to study abroad in America for high school or college.</li>
                     </ol>
                     <hr>
                     <p>
-                    插班到不同的班级里与美国当地孩子们一起上课，一起学习和生活，我们特别欢迎对数学、计算机、人文学科、历史、设计，美术，科学实验和写作有兴趣的学生加入。
+                    Blend into American classrooms and study, live, and have fun together with local students. We welcome those who are particularly interested in
+                    mathematics, computer science, liberal arts, history, design, arts, and writing.
                     </p>
                     <p>
-                    本项目整合美国院校及教学研究机构的强力资源，为学生提供优良的教学环境及优秀的师资教学团队，让学生在寓教于乐中感受美国精英教育，培养学生的独立学习意识，对学生未来的学习及升学奠定良好基础，课程结束颁发证书，整个学习过程中中美学生互动学习，感受美国校园文化，融入美式生活。
+                    Our program integrates education institutions across the United States and utilize our rich resources to provide world class education environment and top of the notch teaching team to our students.
+                    Students will be taught with elite education while developing independent characters. Students will benefit greatly from these traits in the pursuits of higher education.
+                    Every student will receive a certificate of completion at the end of the program. 
                     </p>
                 </div>
                 <div class="schoolBox exschedule">
-                    <h2>小学插班生常规参考课程</h2>
+                    <h2>Primary school curriculums</h2>
                     <img src="../img/shangqu/x1.png" alt="">
-                    <h2>初中插班生常规课参考课程</h2>
+                    <h2>Middle school curriculums</h2>
                     <img src="../img/shangqu/x2.png" alt="">
-                    <h2>小学插班生常规课程+西班牙语+特色音乐电脑科技课程</h2>
+                    <h2>Speicalized primary school curriculums (Computers, Spanish and Arts)</h2>
                     <img src="../img/shangqu/x3.png" alt="">
                 </div>
                 <div class="schoolBox camino">
-                    <h2>1. 艾尔卡米诺特许高中EL Camino Real Charter High School</h2>
+                    <h2>1. Camino Real Charter High School</h2>
                     <p>
-                    大本营学校：美国加利佛尼亚州艾尔卡米诺特许高中EL Camino Real Charter High School
-                    <br>
-                        建校时间：1969年建校 
                         <br>
-                        学校性质：综合性四年制公立高中，由“美国学校和学院西部协会”（WASC）正式鉴定和认可
+                        Founding Year：1969 
                         <br>
-                        年级设置：9-12年级
+                        School Property：A comprehensive four-year public high school, 
+                        formally identified and recognized by the Western Association of Schools and Colleges (WASC)
                         <br>
-                        学生人数：3700人
+                        Grades：9-12 Grade
                         <br>
-                        地理位置：位于加利福尼亚州洛杉矶以北20英里
+                        Students Enrollment: 3700
                         <br>
-                        学校荣誉：加利福尼亚杰出学校
-
+                        Location: 20 miles north of Los Angeles in California
+                        <br>
+                        School Honors: The California Distinguished School
                     </p>
+
                     <div class="row">
                         <div class="col-md-4">
                             <img src="../img/shangqu/high/1.jpg" alt="">
@@ -151,7 +276,7 @@
                         <div class="col-md-8">
                             <img src="../img/shangqu/high/5.jpg" alt="">
                         </div>
-                        <p>（ 奥巴马在白宫接见了2010年全国冠军，埃尔卡密诺高中学术十项全能队）</p>
+                        <p>(Obama met at the White House with the 2010 National Champion)</p>
                         <div class="col-md-12">
                             <img src="../img/shangqu/high/6.png" alt="">
                         </div>
@@ -166,125 +291,131 @@
                         </div>
                         <div class="col-md-6">
                             <img src="../img/shangqu/high/s1.jpg" alt="">
-                            <p>科学课</p>
+                            <p>Science Class</p>
                         </div>
                         <div class="col-md-6">
                             <img src="../img/shangqu/high/s2.jpg" alt="">
-                            <p>文学课</p>
+                            <p>Literature Class</p>
                         </div>
                         <div class="col-md-6">
                             <img src="../img/shangqu/high/s3.jpg" alt="">
-                            <p>演讲课</p>
+                            <p>Speech Class</p>
                         </div>
                         <div class="col-md-6">
                             <img src="../img/shangqu/high/s4.jpg" alt="">
-                            <p>英语课</p>
+                            <p>English Class</p>
                         </div>
                         <div class="col-md-6">
                             <img src="../img/shangqu/high/s5.jpg" alt="">
-                            <p>数学课</p>
+                            <p>Math Class</p>
                         </div>
                         <div class="col-md-6">
                             <img src="../img/shangqu/high/s6.jpg" alt="">
-                            <p>写作课</p>
+                            <p>Writing Class</p>
                         </div>
                         <div class="col-md-12">
                             <img src="../img/shangqu/high/s7.png" alt="">
-                            <p>木工，汽修，表演课程</p>
+                            <p>Carpenter，Automobile，Performing Programs</p>
                         </div>
                         <div class="col-md-4">
                             <img src="../img/shangqu/high/s8.jpg" alt="">
-                            <p>音乐课</p>
+                            <p>Music Class</p>
                         </div>
                         <div class="col-md-4">
                             <img src="../img/shangqu/high/s9.jpg" alt="">
-                            <p>足球课</p>
+                            <p>Football Class</p>
                         </div>
                         <div class="col-md-4">
                             <img src="../img/shangqu/high/s10.jpg" alt="">
-                            <p>篮球课</p>
+                            <p>Basketball Class</p>
                         </div>
-                        <h4>其他课程：单独安排美国学校老师为我们开设中美文化差异和大学升学指导课程。</h4>
+                        <h4>Other Courses: The school arranges the special courses of 
+                        Culture Differences Education and College Tutorials.
+                        </h4>
                         <div class="col-md-8">
                             <img src="../img/shangqu/high/s11.jpg" alt="">
-                            <p>中美文化差异课</p>
+                            <p>Culture Differences Education</p>
                         </div>
                         <div class="col-md-8">
                             <img src="../img/shangqu/high/s12.jpg" alt="">
-                            <p>大学升学指导课</p>
+                            <p>University Tutorials</p>
                         </div>
                     </div>
                 </div>
+
                 <div class="schoolBox plum">
-                    <h2>2. 宾夕法尼亚州普朗姆学区 PLUM Schools district</h2>
-                    <p>普朗姆学区位于宾夕法尼亚州匹兹堡市区，普朗姆学区被评选为宾州最好的六个学区之一。联邦政府“不让任何孩子掉队” 政策示范学校。</p>
+                    <h2>2. PLUM Schools district</h2>
+                    <p>PLUM School district position in Pittsburgh, Pennsylvania, PLUM School has been elected for one of the best 6 School district in Pennsylvania. One of the school that is testing out the Federal Government policy of “No children left behind”.</p>
                     <img src="../img/shangqu/high/p1.jpg" alt="">
-                    <p>学区运营六所学校,包括普朗姆高中(9- 12),Oblock初中(7至8),和四个小学(K-6th):服务中心小学,假日公园小学,Pivik小学,摄政公园小学。</p>
+                    <p>The school district includes six schools, Plum Senior High School (9-12), Oblock Junior High School (7-8), and four Elementary School (K-6): Center Elementary School, Holiday Park Elementary School, Pivik Elementary School, and Regency Park Elementary school.
+                    </p>                    
                     <img src="../img/shangqu/high/p2.jpg" alt="">
-                    <p>普朗姆高中高中位于Elicker路900号,匹兹堡市，学生数量1782人。学校聘有101名教师, 据宾夕法尼亚教育部的一份报告，普朗姆高中所有教师均获得"Highly Qualified” 称号。《匹兹堡商业时报》评比学校为美国东部高中排名46位，PSSAs排名43位。</p>
+                    <p>Plum Senior High School is located on Elicker Road, 900, with 1,782 students. The school has 101 teachers, according to a report by Pennsylvania Board of Education, all teachers of Plum Senior High School has been titled “Highly Qualified”. < Pittsburgh Business Times> ranked the school as the 46th in America East High School, and ranked 43rd on PSSAs.
+                    </p>                    
                     <img src="../img/shangqu/high/p3.jpg" alt="">
                     <img src="../img/shangqu/high/p4.jpg" alt="">
                 </div>
                 <div class="schoolBox martin">
-                    <h2>3. 安纳波利斯圣马丁路德学校 St. Martin's Lutheran School of Annapolis</h2>
+                    <h2>3. St. Martin's Lutheran School of Annapolis</h2>
                     <img src="../img/shangqu/high/a1.jpg" alt="">
-                    <p> St. Martin's Lutheran School of Annapolis安纳波利斯圣马丁路德学校建校于1963年， 50多年以来，安纳波利斯圣马丁路德学校从托幼机构发展成三岁至八年级的学校，为安纳波利斯社区的孩子提供了优质的教育。</p>
+                    <p>St. Martin's Lutheran School of Annapolis is established in 1963, and grew from daycare to a school educating children from age of 3 to 8th grade over the 50 years, provided high quality of education for the children in Annapolis Community.
+                    </p>
                     <img src="../img/shangqu/high/a2.jpg" alt="">
-                    <p> St. Martin's Lutheran School of Annapolis安纳波利斯圣马丁路德学校规模不大，却有着许多优秀的教育工作者，为学生们成功进入优秀的高中提供了优质的教育和协助。</p>
+                    <p>Even though St. Martin's Lutheran School of Annapolis is small in scale, they have many excellent educators, provided high quality of education and help to the student in getting into a good Senior High School.
+                    </p>
                     <img src="../img/shangqu/high/a3.jpg" alt="">
-                    <p> St. Martin's Lutheran School of Annapolis安纳波利斯圣马丁路德学校距离华盛顿特区、切萨皮克海湾、巴尔的摩、大洋城都非常近。</p>
+                    <p>St. Martin's Lutheran School of Annapolis is very close to Washington DC, Chesapeake Bay, Baltimore, and Ocean City.
+                    </p>                    
                     <img src="../img/shangqu/high/a4.jpg" alt="">
-                    <p>课程设置：数学，科学，英语，社会科学，西班牙语，艺术，音乐，体育
+                    <p>Course：Math, Science, English, Social Science, Spanish, Art, Music, Physical Education.
                         <br>
-                        体育活动：足球，篮球
+                        Physical Activities: soccer, basketball
                         <br>
-                        社团和俱乐部：合唱队，音乐，自然与户外俱乐部，机器人小组，志愿者活动等
+                        Student Societies and Clubs: Chorus, music, nature and outdoor clubs, robotics groups, volunteer activities and more.
                     </p>
                     <img src="../img/shangqu/high/a5.jpg" alt="">
                 </div>
                 <div class="schoolBox birm">
-                    <h2>4. 伯明翰特许学校 Birmingham Community Charter High School</h2>
+                    <h2>4. Birmingham Community Charter High School</h2>
                     <img src="../img/shangqu/high/b1.jpg" alt="">
-                    <p>伯明翰特许学校成立于1953年，是美国最大的学区洛杉矶联合学区中排名第四的特许学校，1960年，二战后不少东部或者中西部搬迁到洛杉矶西北部的中产阶级的孩子在这所学校就读。</p>
-                    <p>2009年伯明翰高中转为特许学校，并且是洛杉矶联合学区最大的学校之一
-                        学校目前有大约4000名学生
-                        大学升学率在80%
-                    </p>
-                    <p>伯明翰高中有出色的艺术类课程及项目</p>
-                    <p>同时，也是很多音乐节目、广告、电视节目的拍摄基地
-                        比如，Can not keep my hands off you ，Missy Elliott的歌曲Gossip Folks、等多首歌曲的录取
-                        2007年的全美模特赛的一个单元的节目也是学校拍摄完成
-                        学校的足球场拍摄过 Everything is Magic. 电影Like father like son的拍摄也是布景。
-                        全美最好的舞蹈团在巡演前，也是在学校进行排练
-                    </p>
+                    <p>Birmingham Community Charter High School is found in 1953, ranked fourth in Charter school of Los Angeles Unified School District, the largest School District in America.</p>
+                    <p>Birmingham Community Charter High School became a Charter school in 2009, and is a school of Los Angeles Unified School District, the largest School District in America, the High School has about 4000 students, with a University enrollment rate of 80%.</p>
+                    <p>Birmingham Community Charter High School has many outstanding art classes and projects.</p>
+                    <p>At the same time, it is also the film base for many music shows, advertisements, and tv shows, for example, Can not keep my hands off you, Missy Elliott’s song Gossip Folks, and many other songs, a unit of the tv show America’s Next Top Model was also filmed at the school in 2007. The soccer field once filmed the movie Everything is Magic. Movie such as Like father like son was also taken place there. The best dancing group also rehearsed at the school before they started their tour.</p>
                     <img src="../img/shangqu/high/b2.jpg" alt="">
-                    <p>Dancing Crazy也在学校进行拍摄</p>
-                    <p>伯明翰学校的篮球、男子足球、曲棍球都有不俗的表现 <br>
-                        2013年，摔跤队获得洛杉矶地区第一名 <br>
-                        2010年，越野赛男女组都获得洛杉矶第一名
-                            <br>
-                        伯明翰有很多校友为知名演艺人士和艺术家
-                    </p>
+                    <p>Dancing Crazy was also filmed at the school.</p>
+                    <p>Birmingham Community Charter High School also has decent performance in basketball, male soccer and hockey.
+                     <br>
+                     Wrestling team achieved first place in Los Angeles area on 2013.
+                     <br>
+                      Both male and female Motocross team achieved first place in Los Angeles on 2010.
+                     <br>
+                     Birmingham Community Charter High School has many alumni that are famous actors and artists.
+                     </p>
                     <img src="../img/shangqu/high/b3.png" alt="">
-                    <p>著名演员及导演Sally Field也毕业有这所学校</p>
+                    <p>Famous actor and director Sally Field also graduated from this school.</p>
                 </div>
                 
             </div>
             <div class="homeContent">
                 <div class="schoolBox">
-                    <h2>Homestay寄宿家庭住宿，体验美国本土文化</h2>
+                    <h2>Homestay Program, experience the lives of Americans</h2>
                     <p>
-                    寄宿家庭旨在提高外语水平，促进了解国外文化。当孩子被送到一所学校，远离他们所熟悉的世界。这使他们有机会接触不同背景的学生，可以让他们学习到不同的文化。寄宿是孩子们最好选择。不仅给孩子们提供了更多的安全性、社会互动和家的感觉，作为家长，还让您的孩子在寄宿家庭里更放心。寄宿家庭也能时刻照顾着您的孩子，还给予他们充分的自由、社会生活和乐趣。他们可以与他们的寄宿家庭建立毕生的友谊，这无疑也是一种财富！
+                    Homestay programs are designed to improve students' ability in English and learn about foreign cultures and traditions.
+                    Where students are sent to a school, away from the environment that they are so used to.
+                    Homestay programs are the best choices for students who prefer a secure enviroment and a home-like social setting. As parents, 
+                    having your children staying in a local American home give you a peace of mind because the host family will take care of everything while
+                    ensuring that the students have the freedom, love, and fun. Most of the students end up making lifelong friends with their host families.
                     </p>
                     <ol>
-                        <li>一个说英文的家庭</li>
-                        <li>一个私人的房间</li>
-                        <li>一个舒适的床</li>
-                        <li>一个床头柜、台灯、书桌、衣柜或者梳妆台和镜子</li>
-                        <li>工作日提供两餐（午餐在学校吃）和周末会提供三餐</li>
-                        <li>一个私人或共用的浴室</li>
-                        <li>互联网</li>
-                        <li>寄宿家庭安排的学校接送</li>
+                        <li>An English speaking family</li>
+                        <li>A private room</li>
+                        <li>A comfortable bed</li>
+                        <li>Furnitures that will support the needs of students</li>
+                        <li>Two meals during weekdays and three during weekends (weekday lunches are provided by schools)</li>
+                        <li>A bathroom</li>
+                        <li>Internet Access</li>
+                        <li>Arranged pickups from school and home</li>
                     </ol>
                     <img src="../img/shangqu/home/1.png" alt="">
                     <img src="../img/shangqu/home/2.png" alt="">
@@ -537,48 +668,51 @@ NCA (美国教育部区域性认可联盟/North Central Association of Colleges 
                     <img src="../img/shangqu/uni/c3.jpg" alt="">
                 </div>
                  <div class="schoolBox elemtab">
-                    <h2>小学插班生常规参考课程</h2>
+                    <h2>Primary school program curriculums 1</h2>
                     <img src="../img/shangqu/elem/1.png" alt="">
-                    <h2>小学插班生特色课程</h2>
+                    <h2>Primary school program curriculums 2</h2>
                     <img src="../img/shangqu/elem/2.png" alt="">
-                    <h2>小学常规课程表</h2>
+                    <h2>Primary school regular curriculums</h2>
                     <img src="../img/shangqu/elem/5.png" alt="">
                 </div>
                 <div class="schoolBox middletab">
-                    <h2>初中插班生常规参考课程</h2>
+                    <h2>Middle school program curriculums</h2>
                     <img src="../img/shangqu/elem/3.png" alt="">
-                    <h2>初中常规课程参考</h2>
+                    <h2>Middle school regular curriculums</h2>
                     <img src="../img/shangqu/elem/4.png" alt="">
                 </div>
                 <div class="schoolBox hightab">
-                    <h2>高中常规特色课程</h2>
+                    <h2>High school program curriculums</h2>
                     <img src="../img/shangqu/elem/2.png" alt="">
                 </div>
                 <div class="schoolBox youshi">
                     <hr>
-                    <h1>项目优势</h1>
-                    <h2>英文强化训练，适合小学、初中、高中以及大学生。</h2>
+                    <h1>Program Benefits</h1>
+                    <h2>Intensive English courses, good for students from primary school to high school.</h2>
                     <img src="../img/shangqu/c4.png" alt="">
                     <p>
-                    由学校老师带领参与不同的学校暑期活动和训练营，丰富课程，纯美式生 活体验，课程为数学、英语、社会科学、科技、口语及写作训练、音乐、美术、物理、化 学等。增加学生在海外学习与实践的经历，开拓国际化视野。不仅能使学生和带队老师亲身体验美国主流社会和学 生生活，组织和领导能力培训和英文强化训练等，还能深入了解美国教育的特点，在实践中培养学生创新意识及组织沟通能力，尚趣通过根据中方和学生的情况和要求，专门设计和组织夏令营的内容，如领导力培训、科技创新、工作实习、留学指南等多种形式的夏令营，使学生们获得最大的收益。
+                    Participate in a variety of summer camps, activities and enriched curriculums. We offer Math, English, Social Studies, Technology, Public Speaking and Intensive Writing courses. 
+                    We also offer a variety of liberal arts curriculum such as Music, Arts, Physics and Chemistry. While the students experience a world class hoslistic education, we also train them on 
+                    leadership, organization skills and intensive English courses. Students will get the first hand practical experience in an American education while developing new concepts of teamwork and social skills.
+                    Noblefun designs and organizes summer camp activities accoding to the demands and needs of our students, we work hard to make sure that every student walks away with valuable lessons and a fun time. 
                     </p>
                     <p>
-                    可参考学习安排（可根据不同要求在英语听说读写的学习中，加入科技、美术、音乐、演讲、物理、化学等专业课程）
+                    For more information, please visit the links above to learn more about the public school curriculums our partner schools offer.
                     </p>
                 </div>
                 
             </div>
             <div class="uniContent">
                 <div class="schoolBox uniOverview">
-                    <h2>常青藤大学与各州知名学府深入参观：</h2>
+                    <h2>Visit Ivy League Universities and other prestigious universities of different states:</h2>
                     <p>
-                    哈佛大学、耶鲁大学、麻省理工、哥伦比亚大学等深入参观，耳濡目染名校的魅力！
+                    Harvard, Yale, MIT, Columbia in-depth tours, experience the prestige and feel the pride of Ivy Leagues!
                     </p>
                     <p>
-                    知名景点参观游览，听未听过的历史故事，了解一段又一段传奇人物的事迹，踏遍北美，边行边学习。
+                    Famous attractions tour, learn the history, study the legends and travel across the United States.
                     </p>
                     <p>
-                    看看孩子们开心的笑容，还等什么呢？Come on！咱们温暖的大家庭期待您的加入！
+                    Come on! Contact us to inquire about our latest program information!
                     </p>
                     <img src="../img/shangqu/uni/o1.png" alt="">
                     <img src="../img/shangqu/uni/o2.png" alt="">
@@ -594,8 +728,164 @@ NCA (美国教育部区域性认可联盟/North Central Association of Colleges 
             </div>
         </section>
     </section>
-<?php include '../partials/footer.php' ?>
 
+   
+
+<!-- Footer -->
+<footer id="footer" class="footer bg-color bg-dark">
+    <!-- Footer Main -->
+    <div class="footer-main py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-8">
+                    <!-- Footer Logo -->
+                    <div class="footer-main__logo">
+                    Noblefun Educational Communications
+                    </div>
+                    <!--/ End Footer Logo -->
+                </div>
+                <div class="col-12 col-sm-4 col-md-4">
+                    <!-- Footer Social -->
+                    <div class="footer-main__social">
+                        <ul class="nav justify-content-center justify-content-md-end">
+                            <li class="nav-item">
+                                <a href="#" class="nav-link"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#" class="nav-link"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#" class="nav-link"><i class="fa fa-instagram"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--/ End Footer Menu -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--/ End Footer Main -->
+    <!-- Footer Description -->
+    <div class="footer-description py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-6">
+                Shang (Noble) - respect and respected, Qu (Fun) - passion and positivity, we take you to explore the world, with children across the United States!
+                </div>
+                <div class="col-12 col-md-6">
+                    <!-- Copyright -->
+                    <div class="copyright text-md-right">
+                        &copy; Noblefun Educational Communications 2017 All rights reserved.
+                    </div>
+                    <!--/ End Copyright -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--/ End Footer Description -->
+</footer>
+<!--/ End Footer -->
+
+<!-- PreLoader -->
+<!-- <div class="loader">
+    <div class="loader-inner">
+        <div class="loader-cube"></div>
+        <div class="loader-cube"></div>
+        <div class="loader-cube"></div>
+        <div class="loader-cube"></div>
+    </div>
+</div> -->
+<!--/ End PreLoader -->
+
+<!-- jQuery JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!-- jQuery Easing JS -->
+<script type="text/javascript" src="../js/jquery.easing.js"></script>
+
+<!-- Popper JS -->
+<script type="text/javascript" src="../js/popper.min.js"></script>
+
+<!-- Bootstrap JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
+
+<!-- Modernizr JS -->
+<script type="text/javascript" src="../js/modernizr.min.js"></script>
+
+<!-- Isotope & Masonry JS -->
+<script type="text/javascript" src="../js/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="../js/masonry.pkgd.min.js"></script>
+
+<!-- Appear JS -->
+<script type="text/javascript" src="../js/jquery.appear.js"></script>
+
+<!-- Scroll Up JS -->
+<script type="text/javascript" src="../js/jquery.scrollUp.min.js"></script>
+
+<!-- Wow JS -->
+<script type="text/javascript" src="../js/wow.min.js"></script>
+
+<!-- Slick Nav JS -->
+<script type="text/javascript" src="../js/jquery.slicknav.min.js"></script>
+
+<!-- Onepage Nav JS -->
+<script type="text/javascript" src="../js/jquery.nav.js"></script>
+
+<!-- Popup JS -->
+<script type="text/javascript" src="../js/jquery.magnific-popup.min.js"></script>
+
+<!-- Steller JS -->
+<script type="text/javascript" src="../js/jquery.stellar.js"></script>
+
+<!-- Youtube Player JS -->
+<script type="text/javascript" src="../js/ytplayer.min.js"></script>
+
+<!-- Particles JS -->
+<script type="text/javascript" src="../js/particles.min.js"></script>
+<script type="text/javascript" src="../js/particle-code.js"></script>
+
+<!-- Gradient JS -->
+<script type="text/javascript" src="../js/granim.min.js"></script>
+<script type="text/javascript" src="../js/gradient-code.js"></script>
+
+<!-- Counterup JS -->
+<script type="text/javascript" src="../js/waypoints.min.js"></script>
+<script type="text/javascript" src="../js/jquery.counterup.min.js"></script>
+
+<!-- Slider & Owl Carousel JS -->
+<script type="text/javascript" src="../js/owl.carousel.min.js"></script>
+
+<!-- Main JS -->
+<script type="text/javascript" src="../js/main.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
+<script type="text/javascript" src="../js/custom.js"></script>
+<script>
+    $('.owl-carousel').owlCarousel({
+  loop:true,
+  margin:15,
+  stagePadding: 50,
+  nav:false,
+  dots: false,
+  autoplay: true,
+  autoplayTimeout: 3000,
+  autoplayHoverPause: true,
+  navText: [`<span class="fa fa-5x fa-angle-left"></span>`, `<span class="fa fa-5x fa-angle-right"></span>`],
+  responsive:{
+      0:{
+          items:1
+      },
+      600:{
+          items:3
+      },
+      1000:{
+          items:5
+      }
+  }
+})
+
+</script>
+</html>
 <script>
     $('.schoolBox').hide()
     $('#highBtn').addClass('active')
