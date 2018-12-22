@@ -1,4 +1,4 @@
-<?php include '../partials/head.php' ?>
+<?php include '../partials/head.html' ?>
     <input type="text" value="about" type="hidden" id="activeIdentifier">
     <section class="aboutSection">
         <div class="aboutContainer">
@@ -34,4 +34,4 @@
         </div>
     </section>
 
-<?php include '../partials/footer.php' ?>
+<?php include '../partials/footer.html' ?>

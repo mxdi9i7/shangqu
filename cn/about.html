@@ -61,7 +61,7 @@
                         <!-- Logo -->
                         <div class="navbar-brand header-logo py-1">
                             <img src="../img/shangqu/logo.jpg" alt="" >
-                            <a class="logoText" href="index.php">尚趣教育</a>
+                            <a class="logoText" href="index.html">尚趣教育</a>
                         </div>
                         <!--/ End Logo -->
                     </div>
@@ -72,28 +72,28 @@
                             <div class="header-nav__main collapse navbar-collapse justify-content-end">
                                 <ul class="nav navbar-nav navAnimateBorder">
                                     <li class="nav-item" id="homeLink">
-                                        <a class="nav-link"  href="./index.php">首页 <span class="sr-only">(current)</span></a>
+                                        <a class="nav-link"  href="./index.html">首页 <span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item"  id="aboutLink">
-                                        <a class="nav-link" href="./about.php">关于我们</a>
+                                        <a class="nav-link" href="./about.html">关于我们</a>
                                     </li>
                                     <li class="nav-item" id="cityLink">
-                                        <a class="nav-link"  href="./city.php">中美合作城市介绍</a>
+                                        <a class="nav-link"  href="./city.html">中美合作城市介绍</a>
                                     </li>
                                     <li class="nav-item" id="schoolLink">
-                                        <a class="nav-link"  href="./school.php">赴美游学</a>
+                                        <a class="nav-link"  href="./school.html">赴美游学</a>
                                     </li>
                                     <li class="nav-item" id="eventsLink">
-                                        <a class="nav-link"  href="./events.php">精彩活动</a>
+                                        <a class="nav-link"  href="./events.html">精彩活动</a>
                                     </li>
                                     <li class="nav-item" id="jobLink">
-                                        <a class="nav-link"  href="./jobs.php">招聘</a>
+                                        <a class="nav-link"  href="./jobs.html">招聘</a>
                                     </li>
                                     <li class="nav-item" id="newsLink">
-                                        <a class="nav-link"  href="./news.php">新闻发布</a>
+                                        <a class="nav-link"  href="./news.html">新闻发布</a>
                                     </li>
                                     <li class="nav-item" id="contactLink">
-                                        <a class="nav-link"  href="./contact.php">联系我们</a>
+                                        <a class="nav-link"  href="./contact.html">联系我们</a>
                                     </li>
                                     <div class="lang">
                                         <a href="#" id="lang-toggle" class="lang__option lang__option--current">
@@ -101,12 +101,12 @@
                                         </a>
                                         <ul class="lang__list">
                                             <li>
-                                            <a href="../en/index.php" class="lang__option">英文</a>
+                                            <a href="../en/index.html" class="lang__option">英文</a>
                                             </li>
                                         </ul>  
                                     </div>
                                     <li class="lang-text nav-item">
-                                        <a href="../en/index.php">英文</a>
+                                        <a href="../en/index.html">英文</a>
                                     </li>
                                 </ul>
                             </div>

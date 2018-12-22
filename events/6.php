@@ -1,4 +1,4 @@
-<?php include '../partials/head.php' ?>
+<?php include '../partials/head.html' ?>
 <input type="text" value="events" type="hidden" id="activeIdentifier">
 <link rel="stylesheet" type="text/css" href="../css/events.css">
 
@@ -70,4 +70,4 @@
 </section>
 
 
-<?php include '../partials/footer.php' ?>
+<?php include '../partials/footer.html' ?>

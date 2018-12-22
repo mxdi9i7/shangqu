@@ -1,4 +1,4 @@
-<?php include '../partials/head.php' ?>
+<?php include '../partials/head.html' ?>
 <input type="text" value="events" type="hidden" id="activeIdentifier">
 <link rel="stylesheet" type="text/css" href="../css/events.css">
 
@@ -238,7 +238,7 @@
     <img src="../img/shangqu/3/img/34.jpg" alt="" width="100%"> 
 </section>
 
-<?php include '../partials/footer.php' ?>
+<?php include '../partials/footer.html' ?>
 
 
 

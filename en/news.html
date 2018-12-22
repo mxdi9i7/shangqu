@@ -62,7 +62,7 @@
                         <!-- Logo -->
                         <div class="navbar-brand header-logo py-1">
                             <img src="../img/shangqu/logo.jpg" alt="" >
-                            <a class="logoText" href="index.php">NobleFun</a>
+                            <a class="logoText" href="index.html">NobleFun</a>
                         </div>
                         <!--/ End Logo -->
                     </div>
@@ -73,28 +73,28 @@
                             <div class="header-nav__main collapse navbar-collapse justify-content-end">
                                 <ul class="nav navbar-nav navAnimateBorder">
                                     <li class="nav-item" id="homeLink">
-                                        <a class="nav-link"  href="./index.php">Home <span class="sr-only">(current)</span></a>
+                                        <a class="nav-link"  href="./index.html">Home <span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item"  id="aboutLink">
-                                        <a class="nav-link" href="./about.php">About us</a>
+                                        <a class="nav-link" href="./about.html">About us</a>
                                     </li>
                                     <li class="nav-item" id="cityLink">
-                                        <a class="nav-link"  href="./city.php">Cities</a>
+                                        <a class="nav-link"  href="./city.html">Cities</a>
                                     </li>
                                     <li class="nav-item" id="schoolLink">
-                                        <a class="nav-link"  href="./school.php">Education</a>
+                                        <a class="nav-link"  href="./school.html">Education</a>
                                     </li>
                                     <li class="nav-item" id="eventsLink">
-                                        <a class="nav-link"  href="./events.php">Events</a>
+                                        <a class="nav-link"  href="./events.html">Events</a>
                                     </li>
                                     <li class="nav-item" id="jobLink">
-                                        <a class="nav-link"  href="./jobs.php">Jobs</a>
+                                        <a class="nav-link"  href="./jobs.html">Jobs</a>
                                     </li>
                                     <li class="nav-item" id="newsLink">
-                                        <a class="nav-link"  href="./news.php">Press</a>
+                                        <a class="nav-link"  href="./news.html">Press</a>
                                     </li>
                                     <li class="nav-item" id="contactLink">
-                                        <a class="nav-link"  href="./contact.php">Contact</a>
+                                        <a class="nav-link"  href="./contact.html">Contact</a>
                                     </li>
                                     <div class="lang">
                                         <a href="#" id="lang-toggle" class="lang__option lang__option--current">
@@ -102,12 +102,12 @@
                                         </a>
                                         <ul class="lang__list">
                                             <li>
-                                            <a href="../cn/index.php" class="lang__option">CN</a>
+                                            <a href="../cn/index.html" class="lang__option">CN</a>
                                             </li>
                                         </ul>  
                                     </div>
                                     <li class="lang-text nav-item">
-                                        <a href="../cn/index.php">CN</a>
+                                        <a href="../cn/index.html">CN</a>
                                     </li>
                                 </ul>
                             </div>

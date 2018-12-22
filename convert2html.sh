@@ -1,2 +1,2 @@
 #!/bin/bash
-for file in *.php; do php $file > $file.html; done
+for file in *.html; do php $file > $file.html; done
